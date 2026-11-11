@@ -1169,4 +1169,139 @@ ARTICLES = [
  ],
  "note": "The chapter distinguishes the 1985 transition, 1986 parliamentary period, 1989 coup, second civil war, regional insurgencies, Darfur conflict and 2005 CPA. Darfur's conflict is described through political marginalisation, governance, environmental pressures, armed mobilisation and state policy without assigning collective guilt to ethnic communities. The CPA is not presented as ending the Darfur or all other conflicts. Further editions should incorporate more Sudanese-authored scholarship, oral histories, women's histories, regional archives and community testimony."
 }
+,
+ {
+ "id": "second-sudanese-civil-war-1983-2005",
+ "title": "The Second Sudanese Civil War, 1983–2005: origins, movements, civilians and the search for peace",
+ "period": "1983–2005",
+ "region": "Sudan, especially the southern provinces, Nuba Mountains, Blue Nile and border regions",
+ "category": "Wars and conflicts",
+ "summary": "A dedicated, detailed history of the Second Sudanese Civil War: the collapse of the Addis Ababa settlement, the 1983 mutinies and formation of the SPLM/A, shifting military and political strategies, regional fronts, southern factional conflicts, civilian experiences, humanitarian crises, oil, diplomacy and the 2005 Comprehensive Peace Agreement.",
+ "status": "Substantial research chapter; not an exhaustive local or community history",
+ "article_sections": [
+  [
+   "1. A war with roots before 1983",
+   "The Second Sudanese Civil War began in 1983, but its causes developed over a longer period. Sudan's independence in 1956 had not resolved disputes about political representation, regional autonomy, the distribution of public resources, language, religion and the relationship between the capital and peripheral regions. The first north-south civil war ended with the 1972 Addis Ababa Agreement, which established regional autonomy for the south. That settlement brought a decade of relative peace, but important questions remained unresolved: the balance of power between the national government and the Southern Region, the integration of former fighters, development inequalities, control of natural resources and the status of communities living outside the southern provinces. The second war should therefore be understood as the breakdown of a political settlement and the renewal of older conflicts, not as an isolated outbreak of violence."
+  ],
+  [
+   "2. The weakening of the Addis Ababa Agreement",
+   "During the 1970s and early 1980s, the Nimeiri government increasingly centralised authority. Political disputes grew over the boundaries and administration of the Southern Region, the movement of military personnel, development priorities and control of resources. The discovery of oil in the south-central region added a new strategic issue. In 1983, President Jaafar Nimeiri divided the Southern Region into three provinces and dismantled important elements of its autonomous government. In September of that year, he introduced a new application of Islamic law nationally. These measures were widely viewed in the south as a repudiation of the autonomy settlement. The agreement had contained weaknesses from its beginning, but the government's actions sharply undermined confidence in it. Human Rights Watch's research on oil and the war and Douglas H. Johnson's historical work document the political context of this breakdown."
+  ],
+  [
+   "3. Anyanya II and the first armed resistance",
+   "Before the formation of the SPLM/A, armed resistance had already begun to re-emerge. Former fighters from the first civil war and dissatisfied soldiers organised in groups commonly known as Anyanya II. The name connected the new insurgency with the earlier Anyanya movement, but the two periods should not be confused. Anyanya II was not a single, stable organisation with one command throughout its existence. Its members and local forces had varied political aims and relationships. Discontent among southern soldiers was intensified by fears of transfer away from their home areas, poor conditions, the loss of autonomy and the actions of the central government. These early movements formed part of the environment from which the larger SPLM/A emerged."
+  ],
+  [
+   "4. The 1983 mutinies and the formation of the SPLM/A",
+   "In May 1983, soldiers of the Sudanese Army's 105th Battalion mutinied at Bor. Mutinies and defections also occurred around Ayod and Pibor. The soldiers' grievances included orders to transfer them north, disputes over pay and the wider political crisis. The mutinies became a turning point because armed resistance developed into a larger organised insurgency. John Garang, a Sudanese army officer with military training, emerged as a leading figure. The Sudan People's Liberation Army (SPLA) became the movement's military wing, while the Sudan People's Liberation Movement (SPLM) articulated its political programme. The movement was built through alliances among soldiers, former insurgents, political activists and communities affected by state policy. Its early organisation and command were contested and evolved during the war."
+  ],
+  [
+   "5. What did the SPLM/A want?",
+   "The SPLM/A's public political programme initially called for a restructured, united Sudan rather than immediate southern secession. John Garang promoted the idea of a New Sudan: a state in which power, resources and citizenship would be reorganised to overcome domination by a narrow centre. The movement argued that the conflict concerned the political structure of the whole country, not only the status of the south. This position distinguished the SPLM/A leadership from southern separatists who sought independence as the primary objective. However, the movement was internally diverse. Many fighters and civilians joined because they wanted protection, local self-government or an end to government abuses; others favoured self-determination and independence. The political programme changed in practice as the war continued, and disagreements about unity and independence later contributed to internal divisions."
+  ],
+  [
+   "6. Ethiopia, regional alliances and the early war",
+   "The SPLM/A's early development was closely connected to regional politics. Ethiopia under the Derg government provided support and rear bases, while relations with neighbouring states shifted as their governments and security interests changed. Sudan and Ethiopia sometimes supported each other's armed opponents, making the war part of a wider regional conflict system. Eritrean independence, the Ethiopian civil war and changing relations between Khartoum and Addis Ababa all affected the movement's access to territory, supplies and political allies. External support did not determine every decision made by Sudanese actors, but it shaped military capacity and the ability of armed groups to survive. The loss of Ethiopian support after the fall of the Derg in 1991 was a major turning point for the SPLM/A."
+  ],
+  [
+   "7. The geography of the war",
+   "The war was fought across a vast and environmentally varied landscape. Fighting affected the Upper Nile, Bahr el Ghazal and Equatoria regions, as well as the Nuba Mountains and Blue Nile. River systems, seasonal flooding, roads, airstrips, grazing routes and border crossings shaped military movement and humanitarian access. In some areas, government forces held major towns and garrisons while insurgents operated in rural areas; in others, control changed repeatedly. A map of the war must therefore distinguish administrative boundaries from shifting front lines and areas of influence. It is misleading to colour the entire south as continuously controlled by one side. Communities experienced the conflict differently depending on their location, livelihood, local authorities and the presence of armed groups."
+  ],
+  [
+   "8. Government forces, militias and counter-insurgency",
+   "Successive Sudanese governments relied on the regular armed forces, intelligence and security agencies, and a changing range of allied armed groups. In some areas, authorities armed or supported local militias to weaken the SPLA, protect strategic routes or control populations. These arrangements could intensify local conflicts and make it difficult to distinguish national military objectives from local struggles over land, authority and resources. Government counter-insurgency operations caused extensive civilian harm, including displacement and destruction of villages. Armed opposition groups also committed abuses. Responsibility must be assessed through documented incidents and command relationships; it should not be assigned collectively to entire ethnic, regional or religious communities."
+  ],
+  [
+   "9. Civilian life: displacement, family separation and survival",
+   "For civilians, the war meant far more than battles between armies. People fled villages, lost access to farms and grazing lands, were separated from relatives and faced threats at checkpoints and along roads. Some communities moved repeatedly between rural areas, towns, camps and neighbouring countries. Children lost years of schooling; families faced the death or disappearance of relatives; women carried major responsibilities for food production, care and household survival under dangerous conditions. People also developed strategies of adaptation: local trade, kinship networks, cultivation where safe, migration and mutual assistance. A history centred only on commanders and military operations would miss the daily labour through which people survived the war."
+  ],
+  [
+   "10. Recruitment, child soldiers and the militarisation of society",
+   "The conflict drew large numbers of people into armed organisations, sometimes voluntarily and sometimes through coercion, pressure or circumstances in which civilian alternatives had collapsed. Children were recruited or used by armed forces and groups, a practice documented by human-rights organisations. Recruitment patterns varied over time and place. Some young people joined to defend their communities, avenge violence, seek security or obtain food and status; these motivations do not erase coercion or the harm caused by military recruitment. Families and communities also faced pressure from armed actors to provide food, labour, information and recruits. The militarisation of social life affected education, marriage, local leadership and the ability of communities to make independent decisions."
+  ],
+  [
+   "11. Religion, identity and the politics of the state",
+   "The role of religion in the state was one of the central political disputes of the war. The September 1983 laws and the government's wider Islamisation project were strongly opposed by the SPLM/A leadership, which presented the New Sudan as a plural political order. Yet the conflict cannot be reduced to a simple war between Muslims and Christians. Sudan's population included Muslims, Christians and communities with diverse local religious traditions, and many communities combined or interpreted religious practices in different ways. Muslims also fought within opposition movements, and religious identity did not determine a person's political allegiance. Language, land, regional inequality, state power and the distribution of resources were also central to the conflict."
+  ],
+  [
+   "12. The Nuba Mountains and Blue Nile fronts",
+   "The war extended into the Nuba Mountains of South Kordofan and the Blue Nile region, where local communities and SPLA forces challenged the central government's authority. These regions were not part of the former Southern Region and had distinct histories, social structures and political demands. In the Nuba Mountains, local grievances concerned land, political exclusion, cultural rights and the violence of counter-insurgency. The SPLA's alliances there connected local struggles to the wider New Sudan programme. Blue Nile communities also experienced conflict and displacement. The 2005 peace agreement later included separate protocols for Southern Kordofan and Blue Nile, reflecting their special status and the fact that the north-south settlement did not simply make them part of the south."
+  ],
+  [
+   "13. The 1991 split: leadership, strategy and competing visions",
+   "In August 1991, a group associated with Riek Machar, Lam Akol and Gordon Kong announced a challenge to John Garang's leadership. The breakaway faction criticised the movement's command structure and political strategy and called for self-determination for the south. The split reflected real political disagreements, but it also developed amid intense military competition and personal rivalries. It was not a simple or inevitable ethnic division. The breakaway factions gained support in parts of Upper Nile, while the main SPLM/A retained its own command and networks. The division weakened the movement's military position and created new opportunities for the government to support rival southern forces."
+  ],
+  [
+   "14. Internal southern conflict and the human cost",
+   "The 1991 split was followed by devastating violence among southern armed factions and communities. In and around Bor and across parts of Upper Nile, civilians were killed, displaced and deprived of livestock and food. The events commonly associated with the 1991 Bor massacre remain a major part of the historical memory of the war. Responsibility and the sequence of events must be established carefully from testimony and research, rather than simplified into collective blame against Dinka or Nuer people. Political and military leaders made decisions; armed forces carried out attacks; civilians from many communities suffered. The episode demonstrates that the war had several overlapping conflicts: between the government and SPLM/A, and among southern factions competing for authority and resources."
+  ],
+  [
+   "15. The 1990s peace initiatives and breakaway agreements",
+   "The 1990s saw repeated attempts to negotiate settlements. The Intergovernmental Authority on Development (IGAD) developed a regional peace process and, in 1994, issued a Declaration of Principles that addressed self-determination, the relationship between religion and state and the structure of a future settlement. The Khartoum government also signed agreements with breakaway southern factions, including the 1997 Khartoum Peace Agreement and the Fashoda Agreement. These agreements recognised the principle of a referendum on self-determination but did not end the war. Some factions later returned to the SPLM/A or entered new alliances. The agreements reveal that the southern political field was fragmented and that peace negotiations were shaped by both national and regional calculations."
+  ],
+  [
+   "16. Humanitarian crisis and Operation Lifeline Sudan",
+   "The war caused large-scale displacement and repeated food emergencies. Drought, insecurity, loss of harvests, destruction of markets and restrictions on movement made food production and trade difficult. Operation Lifeline Sudan, launched in 1989, was an unusual humanitarian arrangement that negotiated access across front lines to deliver assistance. It saved lives but operated in a highly political environment. Humanitarian agencies faced insecurity, obstruction, diversion of supplies and demands by armed actors. The 1998 famine in Bahr el Ghazal brought international attention to the crisis. Famine was not simply caused by weather: conflict and political decisions shaped who could reach food, who could farm and whether relief could reach people in need."
+  ],
+  [
+   "17. Refugees, internally displaced people and diaspora communities",
+   "Millions of people were forced from their homes during the war. Some fled to Ethiopia, Uganda, Kenya, Democratic Republic of the Congo, Central African Republic and other neighbouring countries; others moved to towns or internally displaced settlements within Sudan. Refugee communities created schools, churches, mosques, cultural associations, political organisations and informal economies. Displacement changed family structures and the relationship between generations. Children born in exile could grow up with limited direct experience of their parents' home areas, while maintaining languages, family histories and political connections. Return after periods of exile was not always straightforward: people encountered destroyed homes, contested land, unexploded ordnance and weak public services."
+  ],
+  [
+   "18. Oil, territory and the financing of war",
+   "Oil exploration and production changed the economic and strategic context of the conflict. Commercial production began in the late 1990s, and exports started in 1999 through a pipeline to Port Sudan. Oil fields and infrastructure were located in politically contested areas, and the expansion of extraction was accompanied by serious allegations and documentation of forced displacement and abuses. Revenue strengthened the central government's financial position, while communities in producing areas often experienced insecurity and inadequate compensation. Oil did not create the war, whose political roots predated commercial production, but it affected the state's capacity to wage war and intensified struggles over land, boundaries and the distribution of wealth."
+  ],
+  [
+   "19. The 2002 Machakos Protocol and the final negotiations",
+   "The IGAD process made a major breakthrough with the Machakos Protocol, signed in July 2002. It established a framework for an interim period and a referendum on self-determination for the south. It also addressed the relationship between religion and state, recognising the special arrangements applying in the south and the need for constitutional guarantees. Further protocols addressed power sharing, wealth sharing, security arrangements and the status of Abyei, Southern Kordofan and Blue Nile. Negotiations involved the Government of Sudan and SPLM/A, with regional and international mediators. Other Sudanese political and civil society constituencies were not equally represented, a limitation that affected the broader legitimacy and reach of the settlement."
+  ],
+  [
+   "20. The Comprehensive Peace Agreement, 9 January 2005",
+   "The Government of Sudan and the SPLM/A signed the Comprehensive Peace Agreement in Nairobi on 9 January 2005. The agreement formally ended the war between the two principal parties and established a six-year interim period. It created power-sharing arrangements, wealth-sharing rules, security provisions, a Government of National Unity and an autonomous Government of Southern Sudan. It provided for a referendum on self-determination for the south at the end of the interim period. Separate protocols addressed Abyei, Southern Kordofan and Blue Nile. The agreement was a major diplomatic achievement, but it did not end every conflict in Sudan. Darfur's war, which had escalated in 2003, continued, and eastern Sudan and other regions retained unresolved political grievances."
+  ],
+  [
+   "21. What the agreement achieved—and what remained unfinished",
+   "The CPA created institutions and a timetable that made a referendum possible, but implementation was difficult. Disputes over oil revenue, boundaries, security arrangements, the status of Abyei and the relationship between national and southern institutions repeatedly strained relations. The agreement also depended heavily on the two main signatories and did not comprehensively include all armed movements or civil society groups. In the Nuba Mountains and Blue Nile, the protocols promised processes of popular consultation whose implementation later became contested. The agreement should therefore be evaluated both as a successful end to the main north-south war and as an incomplete settlement of Sudan's wider political crisis."
+  ],
+  [
+   "22. Historical significance and the need for many histories",
+   "The Second Sudanese Civil War was one of the longest and most destructive conflicts in modern African history. It grew from the failure of political settlements, centralisation, unequal development, disputes over religion and citizenship, regional intervention and competing visions of the state. It was fought by national armies and insurgent movements, but its costs were borne overwhelmingly by civilians. It contained multiple wars and local struggles, including conflicts among southern factions and fighting in the Nuba Mountains and Blue Nile. The 2005 CPA ended the main war between the government and SPLM/A, but the subsequent history showed that unresolved issues remained. A full account must continue to add local archives, women's testimony, community histories, oral accounts, Sudanese scholarship and careful documentation of victims and survivors."
+  ]
+ ],
+ "source_leads": [
+  {
+   "name": "Douglas H. Johnson, The Root Causes of Sudan's Civil Wars, 3rd edition (2016), especially chapters on 1983–85 and the second civil war",
+   "url": "https://boydellandbrewer.com/9781847011173/the-root-causes-of-sudans-civil-wars/"
+  },
+  {
+   "name": "Human Rights Watch, Sudan, Oil, and Human Rights (2003), including the resumption of civil war and oil-producing areas",
+   "url": "https://www.hrw.org/reports/2003/sudan1103/"
+  },
+  {
+   "name": "United Nations Mission in Sudan, Background to the Comprehensive Peace Agreement",
+   "url": "https://peacekeeping.un.org/sites/default/files/past/unmis/background.shtml"
+  },
+  {
+   "name": "United Nations Mission in Sudan, Comprehensive Peace Agreement",
+   "url": "https://unmis.unmissions.org/en/unmis-0/comprehensive-peace-agreement"
+  },
+  {
+   "name": "Robert O. Collins, Civil Wars in the Sudan, Civil Wars 5(6), 2007",
+   "url": "https://doi.org/10.1111/j.1478-0542.2007.00473.x"
+  },
+  {
+   "name": "World Bank, Sudan's Civil War and the making of the SPLA/M (historical analysis)",
+   "url": "https://documents.worldbank.org/en/publication/documents-reports/documentdetail/"
+  },
+  {
+   "name": "United States Holocaust Memorial Museum, A Country Divided: Sudan",
+   "url": "https://www.ushmm.org/genocide-prevention/countries/sudan/a-country-divided"
+  },
+  {
+   "name": "Yale Law School, Gender-Based Violence in Southern Sudan: A Report (historical and human-rights documentation)",
+   "url": "https://law.yale.edu/sites/default/files/area/center/schell/lowenstein_study_-_sudan.pdf"
+  }
+ ],
+ "note": "The chapter distinguishes the SPLM/A's New Sudan programme from southern separatist positions; distinguishes Anyanya II from the SPLM/A; treats the 1991 split and internal southern violence without collective ethnic blame; and distinguishes the north-south war from conflicts in Darfur, the Nuba Mountains and Blue Nile. Population and casualty estimates vary by source and methodology; no single exact death toll is asserted here."
+}
 ]
