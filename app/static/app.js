@@ -26,7 +26,7 @@ dlg.showModal()}
 q.addEventListener('input',()=>{clearTimeout(timer);timer=setTimeout(load,220)});cat.addEventListener('change',load);document.getElementById('closeDialog').onclick=()=>dlg.close();dlg.addEventListener('click',e=>{if(e.target===dlg)dlg.close()});let promptEvent;window.addEventListener('beforeinstallprompt',e=>{e.preventDefault();promptEvent=e;const b=document.getElementById('installBtn');b.hidden=false;b.onclick=async()=>{promptEvent.prompt();await promptEvent.userChoice;promptEvent=null;b.hidden=true}});if('serviceWorker'in navigator)addEventListener('load',()=>navigator.serviceWorker.register('/static/sw.js').catch(()=>{}));load();
 
 async function showWikipedia(pageId){
- const labels={"sudan":"History of Sudan","south-sudan":"History of South Sudan"};
+ const labels={"sudan":"History of Sudan","south-sudan":"History of South Sudan","prehistory-sudan":"Prehistory of Sudan","nubia":"Nubia","kerma-culture":"Kerma culture","kingdom-kush":"Kingdom of Kush","napata":"Napata","meroe":"Meroë","nobatia":"Nobatia","makuria":"Makuria","alodia":"Alodia","funj-sultanate":"Funj Sultanate","darfur-sultanate":"Sultanate of Darfur","turco-egyptian":"Turco-Egyptian conquest of Sudan","mahdist-war":"Mahdist War","anglo-egyptian":"Anglo-Egyptian Sudan","first-civil-war":"First Sudanese Civil War","second-civil-war":"Second Sudanese Civil War","peace-agreement":"Comprehensive Peace Agreement","south-sudan-war":"South Sudanese Civil War","sudan-war":"War in Sudan (2023)"};
  body.innerHTML='<div class="eyebrow">WIKIPEDIA · FULL ARTICLE</div><h2>'+labels[pageId]+'</h2><p>Loading the complete article into NILE HISTORY…</p>';
  dlg.showModal();
  try{
@@ -36,11 +36,21 @@ async function showWikipedia(pageId){
   const frame=document.createElement('iframe');
   frame.className='wiki-frame';frame.title=data.title+' — full article';
   frame.setAttribute('sandbox','allow-popups allow-popups-to-escape-sandbox');
-  frame.srcdoc='<!doctype html><html><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><style>body{font:16px/1.7 system-ui,sans-serif;color:#26332e;margin:18px;max-width:900px}img,table{max-width:100%;height:auto}table{border-collapse:collapse;display:block;overflow-x:auto}th,td{border:1px solid #ccd3ce;padding:7px}h2,h3,h4{line-height:1.3;margin-top:1.6em}a{color:#28634b} .mw-editsection,.navbox,.vertical-navbox,.metadata,.noprint,.mw-references-wrap{font-size:.9em} .hatnote{color:#59665f} </style></head><body>'+data.html+'</body></html>';
+  frame.srcdoc='<!doctype html><html><head><meta charset="utf-8"><base href="https://en.wikipedia.org/"><meta name="viewport" content="width=device-width,initial-scale=1"><style>body{font:16px/1.7 system-ui,sans-serif;color:#26332e;margin:18px;max-width:900px}img,table{max-width:100%;height:auto}table{border-collapse:collapse;display:block;overflow-x:auto}th,td{border:1px solid #ccd3ce;padding:7px}h2,h3,h4{line-height:1.3;margin-top:1.6em}a{color:#28634b} .mw-editsection,.navbox,.vertical-navbox,.metadata,.noprint,.mw-references-wrap{font-size:.9em} .hatnote{color:#59665f} </style></head><body>'+data.html+'</body></html>';
   const attribution=document.createElement('section');attribution.className='wiki-attribution';
   const licence=data.license||{};const licenceUrl=licence.url||'https://creativecommons.org/licenses/by-sa/4.0/';
   attribution.innerHTML='<h3>Source and reuse information</h3><p>Text reproduced from <a href="'+data.source_url+'" target="_blank" rel="noopener">'+data.title+'</a>, by Wikipedia contributors. <a href="'+data.history_url+'" target="_blank" rel="noopener">View revision history and contributors</a>. Revision: '+String(data.revision||'not supplied')+' · '+String(data.timestamp||'date not supplied')+'. Licence: <a href="'+licenceUrl+'" target="_blank" rel="noopener">'+String(licence.title||'Creative Commons Attribution-ShareAlike')+'</a>. The article is reproduced for reading inside NILE HISTORY; edits or additional formatting are identified by this app. Third-party media may have separate licences.</p>';
   body.replaceChildren();const heading=document.createElement('div');heading.className='eyebrow';heading.textContent='WIKIPEDIA · FULL ARTICLE';const title=document.createElement('h2');title.textContent=data.title;body.append(heading,title,frame,attribution);
  }catch(error){body.innerHTML='<h2>'+labels[pageId]+'</h2><p>The source could not be loaded right now. Please try again later.</p><p><a href="https://en.wikipedia.org/wiki/'+(pageId==='sudan'?'History_of_Sudan':'History_of_South_Sudan')+'" target="_blank" rel="noopener">Open original Wikipedia article</a></p>'}
 }
-document.querySelectorAll('[data-wiki]').forEach(button=>button.addEventListener('click',()=>showWikipedia(button.dataset.wiki)));
+
+async function loadWikipediaCatalog(){
+ const catalog=document.getElementById('wikiCatalog'),search=document.getElementById('wikiSearch'),count=document.getElementById('wikiCount');
+ try{
+  const response=await fetch('/api/library/catalog');if(!response.ok)throw new Error('catalog');
+  const data=await response.json();
+  const render=()=>{const term=search.value.trim().toLowerCase();const items=data.items.filter(item=>(item.title+' '+item.group).toLowerCase().includes(term));count.textContent=items.length+' source articles in the catalogue';catalog.innerHTML=items.map(item=>'<button class="wiki-card" type="button" data-wiki="'+item.id+'"><span>'+item.group+'</span><b>'+item.title+'</b><small>Read full article inside NILE HISTORY →</small></button>').join('')||'<p>No matching source articles.</p>';catalog.querySelectorAll('[data-wiki]').forEach(button=>button.addEventListener('click',()=>showWikipedia(button.dataset.wiki)));};
+  search.addEventListener('input',render);render();
+ }catch(error){count.textContent='Could not load the source catalogue. Refresh to try again.';}
+}
+loadWikipediaCatalog();
