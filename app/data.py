@@ -919,4 +919,127 @@ ARTICLES = [
  ],
  "note": "The chapter distinguishes the 1955 Torit mutiny from the escalation of organised insurgency into full-scale civil war from 1963. It avoids treating southern communities or political organisations as a single unified actor. It is a substantial synthesis and should be expanded with community-authored oral histories, provincial records and more detailed studies of women, labour, regional movements and civilian experiences."
 }
+,
+ {
+ "id": "nimeiri-era-1969-1985",
+ "title": "The Nimeiri era, 1969–1985: revolution, peace, authoritarian rule and renewed war",
+ "period": "1969–1985",
+ "region": "Sudan, including the Southern Region",
+ "category": "Modern history",
+ "summary": "A detailed history of the May 1969 coup and Revolutionary Command Council, the 1971 coup crisis, state socialism and nationalisation, the Addis Ababa Agreement, regional autonomy, economic change and oil exploration, the erosion of the peace settlement, the September Laws, the outbreak of the second civil war and the April 1985 uprising.",
+ "status": "Research chapter — substantial synthesis; further local, community and economic histories are needed",
+ "article_sections": [
+  [
+   "1. The May Revolution and the new military government",
+   "On 25 May 1969, a group of officers led by Colonel Gaafar Muhammad Nimeiri overthrew Sudan's parliamentary government. The new authorities called their seizure of power the May Revolution and established a Revolutionary Command Council. Parliament was dissolved and political parties were prohibited. The officers claimed that the old party system had failed to overcome instability, economic inequality and the southern conflict. Their programme drew on Arab nationalist, socialist and anti-imperialist ideas, but the coalition supporting the new government was never ideologically uniform. Military officers, civilian leftists, trade unionists and other political currents disagreed over the meaning of revolution and the distribution of power. The regime's first years were therefore marked by experimentation, alliance-building and sharp struggles within the new ruling order."
+  ],
+  [
+   "2. The Revolutionary Command Council and state power",
+   "The Revolutionary Command Council concentrated executive authority in the hands of military officers. Civilian institutions were reorganised, political activity was restricted and the state expanded its role in the economy and public administration. The government sought to replace the fragmented party system with a centralised political structure. It also promoted a new national narrative that emphasised social transformation and Sudan's position in Africa and the Arab world. Yet the regime's revolutionary language coexisted with military control and restrictions on political competition. The Council itself contained different tendencies, and disagreements over alliances, economic policy and the role of the Sudanese Communist Party became increasingly consequential. Understanding the Nimeiri era requires following these changing coalitions rather than treating the regime as ideologically constant from 1969 to 1985."
+  ],
+  [
+   "3. Nationalisation, land reform and socialist economic policies",
+   "The government introduced measures to expand state ownership and control over important parts of the economy. Banks, insurance companies and major commercial enterprises were nationalised or brought under public control, and land reform measures were announced. These policies aimed to weaken entrenched economic power, increase state planning and redirect resources towards development. Their results were mixed and varied across sectors. Administrative capacity, shortages of trained personnel, political conflict and changing policy priorities affected implementation. Some businesses and professionals adapted to the new public sector, while others opposed the measures or moved capital elsewhere. Nationalisation should be understood as part of a wider political project, not as a single event that instantly transformed ownership or everyday economic life."
+  ],
+  [
+   "4. The July 1971 coup attempt and political rupture",
+   "In July 1971, officers associated with the Sudanese Communist Party and its allies briefly seized power and detained Nimeiri. Forces loyal to Nimeiri regained control within days, with important external and regional dimensions to the crisis. The failed coup was followed by executions of leading communist figures and officers, arrests and a decisive break between Nimeiri and the communist movement. The episode transformed the regime. It weakened the left-wing coalition that had helped bring the May government to power and encouraged Nimeiri to consolidate personal authority through new political alliances. Accounts of the coup and the involvement of external actors differ; historians must distinguish documented events from the claims made by rival political participants."
+  ],
+  [
+   "5. The Sudan Socialist Union and the one-party state",
+   "After the 1971 crisis, the government developed the Sudan Socialist Union as the authorised political organisation. The new arrangement aimed to organise political participation under state supervision while preventing independent party competition. The 1973 permanent constitution formalised a new institutional framework and strengthened the presidency. In practice, the Union became closely tied to the executive and security apparatus. It included people with different political backgrounds, but it did not provide an open multiparty system in which opposition groups could freely compete for national power. The regime's political language continued to invoke popular participation and social transformation, while decision-making remained highly centralised."
+  ],
+  [
+   "6. The Addis Ababa negotiations and the end of the first civil war",
+   "A major turning point came with negotiations between the government and the Southern Sudan Liberation Movement, whose armed wing was widely known as Anya-Nya. The talks culminated in the Addis Ababa Agreement of February 1972, signed by representatives of the government and the southern movement and ratified in March. The agreement ended the first civil war and established a framework for regional self-government in the southern provinces. It followed years of armed conflict, displacement and severe disruption to civilian life. The settlement was facilitated by African church organisations and other intermediaries, and it reflected compromise rather than the complete victory of either side. Its importance lay in creating institutions through which southern political affairs could be administered regionally while the south remained part of Sudan."
+  ],
+  [
+   "7. The Southern Region and its autonomous institutions",
+   "The Addis Ababa settlement was implemented through the Southern Provinces Self-Government Act and related constitutional arrangements. The Southern Region received a regional assembly and a High Executive Council, with responsibilities over important areas of administration and public services. Abel Alier became a central figure in the regional government. The agreement also addressed the integration of former Anya-Nya fighters and the return and resettlement of displaced people. Building the new institutions was difficult: the region faced shortages of trained personnel, damaged infrastructure, competing political interests and the challenge of integrating armed forces. The settlement brought a decade without large-scale north-south war, but it did not remove all grievances or resolve every question of national power, resource allocation and identity."
+  ],
+  [
+   "8. Reintegration, return and the human consequences of peace",
+   "The end of the first civil war created the possibility for refugees and displaced people to return, for former combatants to be integrated or demobilised, and for schools, health services and local administration to be rebuilt. The process was complex and uneven. Communities had experienced years of insecurity, disrupted livelihoods and displacement across borders and within the south. Reintegration required more than signing a political agreement: it depended on security, land access, public services, employment and trust between former adversaries. Some people welcomed the peace and participated in new institutions; others remained sceptical or felt excluded from decisions. A full social history of the period must examine how women, children, former fighters, pastoralists, farmers and displaced families experienced the transition."
+  ],
+  [
+   "9. Foreign policy and regional diplomacy",
+   "Nimeiri's foreign policy changed over the sixteen years of his rule. The government sought relationships across Africa, the Arab world, the Soviet bloc, Western states and neighbouring countries, adjusting its alliances as domestic politics shifted. Sudan's relations with Egypt, Libya, Ethiopia and other neighbours influenced security and diplomacy. The Addis Ababa Agreement also altered relations with Ethiopia during the period of Haile Selassie's rule, although regional politics changed after the Ethiopian revolution of 1974. Foreign policy was not separate from internal politics: external alliances affected military support, economic assistance, the movement of opposition groups and the government's ability to manage conflict. The regime's international posture should therefore be studied as a changing strategy rather than a fixed ideological orientation."
+  ],
+  [
+   "10. The 1976 opposition offensive and national reconciliation",
+   "In July 1976, armed opponents associated with the National Front launched an incursion into Khartoum in an attempt to overthrow Nimeiri. The attack was defeated and followed by severe violence and reprisals. The episode demonstrated the intensity of opposition to the regime and the continuing political role of exile movements and armed networks. In 1977, Nimeiri pursued national reconciliation with prominent opponents, including Sadiq al-Mahdi. The process led to the return of some exiled politicians, releases and amnesties, and a period of broader political accommodation. Reconciliation did not restore multiparty democracy or end the regime's concentration of power. It was a strategic political settlement that brought some former opponents into the system while leaving other groups outside it."
+  ],
+  [
+   "11. Economic change, agriculture and the oil question",
+   "During the 1970s, Sudan pursued agricultural expansion, infrastructure projects and foreign investment. The Gezira Scheme remained important, while mechanised farming expanded in parts of central and eastern Sudan. Large development plans were shaped by international finance, domestic political priorities and expectations about Sudan's agricultural potential. Oil exploration also became a major issue. Chevron began exploration activities in the 1970s and made significant discoveries in the south in the late 1970s. The location of resources raised difficult questions about ownership, revenue and the relationship between the national government and the autonomous Southern Region. The economic history of this period cannot be told only through investment announcements: it must consider land access, labour, displacement, environmental change, debt and who benefited from development."
+  ],
+  [
+   "12. The Jonglei Canal and the politics of development",
+   "The Jonglei Canal project was designed to divert water around part of the Sudd wetlands to reduce evaporation losses and increase the flow of water downstream. Supporters presented it as a major engineering and agricultural development project with potential benefits for Sudan and Egypt. Critics raised concerns about the effects on the Sudd's ecology, fisheries, grazing, seasonal livelihoods and the communities whose lives depended on the wetlands. The project became politically sensitive because it involved land, water, regional consultation and the distribution of benefits between the north and south. Work began in the late 1970s and continued into the early 1980s before being halted during the renewed conflict. The canal should be understood as both an engineering scheme and a political question about whose development priorities shaped the Nile basin."
+  ],
+  [
+   "13. The erosion of the Addis Ababa settlement",
+   "By the late 1970s and early 1980s, relations between the central government and southern regional institutions had deteriorated. Disputes concerned the boundaries and authority of the Southern Region, appointments, public revenue, development projects, the armed forces and the control of natural resources. The regional government faced internal political divisions and limited resources, while Nimeiri increasingly sought to strengthen central control. The agreement's institutions were vulnerable because their authority depended on constitutional safeguards and political commitment from the national government. The deterioration was gradual and contested; it should not be described as a single sudden cancellation in 1983. Earlier decisions and disputes weakened trust and made the final breakdown more likely."
+  ],
+  [
+   "14. Division of the Southern Region and the collapse of autonomy",
+   "In 1983, Nimeiri's government dissolved the Southern Regional Assembly and High Executive Council and divided the Southern Region into three administrative regions: Bahr el Ghazal, Equatoria and Upper Nile. These actions undermined the regional arrangements established by the Addis Ababa Agreement and were widely opposed by southern political leaders. The division was connected to disputes over central authority, local political competition, administrative boundaries and control of resources. The government's actions were not simply a technical reorganisation: they altered the constitutional basis of the peace settlement. The decision intensified fears that the autonomy promised in 1972 had been dismantled without the consent or safeguards required by the agreement."
+  ],
+  [
+   "15. The 1983 mutinies and the emergence of the SPLM/A",
+   "In May 1983, mutinies by southern soldiers, including the 105th Battalion at Bor, became a crucial turning point. The grievances included orders to transfer troops away from their home areas, distrust of the central government and the erosion of southern autonomy. Armed resistance developed into a new insurgency. John Garang and other officers became central to the formation of the Sudan People's Liberation Movement and Sudan People's Liberation Army, which announced a programme for a transformed, united Sudan rather than simply the immediate separation of the south. The SPLM/A was not identical to the earlier Anya-Nya movement; it emerged in a different regional and ideological context. Its leadership, organisation and objectives evolved during the war, and southern political opinion remained diverse."
+  ],
+  [
+   "16. The September Laws of 1983",
+   "In September 1983, Nimeiri announced a far-reaching programme of legal Islamisation, commonly called the September Laws. The measures incorporated interpretations of Islamic law into criminal and other legal frameworks and were enforced through emergency institutions and special courts. Their implementation included punishments that drew national and international criticism, and the laws became a major source of political and legal controversy. The issue was not simply the presence of Islam in Sudanese public life: it concerned the manner in which the laws were imposed, their relationship to constitutional rights, the country's religious and cultural diversity, and their application in a state containing large non-Muslim populations. The laws also marked a dramatic shift in Nimeiri's political alliances and weakened support among some former allies."
+  ],
+  [
+   "17. Renewed civil war and the impact on civilians",
+   "The collapse of the Addis Ababa settlement and the mutinies of 1983 led to the resumption of large-scale north-south war. Fighting spread through parts of the southern provinces and increasingly affected rural communities, transport routes, towns and border areas. Government forces and insurgent groups both operated in a landscape where civilians faced displacement, insecurity, forced recruitment, loss of livelihoods and restrictions on movement. The new conflict differed from the first civil war in organisation, ideology and regional context. It is important not to assume that all southern communities supported the SPLM/A or that all northern communities supported the government. Local allegiances and survival strategies were shaped by security, family ties, political beliefs and the conduct of armed actors."
+  ],
+  [
+   "18. Economic crisis, drought and political discontent",
+   "By the early 1980s, Sudan faced severe economic pressures, including inflation, debt, shortages, declining public services and the effects of drought and regional displacement. Large numbers of refugees from neighbouring countries also placed pressure on already limited resources. Economic crisis interacted with political repression and the renewed war. The cost of military operations, the weakness of public institutions and the loss of confidence in government deepened dissatisfaction. Different groups experienced the crisis in different ways: urban workers faced rising prices, farmers and pastoralists confronted environmental and market pressures, and displaced people struggled to find safety and assistance. These conditions contributed to the broad opposition that eventually challenged Nimeiri in 1985."
+  ],
+  [
+   "19. The April 1985 uprising and the fall of Nimeiri",
+   "In April 1985, widespread protests and a general strike challenged the government. Trade unions, professional associations, students and political organisations played central roles in mobilising opposition. The armed forces eventually removed Nimeiri from power while he was abroad, and a Transitional Military Council assumed authority. The uprising became known as the April Intifada. It ended sixteen years of Nimeiri's rule and opened a new transition towards civilian government. The fall of the regime did not immediately resolve the civil war, economic crisis or constitutional disputes. It did, however, demonstrate the capacity of organised civil society to challenge an authoritarian government and demand a return to civilian political institutions."
+  ],
+  [
+   "20. Historical assessment and unresolved legacies",
+   "The Nimeiri era cannot be understood as a single unchanging dictatorship or as a simple sequence of coups and laws. It included a radical military project, political repression, socialist economic experiments, a major peace agreement, a decade of regional autonomy, shifting international alliances, economic development schemes and the breakdown of the peace settlement. The Addis Ababa Agreement ended the first civil war but contained institutional weaknesses and depended on continuing political commitment. Its erosion, the division of the Southern Region, the September Laws and the 1983 mutinies contributed to the second civil war. The regime's legacy also included centralised institutions, legal changes, economic debts and unresolved debates about federalism, identity and resource distribution. This chapter is a substantial synthesis, not a complete account of every region, community, political actor or civilian experience."
+  ]
+ ],
+ "source_leads": [
+  {
+   "name": "Douglas H. Johnson, The Root Causes of Sudan's Civil Wars, revised edition — chapters on the Addis Ababa Agreement and the beginnings of the second civil war",
+   "url": "https://www.cambridge.org/core/books/root-causes-of-sudans-civil-wars/9639127D6DA9DDFB652B23219D30F8C6"
+  },
+  {
+   "name": "Human Rights Watch, Impunity — historical account of the September Laws and renewed conflict",
+   "url": "https://www.hrw.org/reports/pdfs/s/sudan/sudan965.pdf"
+  },
+  {
+   "name": "Human Rights Watch, Sudan, Oil, and Human Rights: The Chevron Period, 1974–92",
+   "url": "https://www.hrw.org/reports/2003/sudan1103/10.htm"
+  },
+  {
+   "name": "Carey Gordon, The Legal Regime of Public Finance in the Sudan: The Legacy of Nimeiri, Journal of African Law (2009)",
+   "url": "https://www.cambridge.org/core/journals/journal-of-african-law/article/abs/legal-regime-of-public-finance-in-the-sudan-the-legacy-of-nimeiri/A8F382F52147353A93EB777072ECD2B6"
+  },
+  {
+   "name": "Richard P. Stevens, The 1972 Addis Ababa Agreement and the Sudan's Afro-Arab Policy, Journal of Modern African Studies (1976)",
+   "url": "https://www.cambridge.org/core/journals/journal-of-modern-african-studies/article/abs/1972-addis-ababa-agreement-and-the-sudans-afroarab-policy/C210B637800509145B1BFEAC04C5C3C4"
+  },
+  {
+   "name": "World Bank, Sudan: Southern Region development and the Addis Ababa Agreement — historical project document",
+   "url": "https://documents1.worldbank.org/curated/en/440091468777571140/pdf/multi0page.pdf"
+  },
+  {
+   "name": "Moritz A. Mihatsch, historical discussion of the Nimeiri regime and Sudan's political economy",
+   "url": "https://www.cambridge.org/core/journals/journal-of-african-law/article/abs/legal-regime-of-public-finance-in-the-sudan-the-legacy-of-nimeiri/A8F382F52147353A93EB777072ECD2B6"
+  }
+ ],
+ "note": "This chapter distinguishes the 1972 Addis Ababa Agreement and its regional autonomy framework from the 1983 decisions that dismantled key institutions. It treats the 1983 mutinies and formation of the SPLM/A as a distinct development from the earlier Anya-Nya movement. The September Laws are described as contested state legislation and enforcement, with attention to Sudan's religious and cultural diversity. Further editions should expand local histories, women’s experiences, environmental impacts, oil-region communities and the internal histories of political movements."
+}
 ]
