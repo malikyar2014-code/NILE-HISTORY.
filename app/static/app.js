@@ -101,3 +101,29 @@ async function openHistoricalBook(id,book){
  }catch(error){status.textContent='The full text could not be retrieved right now. Please try again later.';}
 }
 loadBookCatalog();
+
+const researchCollections=[
+ {id:'sudan-open-archive',title:'Sudan Open Archive',type:'Digital archive',coverage:'Sudan & South Sudan · books, documents, manuscripts, journals and grey literature',description:'A searchable full-text digital archive built by the Rift Valley Institute. Its holdings include Sudan Notes and Records, language grammars and dictionaries, rare manuscripts and documents from Sudanese and South Sudanese institutions.',rights:'Collection-level access does not mean every item has the same reuse licence. Check each item before reproducing it.',url:'https://sudanarchive.net/',action:'Browse archive'},
+ {id:'south-sudan-new-history',title:'South Sudan: A New History for a New Nation',type:'Open-access scholarly book · 2016',coverage:'South Sudan · long-term history, archaeology, peoples and political change',description:'Douglas H. Johnson’s substantial historical overview, published by Ohio University Press. The full book is available through the publisher’s open-access repository.',rights:'CC BY-NC-ND 4.0: attribution, non-commercial sharing, and no derivatives. NILE HISTORY links to the publisher’s edition and does not modify or redistribute the book.',url:'https://ohioopen.library.ohio.edu/oupress/76/',action:'Open publisher reader'},
+ {id:'dotawo',title:'Dotawo: A Journal of Nubian Studies',type:'Open-access journal & books',coverage:'Nubia · languages, manuscripts, archaeology, literature and society',description:'A specialist scholarly publication with open-access volumes on Nubian studies, including Nubian women, place names, language and medieval Nubia.',rights:'Open-access status applies to the listed works; verify the licence attached to each article or volume before reuse.',url:'https://www.jstor.org/publisher/dotawo',action:'Browse open-access volumes'},
+ {id:'sudan-and-nubia',title:'Sudan & Nubia',type:'Archaeological research journal',coverage:'Sudan & Nubia · excavation reports, heritage surveys and archaeological studies',description:'The Sudan Archaeological Research Society’s journal publishes field reports and research on archaeological sites, material culture and heritage across the region.',rights:'Individual article files may have their own terms. NILE HISTORY records the publication and links to the publisher-hosted papers rather than assuming blanket reuse rights.',url:'https://www.sudarchrs.org.uk/resources/publications/journal/',action:'Browse journal papers'},
+ {id:'sudan-human-rights-archive',title:'Sudan Human Rights Archive',type:'Oral testimony & documentation archive',coverage:'Sudan · civilian experiences, conflict documentation and justice',description:'A collaborative archive preserving and organising human-rights documentation. Its Survivor Stories project includes testimony from civilians in Darfur, the Nuba Mountains, South Kordofan and Blue Nile.',rights:'Testimonies can contain sensitive personal information and may have access or consent restrictions. This is a discovery record, not permission to copy, republish or expose testimony.',url:'https://sudanhrh.org/en/archive',action:'Visit archive collection'},
+ {id:'ucl-prehistory',title:'Prehistory of Sudan',type:'Open research chapter · 2021',coverage:'Sudan · archaeology and deep history',description:'An open-access version of a scholarly chapter by M. Brass and I. Vella Gregory, hosted by UCL Discovery. Useful for grounding the early-history collection in archaeological research.',rights:'UCL identifies an open-access version; consult the repository’s reuse terms and the publisher’s conditions before reproducing the chapter.',url:'https://discovery.ucl.ac.uk/id/eprint/10125807/',action:'Open research record'}
+];
+function loadResearchCollections(){
+ const node=document.getElementById('researchCatalog');if(!node)return;
+ node.innerHTML=researchCollections.map(item=>'<article class="research-card"><div class="eyebrow">'+esc(item.type)+'</div><h3>'+esc(item.title)+'</h3><p class="research-coverage">'+esc(item.coverage)+'</p><p>'+esc(item.description)+'</p><p class="research-rights"><b>Rights & access:</b> '+esc(item.rights)+'</p><button type="button" class="research-open" data-research="'+esc(item.id)+'">'+esc(item.action)+' ↗</button></article>').join('');
+ node.querySelectorAll('[data-research]').forEach(button=>button.addEventListener('click',()=>openResearchCollection(button.dataset.research)));
+}
+function openResearchCollection(id){
+ const item=researchCollections.find(entry=>entry.id===id);if(!item)return;
+ const eyebrow=document.createElement('div');eyebrow.className='eyebrow';eyebrow.textContent='RESEARCH COLLECTION · '+item.type.toUpperCase();
+ const title=document.createElement('h2');title.textContent=item.title;
+ const summary=document.createElement('p');summary.textContent=item.description;
+ const rights=document.createElement('aside');rights.className='book-warning';rights.textContent=item.rights;
+ const frame=document.createElement('iframe');frame.className='research-frame';frame.title=item.title+' official collection';frame.loading='lazy';frame.referrerPolicy='strict-origin-when-cross-origin';frame.src=item.url;
+ const fallback=document.createElement('p');fallback.className='research-fallback';fallback.textContent='If the source does not allow embedded viewing, use its official collection page: ';
+ const link=document.createElement('a');link.href=item.url;link.target='_blank';link.rel='noopener';link.textContent='Open original source';fallback.append(link);
+ body.replaceChildren(eyebrow,title,summary,rights,frame,fallback);dlg.showModal();
+}
+loadResearchCollections();
