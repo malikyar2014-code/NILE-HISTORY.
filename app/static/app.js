@@ -75,12 +75,29 @@ async function openHistoricalBook(id,book){
   const sourceText=await response.text();
   const warning=document.createElement('aside');warning.className='book-warning';warning.textContent=book.editorial_warning;
   const meta=document.createElement('p');meta.className='book-meta';meta.textContent=book.author+' · edited by '+book.editor+' · '+book.year+' · '+book.publisher;
-  const pre=document.createElement('pre');pre.className='book-fulltext';pre.textContent=sourceText;
+  const reader=document.createElement('section');reader.className='book-reader-tools';
+  const searchLabel=document.createElement('label');searchLabel.className='reader-search-label';searchLabel.textContent='Find in this book';
+  const search=document.createElement('input');search.type='search';search.placeholder='Search words or phrases…';search.setAttribute('aria-label','Find text inside this book');
+  const matchInfo=document.createElement('span');matchInfo.className='reader-match-info';matchInfo.textContent='Search the complete text';
+  const previous=document.createElement('button');previous.type='button';previous.textContent='Previous match';
+  const next=document.createElement('button');next.type='button';next.textContent='Next match';
+  const smaller=document.createElement('button');smaller.type='button';smaller.textContent='A−';smaller.setAttribute('aria-label','Decrease book text size');
+  const larger=document.createElement('button');larger.type='button';larger.textContent='A+';larger.setAttribute('aria-label','Increase book text size');
+  const top=document.createElement('button');top.type='button';top.textContent='Back to beginning';
+  reader.append(searchLabel,search,matchInfo,previous,next,smaller,larger,top);
+  const pre=document.createElement('pre');pre.className='book-fulltext';pre.textContent=sourceText;pre.tabIndex=0;
+  let matches=[],matchIndex=-1,fontSize=15;
+  const findMatches=()=>{const term=search.value.trim().toLocaleLowerCase();matches=[];matchIndex=-1;if(term){const haystack=sourceText.toLocaleLowerCase();let at=0;while((at=haystack.indexOf(term,at))!==-1){matches.push(at);at+=Math.max(1,term.length);}}matchInfo.textContent=matches.length?matches.length+' match(es) found':'No matches yet';};
+  const goToMatch=direction=>{if(!matches.length){findMatches();if(!matches.length)return;}matchIndex=(matchIndex+direction+matches.length)%matches.length;const ratio=matches[matchIndex]/Math.max(1,sourceText.length);pre.scrollTop=Math.max(0,ratio*pre.scrollHeight-pre.clientHeight*0.35);matchInfo.textContent='Match '+(matchIndex+1)+' of '+matches.length;};
+  search.addEventListener('input',findMatches);previous.addEventListener('click',()=>goToMatch(-1));next.addEventListener('click',()=>goToMatch(1));
+  smaller.addEventListener('click',()=>{fontSize=Math.max(11,fontSize-1);pre.style.fontSize=fontSize+'px';});
+  larger.addEventListener('click',()=>{fontSize=Math.min(24,fontSize+1);pre.style.fontSize=fontSize+'px';});
+  top.addEventListener('click',()=>{pre.scrollTop=0;});
   const attribution=document.createElement('section');attribution.className='wiki-attribution';
   const source=document.createElement('a');source.href=book.source_url;source.target='_blank';source.rel='noopener';source.textContent=book.source+' — bibliographic record and original edition';
   const rights=document.createElement('p');rights.textContent=book.rights;
   attribution.append(source,rights);
-  body.replaceChildren(eyebrow,title,meta,warning,pre,attribution);
+  body.replaceChildren(eyebrow,title,meta,warning,reader,pre,attribution);
  }catch(error){status.textContent='The full text could not be retrieved right now. Please try again later.';}
 }
 loadBookCatalog();
