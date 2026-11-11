@@ -404,5 +404,185 @@ ARTICLES = [
    }
   ],
   "note": "Original synthesis and research guide. The chapter treats slavery as a documented historical institution while avoiding generalisations about all Darfur communities. Detailed local histories remain necessary."
+ },
+ {
+  "id": "fur-people-history",
+  "title": "Fur histories of Darfur: land, language and the Keira state",
+  "period": "Precolonial period–present",
+  "region": "Jebel Marra and wider Darfur, Sudan",
+  "category": "Peoples & Cultures",
+  "summary": "A community-centred introduction to Fur history, Darfur's political centre, language, agriculture, oral memory and modern transformations.",
+  "status": "Research chapter — further community-led documentation needed",
+  "article_sections": [
+   [
+    "1. Fur identity and language",
+    "The Fur are among the major communities of Darfur. Fur identity is connected to language, locality, family histories, land and shared cultural practices, but no short description can represent every Fur community. The Fur language belongs to the Nilo-Saharan language family in many classifications, though linguistic classification itself is a scholarly field that changes with research."
+   ],
+   [
+    "2. Jebel Marra and settlement",
+    "Jebel Marra is a major geographical and historical centre in Fur accounts. Its highland environment, water resources and agricultural possibilities shaped settlement and livelihoods. Fur communities also live beyond the massif, and their histories are not confined to one landscape."
+   ],
+   [
+    "3. The Keira Sultanate",
+    "The Keira dynasty established the Darfur Sultanate, a major regional state from the early modern period until 1874. Fur political traditions were central to the sultanate, but the state governed a diverse population and relied on negotiation with local authorities. Dynastic chronicles and origin stories must be compared with oral histories and other evidence."
+   ],
+   [
+    "4. Agriculture, trade and society",
+    "Agriculture, livestock, markets, craft production and long-distance trade connected communities across Darfur. The region was linked to the Sahel, Nile Valley and North Africa. The political economy also included slavery and slave trading, which must be documented with attention to the experiences of enslaved people."
+   ],
+   [
+    "5. Oral history and modern transformations",
+    "Fur oral histories, language documentation, family records and community scholarship are essential sources. The nineteenth and twentieth centuries brought conquest, colonial administration, political change and conflict. A complete account must distinguish historical periods and avoid treating present-day conflict as the only lens through which Fur history is understood."
+   ]
+  ],
+  "article_text": [
+   "The Fur are among the major communities of Darfur. Fur identity is connected to language, locality, family histories, land and shared cultural practices, but no short description can represent every Fur community. The Fur language belongs to the Nilo-Saharan language family in many classifications, though linguistic classification itself is a scholarly field that changes with research.\n\nJebel Marra is a major geographical and historical centre in Fur accounts. Its highland environment, water resources and agricultural possibilities shaped settlement and livelihoods. Fur communities also live beyond the massif, and their histories are not confined to one landscape.\n\nThe Keira dynasty established the Darfur Sultanate, a major regional state from the early modern period until 1874. Fur political traditions were central to the sultanate, but the state governed a diverse population and relied on negotiation with local authorities. Dynastic chronicles and origin stories must be compared with oral histories and other evidence.\n\nAgriculture, livestock, markets, craft production and long-distance trade connected communities across Darfur. The region was linked to the Sahel, Nile Valley and North Africa. The political economy also included slavery and slave trading, which must be documented with attention to the experiences of enslaved people.\n\nFur oral histories, language documentation, family records and community scholarship are essential sources. The nineteenth and twentieth centuries brought conquest, colonial administration, political change and conflict. A complete account must distinguish historical periods and avoid treating present-day conflict as the only lens through which Fur history is understood."
+  ],
+  "source_leads": [
+   {
+    "name": "R. S. O'Fahey & J. L. Spaulding, Kingdoms of the Sudan",
+    "url": "https://www.routledge.com/Kingdoms-of-the-Sudan/OFahey-Spaulding/p/book/9781138212206"
+   },
+   {
+    "name": "Sudan Open Archive — digital research collections",
+    "url": "https://sudanarchive.net/"
+   }
+  ],
+  "note": "Introductory synthesis. Add Fur-language sources, community-reviewed oral histories and specialist studies of Jebel Marra and Fur political institutions."
+ },
+ {
+  "id": "masalit-people-history",
+  "title": "Masalit histories: Dar Masalit, sovereignty and borderlands",
+  "period": "Precolonial period–present",
+  "region": "Western Darfur and the Chad–Sudan borderlands",
+  "category": "Peoples & Cultures",
+  "summary": "An introduction to Masalit histories, Dar Masalit institutions, borderland exchange, colonial rule and modern political transformations.",
+  "status": "Research chapter — further community-led documentation needed",
+  "article_sections": [
+   [
+    "1. Masalit communities and historical identity",
+    "Masalit communities have deep histories in western Darfur and adjoining borderlands. Identity, language, locality and political belonging have changed through time. The term Masalit should not be treated as a uniform label that erases differences among villages, lineages and individual experiences."
+   ],
+   [
+    "2. Dar Masalit and political institutions",
+    "Dar Masalit developed political institutions and leadership structures through which authority, land and community relations were negotiated. Oral traditions and written records preserve different perspectives on the origins and evolution of these institutions. Historians should compare versions rather than assume one account is definitive."
+   ],
+   [
+    "3. Borderland connections",
+    "The region's position between Darfur and areas now within Chad created long-standing relationships through trade, migration, marriage, religious networks and political alliances. Modern national borders later changed administration and mobility but did not erase older social connections."
+   ],
+   [
+    "4. Colonial administration and sovereignty",
+    "Colonial rule transformed political authority, administration and land governance in western Darfur. The changing status of local rulers and customary institutions must be examined through both official records and community accounts. Administrative categories were not neutral descriptions of local society."
+   ],
+   [
+    "5. Conflict, displacement and historical memory",
+    "Modern violence and displacement have deeply affected Masalit communities. Historical documentation must protect survivors, distinguish verified events from contested claims, and avoid reproducing sensitive testimony without consent. Community archives and oral histories should be preserved with clear ethical safeguards."
+   ]
+  ],
+  "article_text": [
+   "Masalit communities have deep histories in western Darfur and adjoining borderlands. Identity, language, locality and political belonging have changed through time. The term Masalit should not be treated as a uniform label that erases differences among villages, lineages and individual experiences.\n\nDar Masalit developed political institutions and leadership structures through which authority, land and community relations were negotiated. Oral traditions and written records preserve different perspectives on the origins and evolution of these institutions. Historians should compare versions rather than assume one account is definitive.\n\nThe region's position between Darfur and areas now within Chad created long-standing relationships through trade, migration, marriage, religious networks and political alliances. Modern national borders later changed administration and mobility but did not erase older social connections.\n\nColonial rule transformed political authority, administration and land governance in western Darfur. The changing status of local rulers and customary institutions must be examined through both official records and community accounts. Administrative categories were not neutral descriptions of local society.\n\nModern violence and displacement have deeply affected Masalit communities. Historical documentation must protect survivors, distinguish verified events from contested claims, and avoid reproducing sensitive testimony without consent. Community archives and oral histories should be preserved with clear ethical safeguards."
+  ],
+  "source_leads": [
+   {
+    "name": "Sudan Open Archive — digital research collections",
+    "url": "https://sudanarchive.net/"
+   },
+   {
+    "name": "Sudan Human Rights Archive — documentation and testimony",
+    "url": "https://sudanhrh.org/en/archive"
+   }
+  ],
+  "note": "This chapter is an introductory framework, not a complete account of Dar Masalit. Oral testimony and survivor records require consent, protection and careful contextualisation."
+ },
+ {
+  "id": "zaghawa-people-history",
+  "title": "Zaghawa histories across Darfur and the Sahel",
+  "period": "Precolonial period–present",
+  "region": "Northern Darfur and Chad–Sudan borderlands",
+  "category": "Peoples & Cultures",
+  "summary": "An overview of Zaghawa communities, language, pastoral and trading networks, trans-Sahel connections and modern political change.",
+  "status": "Research chapter — further community-led documentation needed",
+  "article_sections": [
+   [
+    "1. Communities and names",
+    "Zaghawa is a broad name for communities living across parts of Darfur and Chad. Historical and local naming practices vary. The term should not be used to imply that all Zaghawa people share one political experience or identical social organisation."
+   ],
+   [
+    "2. Language and regional geography",
+    "Zaghawa languages and dialects connect communities across a region where national borders are comparatively recent. The Sahelian environment, seasonal rainfall, pasture and water access have shaped mobility and settlement, while towns and markets have supported changing livelihoods."
+   ],
+   [
+    "3. Pastoralism, trade and mobility",
+    "Livestock keeping, trade, cultivation and movement have all contributed to Zaghawa economic histories. Mobility should not be mistaken for absence of territorial knowledge or political organisation. Routes and relationships connected Darfur with Chad and wider Sahelian networks."
+   ],
+   [
+    "4. Political histories and neighbouring states",
+    "Zaghawa communities interacted with the Darfur sultanate, neighbouring political authorities and later colonial administrations. These relationships included alliance, negotiation, taxation, conflict and changing forms of local authority. A fuller history needs local genealogies and oral accounts compared with documentary evidence."
+   ],
+   [
+    "5. Modern history and representation",
+    "Twentieth- and twenty-first-century transformations include state policy, education, migration, political movements and conflict. Zaghawa histories should not be reduced to the actions of prominent political or military figures; family, women's, youth and everyday histories also matter."
+   ]
+  ],
+  "article_text": [
+   "Zaghawa is a broad name for communities living across parts of Darfur and Chad. Historical and local naming practices vary. The term should not be used to imply that all Zaghawa people share one political experience or identical social organisation.\n\nZaghawa languages and dialects connect communities across a region where national borders are comparatively recent. The Sahelian environment, seasonal rainfall, pasture and water access have shaped mobility and settlement, while towns and markets have supported changing livelihoods.\n\nLivestock keeping, trade, cultivation and movement have all contributed to Zaghawa economic histories. Mobility should not be mistaken for absence of territorial knowledge or political organisation. Routes and relationships connected Darfur with Chad and wider Sahelian networks.\n\nZaghawa communities interacted with the Darfur sultanate, neighbouring political authorities and later colonial administrations. These relationships included alliance, negotiation, taxation, conflict and changing forms of local authority. A fuller history needs local genealogies and oral accounts compared with documentary evidence.\n\nTwentieth- and twenty-first-century transformations include state policy, education, migration, political movements and conflict. Zaghawa histories should not be reduced to the actions of prominent political or military figures; family, women's, youth and everyday histories also matter."
+  ],
+  "source_leads": [
+   {
+    "name": "Sudan Open Archive — digital research collections",
+    "url": "https://sudanarchive.net/"
+   },
+   {
+    "name": "R. S. O'Fahey & J. L. Spaulding, Kingdoms of the Sudan",
+    "url": "https://www.routledge.com/Kingdoms-of-the-Sudan/OFahey-Spaulding/p/book/9781138212206"
+   }
+  ],
+  "note": "Introductory research chapter. Add specialist Zaghawa linguistic studies and community-authored histories before treating this as a comprehensive account."
+ },
+ {
+  "id": "ingessana-people-history",
+  "title": "Ingessana histories of the Blue Nile hills",
+  "period": "Precolonial period–present",
+  "region": "Ingessana Hills and Blue Nile region, Sudan",
+  "category": "Peoples & Cultures",
+  "summary": "A regional history of Ingessana communities, political relationships with the Funj, colonial-era changes and the importance of local sources.",
+  "status": "Research chapter — further community-led documentation needed",
+  "article_sections": [
+   [
+    "1. The Ingessana Hills",
+    "The Ingessana Hills are located in the Blue Nile region. Their terrain and surrounding plains shaped settlement, farming, pastoralism and relations with neighbouring communities. The region should be understood as part of wider Blue Nile histories, not as an isolated enclave."
+   ],
+   [
+    "2. Community identity and historical labels",
+    "Historical sources have used external labels for Ingessana communities, some of them derogatory or misleading. Such terminology should be quoted only when necessary to explain a source and should not be adopted as neutral description. Community self-identification and local-language knowledge are essential."
+   ],
+   [
+    "3. The Funj Sultanate and regional power",
+    "Ingessana communities had changing relationships with the Funj Sultanate and other regional authorities. Jay Spaulding and M. C. Jędrej's scholarship examines how conquest and political expansion affected these relationships. These histories involved negotiation and adaptation as well as resistance."
+   ],
+   [
+    "4. Colonial rule and social change",
+    "Turco-Egyptian and later colonial expansion altered taxation, administration, labour and political relationships in the Blue Nile region. Official accounts should be read critically because administrators often interpreted local institutions through their own assumptions about authority and religion."
+   ],
+   [
+    "5. Research and oral memory",
+    "A fuller history requires local-language interviews, oral traditions, family histories, archaeology and careful comparison with written sources. Research should document the identity and consent of narrators and avoid turning one account into a universal community narrative."
+   ]
+  ],
+  "article_text": [
+   "The Ingessana Hills are located in the Blue Nile region. Their terrain and surrounding plains shaped settlement, farming, pastoralism and relations with neighbouring communities. The region should be understood as part of wider Blue Nile histories, not as an isolated enclave.\n\nHistorical sources have used external labels for Ingessana communities, some of them derogatory or misleading. Such terminology should be quoted only when necessary to explain a source and should not be adopted as neutral description. Community self-identification and local-language knowledge are essential.\n\nIngessana communities had changing relationships with the Funj Sultanate and other regional authorities. Jay Spaulding and M. C. Jędrej's scholarship examines how conquest and political expansion affected these relationships. These histories involved negotiation and adaptation as well as resistance.\n\nTurco-Egyptian and later colonial expansion altered taxation, administration, labour and political relationships in the Blue Nile region. Official accounts should be read critically because administrators often interpreted local institutions through their own assumptions about authority and religion.\n\nA fuller history requires local-language interviews, oral traditions, family histories, archaeology and careful comparison with written sources. Research should document the identity and consent of narrators and avoid turning one account into a universal community narrative."
+  ],
+  "source_leads": [
+   {
+    "name": "M. C. Jędrej, Ingessana and the Legacy of the Funj Sultanate — Africa",
+    "url": "https://www.cambridge.org/core/journals/africa/article/abs/ingessana-and-the-legacy-of-the-funj-sultanate-the-consequences-of-turkish-conquest-on-the-blue-nile/BBD385FAB0DFD24369D79C2C9C76692D"
+   },
+   {
+    "name": "Jay Spaulding, A Premise for Precolonial Nuba History — History in Africa",
+    "url": "https://www.cambridge.org/core/journals/history-in-africa/article/abs/premise-for-precolonial-nuba-history/5E7BFA5576B34B3E896585AD263349EC"
+   }
+  ],
+  "note": "Introductory regional synthesis. Do not repeat outdated colonial labels except when explicitly analysing their use in historical documents."
  }
 ]
