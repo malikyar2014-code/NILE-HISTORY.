@@ -1479,4 +1479,203 @@ ARTICLES = [
  ],
  "note": "This chapter distinguishes the 2003 rebellion from the 2023 SAF–RSF war; distinguishes Janjaweed formations from the later formal RSF; avoids collective ethnic blame; and attributes legal findings to the specific institutions and dates that made them. The 2005 UN Commission's genocide assessment, the US government's 2004 determination, ICC proceedings, and the 2026 UN Fact-Finding Mission's El Fasher findings concern different mandates, periods and legal questions. Current humanitarian figures are dated snapshots, not permanent totals."
 }
+,
+ {
+ "id": "history-of-south-sudan",
+ "title": "A History of South Sudan: peoples, kingdoms, colonial rule, liberation, independence and the unfinished nation",
+ "period": "Ancient history–2026",
+ "region": "Present-day Republic of South Sudan",
+ "category": "National histories",
+ "summary": "A broad historical account of the lands and peoples of present-day South Sudan, from early settlement and diverse precolonial societies through nineteenth-century conquest, Mahdist and colonial rule, the first and second civil wars, the CPA, independence in 2011, the 2013 civil war, the 2018 peace agreement and the political and humanitarian crisis through November 2026.",
+ "status": "Substantial national synthesis. South Sudan's many peoples and regions require additional dedicated community and locality histories; this is not a claim to exhaust every oral tradition or historical debate.",
+ "article_sections": [
+  [
+   "1. The land and the making of a country",
+   "The Republic of South Sudan became an independent state on 9 July 2011, but the history of its territory and peoples is much older. The country lies in the Nile basin and includes the Sudd, one of the world's largest tropical wetlands, the White Nile and its tributaries, highlands, savannahs, forests and borderlands. Seasonal flooding, rainfall, pasture, fisheries and river transport have shaped settlement and livelihoods. The boundaries of the modern state were created through colonial and postcolonial politics; they do not represent one ancient kingdom or a single historical community. The region has long been connected to the Nile Valley, the Great Lakes region, the Ethiopian highlands, the Sahel and Central Africa. Its history must therefore be told through many regional and community histories as well as the modern national story."
+  ],
+  [
+   "2. Peoples, languages and historical diversity",
+   "South Sudan is home to many peoples and language communities, including Dinka, Nuer, Shilluk (Chollo), Azande, Bari, Kakwa, Kuku, Mundari, Lotuko (Otuho), Toposa, Murle, Anyuak, Acholi, Madi, Lango, Baka, Fertit and many others. These names refer to communities with their own internal diversity, histories, institutions and changing relationships. Nilotic, Central Sudanic, Ubangian and other language families are represented. No single community can stand for the whole country. Livelihoods include farming, cattle keeping, fishing, hunting, trade, craft production and combinations that vary with ecology and season. Cattle are important in many communities, but their meaning differs across societies and should not be reduced to wealth alone: they can be tied to marriage, kinship, ritual, social standing and political relationships. Oral histories, archaeology, linguistics and written records each illuminate different parts of the past."
+  ],
+  [
+   "3. Early settlement and archaeology",
+   "Archaeological evidence shows that the lands of present-day South Sudan were inhabited long before the appearance of modern national borders or written state records. Stone tools, pottery, settlement remains and evidence of changing environments help reconstruct human occupation and adaptation. The Sudd and surrounding wetlands have preserved some archaeological materials while making survey and excavation difficult. The region's past cannot be reconstructed only from written accounts produced by Egyptian, European or northern Sudanese visitors. Archaeological work, local knowledge and oral traditions are essential, and many areas remain insufficiently studied. Claims that a particular modern ethnic group can be directly identified with a specific prehistoric culture should be made cautiously unless supported by evidence."
+  ],
+  [
+   "4. Precolonial political systems and regional centres",
+   "Before colonial rule, the territory contained diverse forms of political organisation. Some communities organised authority through kingship and centralised courts; others relied more heavily on lineage institutions, age-sets, chiefs, councils, ritual authorities or negotiated local leadership. These systems changed through migration, trade, warfare, environmental pressures and interaction with neighbouring peoples. The Shilluk kingdom along the White Nile developed a distinctive institution of sacred kingship, while Azande political organisation included powerful kingdoms and chiefdoms in the southwest. Other societies, including Dinka and Nuer communities, had different and internally varied political structures. It is misleading to describe all these societies as stateless or to assume they followed one model of government."
+  ],
+  [
+   "5. The Shilluk (Chollo) kingdom",
+   "The Shilluk kingdom, known in Shilluk as the kingdom of the Chollo, developed along the western bank of the White Nile. Its royal institution and the figure of the reth became central to political and ritual life. Oral traditions connect the kingdom's foundation with Nyikang, whose story remains important in Shilluk historical memory. The kingdom's authority was expressed through ritual, succession, relations among local communities and its position along a major river corridor. Historical accounts written by outsiders often interpreted Shilluk institutions through European ideas of kingship and statehood. A fuller account must use Shilluk oral histories and scholarship, distinguish tradition from independently dated evidence, and avoid presenting one founding narrative as an uncontested chronology."
+  ],
+  [
+   "6. The Azande kingdoms and southwestern histories",
+   "The Azande-speaking communities of the southwest developed influential political formations, including kingdoms associated with the Avungara ruling dynasty. These states connected parts of present-day South Sudan with areas now in the Democratic Republic of the Congo and Central African Republic. Political authority, military organisation, trade, marriage alliances and the incorporation of local communities shaped these kingdoms. The boundaries of their influence changed over time and were later divided by colonial frontiers. The Azande past demonstrates that the region was not isolated from wider Central African political and commercial networks. It also shows why modern national histories must include borderland connections rather than treating current state boundaries as timeless."
+  ],
+  [
+   "7. Cattle, agriculture, trade and seasonal movement",
+   "In many parts of the region, cattle keeping and agriculture developed together with fishing, hunting, gathering and trade. Seasonal movement is a long-standing strategy for managing pasture, water and changing flood conditions. Cattle have social, economic and ritual meanings, but practices vary among communities and households. In riverine areas, fishing and floodplain cultivation are important; in other zones, farming systems and livestock strategies respond to rainfall and soil conditions. Markets connected local producers with regional trading networks. These economies were sophisticated adaptations to varied environments, not evidence of a lack of political or social organisation. Modern conflict and displacement have disrupted many of these systems."
+  ],
+  [
+   "8. The nineteenth-century ivory and slave trades",
+   "During the nineteenth century, commercial and military expansion from Egypt and northern Sudan brought increasing violence into the southern Nile regions. Ivory became a major commodity, and traders and armed expeditions sought labour, transport and control over routes. Enslavement and raiding devastated communities, separated families and transformed local political relationships. Traders, private armies and agents of expanding states operated through networks that crossed what are now international borders. The term 'Turkiyya' is commonly used for the Turco-Egyptian period of rule beginning in 1821, although actual control over the southern regions was uneven and often exercised through intermediaries and commercial armed networks. The history of slavery must include the experiences and agency of people who resisted, escaped, negotiated and rebuilt communities."
+  ],
+  [
+   "9. Turco-Egyptian expansion and the southern frontier",
+   "The Egyptian conquest of northern Sudan in 1820–1821 was followed by efforts to expand commercial and political control southwards. Expeditions moved along the Nile and into the interior, seeking ivory, enslaved people and other resources. The state and private traders were not always separate actors: officials, soldiers, merchants and armed intermediaries could be connected through overlapping interests. Control remained uneven, and many communities resisted or avoided permanent occupation. The southern regions were not simply an empty frontier awaiting administration. They contained established societies, political authorities and networks that shaped the course and limits of external expansion."
+  ],
+  [
+   "10. The Mahdist period, 1881–1898",
+   "The Mahdist movement began in 1881 under Muhammad Ahmad, who declared himself the Mahdi and led a revolt against Turco-Egyptian rule. The Mahdist state captured Khartoum in 1885 and governed much of Sudan until its defeat by Anglo-Egyptian forces at Omdurman in 1898. The southern regions experienced military expeditions, taxation, recruitment, trade disruption and shifting alliances during this period, but the reach of Mahdist authority varied considerably. The period was not uniform across the south: some communities encountered state forces directly, while others remained beyond sustained control. Local accounts and oral histories are necessary to understand how the Mahdist state affected different areas."
+  ],
+  [
+   "11. European imperial competition and the Congo-Nile borderlands",
+   "In the late nineteenth century, European imperial powers and private adventurers competed for control of Central and Northeast Africa. The southern Nile regions became part of a wider struggle involving Britain, Belgium, France and the Egyptian state. The Congo-Nile watershed and the Lado Enclave were among the areas affected by competing claims. European maps and treaties drew borders that divided communities and redirected trade and administration. The modern international boundaries of South Sudan emerged from these imperial arrangements rather than from a single indigenous political settlement. Borderland communities continued to move, trade and maintain family connections across the lines that colonial governments imposed."
+  ],
+  [
+   "12. Anglo-Egyptian rule and the Southern Policy",
+   "After the defeat of the Mahdist state in 1898, the Anglo-Egyptian Condominium was established in 1899. British officials came to dominate administration. Colonial policy in the south differed from policy in the north and became associated with the Southern Policy, which restricted some forms of northern commercial and cultural influence while expanding missionary education and English-language administration in selected areas. Implementation varied across the region and changed over time. Colonial authorities often governed through chiefs and local intermediaries, reshaping existing institutions and sometimes hardening categories of identity. Infrastructure and public services remained limited in much of the south. The policy's long-term consequences included administrative separation, uneven education and a widening institutional divide between north and south."
+  ],
+  [
+   "13. Missionary education, language and colonial administration",
+   "Christian missions established schools, churches and medical facilities in parts of the south, while colonial authorities regulated education, movement and political activity. English became important in some administrative and educational settings, but local languages remained central to everyday life and community organisation. Missionary influence differed from region to region and should not be treated as universal. Some communities embraced new educational opportunities; others had little access to formal schooling. Colonial administration relied heavily on chiefs and other local authorities, changing the relationship between customary leadership and the state. The long-term effects included uneven access to education, a limited southern administrative class and a political system in which many southerners had little influence over national decisions."
+  ],
+  [
+   "14. The end of the Southern Policy and the road to independence",
+   "In the early 1950s, colonial officials moved towards administrative and political integration between north and south. Southern leaders feared that promises of representation and safeguards would not be honoured. The 1947 Juba Conference had brought northern and southern representatives together to discuss the future of the country, but participation and the meaning of integration were contested. The 1953 self-government agreement and the transition to independence took place amid limited southern representation in national institutions. Many southern officers and officials were concerned about the future of their positions and the concentration of power in the north. These anxieties contributed to the crisis that erupted in 1955."
+  ],
+  [
+   "15. The Torit mutiny and the first civil war, 1955–1972",
+   "In August 1955, before Sudan formally became independent in January 1956, soldiers of the southern Sudan Defence Force mutinied at Torit and violence spread to other locations. The mutiny reflected fears among southern soldiers and officials about transfer, political exclusion and the future of the south in an independent state. The resulting conflict developed into the first civil war, with the Anyanya insurgency becoming a major armed movement. The war involved political organisations, military networks and communities across the south, and caused displacement and disruption. The conflict was not simply a spontaneous tribal revolt; it developed from disputes over power, security, representation and the structure of the new Sudanese state."
+  ],
+  [
+   "16. Anyanya, regional politics and the Addis Ababa Agreement",
+   "The Anyanya movement became the principal armed opposition in the first civil war, although its organisation and political programme changed over time. Regional and international developments influenced the conflict, including support networks in neighbouring countries and shifting relations among African states. Negotiations led to the Addis Ababa Agreement in 1972, signed by the Sudanese government and southern representatives. The agreement ended the first civil war and created a Southern Regional Government with a measure of autonomy. It allowed many fighters to return to civilian life or enter national and regional institutions. The settlement brought a decade of relative peace, but it did not resolve all questions about power, development, resources and the relationship between the regional and central governments."
+  ],
+  [
+   "17. Southern regional government, 1972–1983",
+   "The Southern Regional Government established after the Addis Ababa Agreement created institutions for administration, education and public services. It was an important period of political reconstruction, but its resources and authority remained constrained. Regional leaders disagreed over boundaries, representation, language, development and the balance between central and regional power. The government in Khartoum retained important powers, and the region's institutional capacity was limited by decades of war and underinvestment. The discovery of oil and disputes over the organisation of the south added to tensions. The autonomy settlement was weakened by political interference and eventually dismantled by President Jaafar Nimeiri in 1983."
+  ],
+  [
+   "18. The second civil war and the SPLM/A, 1983–2005",
+   "The second civil war began in 1983 after the breakdown of the Addis Ababa settlement, the division of the Southern Region and the introduction of Nimeiri's September Laws. Mutinies by southern soldiers, including at Bor, Ayod and Pibor, contributed to the emergence of the Sudan People's Liberation Army and its political wing, the Sudan People's Liberation Movement. John Garang became the movement's leading figure and advocated a transformed, united Sudan known as the New Sudan. The movement was internally diverse, and many southerners supported self-determination or independence. The 1991 SPLM/A split and subsequent internal conflicts caused severe civilian suffering. The war affected the south, Nuba Mountains and Blue Nile, and was shaped by regional alliances, displacement, humanitarian crises and oil development."
+  ],
+  [
+   "19. The Comprehensive Peace Agreement, 2005",
+   "The Government of Sudan and the SPLM/A signed the Comprehensive Peace Agreement on 9 January 2005. It ended the main north-south war and created an interim period with power-sharing arrangements, wealth-sharing rules, security provisions and an autonomous Government of Southern Sudan. The agreement recognised the right of southern Sudanese to vote in a referendum on self-determination after six years. It also contained protocols for Abyei, Southern Kordofan and Blue Nile. The agreement was a major achievement, but its implementation was difficult. Oil revenue, border demarcation, security arrangements, citizenship and the status of contested territories remained unresolved. The CPA created the pathway to independence but did not remove the political and economic challenges facing the future state."
+  ],
+  [
+   "20. Autonomy, reconstruction and the referendum campaign",
+   "Between 2005 and 2011, the Government of Southern Sudan built institutions while preparing for the referendum. Reconstruction needs were immense after decades of war: roads, schools, hospitals, water systems, courts and public administration were limited. The SPLM transformed from a liberation movement into the dominant governing party, but the transition from armed movement to accountable civilian institutions was difficult. Disagreements within the leadership and local security problems persisted. The referendum campaign became a major political mobilisation, with supporters of independence arguing that the unity option had failed to deliver equality and security. The vote was also shaped by the legacy of war, the expectations of displaced people and the desire for self-government."
+  ],
+  [
+   "21. The January 2011 referendum and independence",
+   "The referendum on self-determination was held in January 2011 under the Comprehensive Peace Agreement. An overwhelming majority of voters chose independence. On 9 July 2011, the Republic of South Sudan became an independent state, with Juba as its capital and Salva Kiir Mayardit as president. Independence was celebrated as the culmination of decades of political struggle and sacrifice. It also created immediate responsibilities: building national institutions, managing oil revenues, establishing citizenship arrangements, securing borders and providing services to a population emerging from war. Independence was a historic achievement, but it did not automatically resolve internal political disputes or the difficult relationships between the new state and Sudan."
+  ],
+  [
+   "22. The new state and the unresolved relationship with Sudan",
+   "After independence, South Sudan and Sudan faced difficult negotiations over oil transit fees, citizenship, border demarcation, security and the status of Abyei. South Sudan depended heavily on oil exports through pipelines and infrastructure in Sudan. In January 2012, the South Sudanese government shut down oil production amid disputes over transit fees and alleged oil diversion, creating a severe fiscal crisis. Fighting around the Heglig/Panthou oil area in 2012 brought the two countries close to a wider war. An agreement in September 2012 addressed several outstanding issues, but implementation remained uneven. The relationship between the two states continued to affect security, trade, public finances and the lives of border communities."
+  ],
+  [
+   "23. Political tensions and the outbreak of civil war in December 2013",
+   "Political rivalry within the ruling SPLM intensified after independence. Disagreements over party leadership, government appointments, the constitution and the direction of the state developed into a major political crisis in 2013. In December, fighting broke out in Juba among elements of the presidential guard and rapidly spread. President Salva Kiir accused former vice-president Riek Machar and others of attempting a coup; Machar denied the allegation. The violence escalated into a national civil war, with political and military alignments increasingly shaped by elite rivalry, local grievances and ethnic mobilisation. Dinka and Nuer communities were especially affected, but the conflict involved many communities and armed actors. It must not be described as an inevitable or timeless ethnic war."
+  ],
+  [
+   "24. The 2013–2018 civil war and its civilian consequences",
+   "The civil war spread through Jonglei, Unity, Upper Nile and other areas. Government forces, opposition forces and allied armed groups committed serious abuses, including killings, sexual violence, recruitment of children, destruction of homes and displacement. Civilians fled to neighbouring countries and to United Nations protection sites. The conflict damaged agriculture, markets, health services and education, while economic collapse and insecurity contributed to famine conditions in parts of the country. The 2015 peace agreement failed to end the war, and renewed fighting in Juba in July 2016 undermined the transitional arrangements. Local conflicts and communal violence also continued, sometimes intersecting with national political and military competition."
+  ],
+  [
+   "25. The 2015 agreement and the return to war",
+   "The Agreement on the Resolution of the Conflict in the Republic of South Sudan was signed in August 2015 by the government and opposition representatives. It established power-sharing arrangements, security provisions and transitional institutions. Riek Machar returned to Juba in 2016 as First Vice-President, but renewed fighting broke out in July and he left the capital. The agreement's implementation was obstructed by mistrust, disputes over security arrangements, political competition and the weakness of institutions. Fighting continued and new armed actors emerged. The failure of the 2015 agreement demonstrated that signing a document without credible security arrangements, political inclusion and accountability could not guarantee peace."
+  ],
+  [
+   "26. The 2018 Revitalized Peace Agreement",
+   "The Revitalized Agreement on the Resolution of the Conflict in the Republic of South Sudan (R-ARCSS) was signed in September 2018 by the principal parties and other signatories. It provided for a revitalized transitional government, power sharing, security-sector arrangements, constitutional and electoral reforms, and mechanisms for accountability, truth, reconciliation and healing. A permanent ceasefire reduced large-scale fighting between the principal signatories, but implementation was repeatedly delayed. The unification and redeployment of forces, establishment of transitional institutions, constitutional review and preparation for elections remained difficult. The agreement's success depended on political trust and the willingness of leaders to share power and implement commitments."
+  ],
+  [
+   "27. The Revitalized Transitional Government and local conflict",
+   "The Revitalized Transitional Government of National Unity was formed in February 2020, with Salva Kiir as president and Riek Machar as First Vice-President. The formation of the government marked an important step, but violence continued in several areas. Intercommunal clashes, cattle raiding, revenge attacks, local militia activity and competition over resources caused civilian deaths and displacement. These conflicts cannot all be explained as direct extensions of the national civil war. Local histories, land disputes, access to water and pasture, weapons, political patronage and weak justice systems all contributed. National leaders and local authorities had responsibilities to prevent violence and protect civilians."
+  ],
+  [
+   "28. Oil dependence, corruption and the economic crisis",
+   "South Sudan's public finances depend heavily on oil exports, making the country vulnerable to disruptions in production, pipeline access and global prices. The economy has also been affected by conflict, flooding, poor infrastructure, weak public financial management and the high cost of security. Reports by UN bodies and other investigators have documented corruption and diversion of public resources, with severe consequences for public services. Oil wealth has not translated into reliable services for many citizens. A full economic history must examine the structure of oil contracts, revenue management, state budgets, local livelihoods, agriculture, trade and the impact of corruption on education, health and infrastructure."
+  ],
+  [
+   "29. Floods, climate pressures and humanitarian needs",
+   "Large areas of South Sudan are affected by seasonal flooding, and severe floods in recent years have displaced communities, damaged crops and livestock, and disrupted schools, health facilities and roads. Flooding interacts with conflict, poverty and weak infrastructure to increase food insecurity. The Sudd and other wetlands are vital ecosystems and livelihoods, not simply obstacles to development. Climate change may intensify some hazards, but local vulnerability also depends on land management, public investment, conflict and access to services. Humanitarian assistance has been essential for millions of people, while aid organisations face insecurity, access restrictions and funding challenges."
+  ],
+  [
+   "30. Refugees, returnees and the regional impact of Sudan's 2023 war",
+   "The war that erupted in Sudan in April 2023 had major consequences for South Sudan. Refugees and South Sudanese returnees crossed the border, many arriving in areas already facing food insecurity and limited services. Border communities experienced pressure on housing, transport, markets and humanitarian facilities. The movement of people also renewed family and trade connections across the border. Many South Sudanese had lived in Sudan for years or generations, and their return involved difficult questions of documentation, property, livelihoods and reintegration. The crisis demonstrated how closely the two countries remain connected despite their separate sovereignty."
+  ],
+  [
+   "31. Political crisis and renewed fighting in 2025",
+   "During 2025, tensions between the government and the SPLM/A-IO escalated, particularly after fighting in Upper Nile State and the March attack on a government base in Nasir. The government detained First Vice-President Riek Machar in March 2025, and later announced serious criminal charges against him and other opposition figures. Fighting and insecurity affected civilians in Upper Nile, Jonglei, Western Equatoria and other areas. Human Rights Watch's World Report 2026 documented escalating clashes, aerial bombardments in populated areas, restrictions on civil and political rights and a worsening humanitarian crisis during 2025. These developments placed the 2018 peace agreement under severe strain."
+  ],
+  [
+   "32. The political and security situation in 2026",
+   "As of 11 November 2026, South Sudan's transition remains highly contested. The United Nations reported on 10 November that national elections are planned for 22 December 2026, but serious concerns remain about security, logistics, electoral preparedness, political inclusion and outstanding provisions of the 2018 peace agreement. On 22 September, President Kiir dissolved the transitional government and appointed a caretaker administration; opposition groups disputed the legality and inclusiveness of the changes. The SPLM/A-IO has remained outside key dialogue processes, while Machar remains detained and faces criminal proceedings. UNMISS has warned that approximately 10 million people need humanitarian assistance and that access restrictions have risen. The planned election should therefore be described as scheduled, not as an event that has already occurred or as guaranteed to be peaceful. The situation can change rapidly and this section requires regular updating."
+  ],
+  [
+   "33. The role of UNMISS and regional diplomacy",
+   "The United Nations Mission in South Sudan (UNMISS) was established in 2011 to support peace consolidation, state-building and the protection of civilians. Its mandate and operating environment changed as conflict escalated. The mission has supported civilian protection, human-rights monitoring, humanitarian access and political processes, while facing attacks, movement restrictions and difficult conditions. Regional organisations, especially the African Union and the Intergovernmental Authority on Development (IGAD), have played central roles in mediation and implementation efforts. Kenya, Uganda, Ethiopia and other neighbours have been involved in diplomacy and cross-border security. External support can help, but a durable settlement requires South Sudanese political actors and communities to address the country's internal divisions."
+  ],
+  [
+   "34. Women, youth, civil society and the work of rebuilding",
+   "Women have been central to survival, peace activism, household economies, education, health care and community reconciliation, yet remain underrepresented in political decision-making and face high levels of gender-based violence. Youth make up a large share of the population and have experienced disrupted education, displacement, unemployment and recruitment into armed groups. Civil society organisations, churches, traditional authorities, journalists, teachers and local peace committees have worked to protect communities and encourage dialogue. These histories should not be treated as secondary to the activities of presidents and armed commanders. A full national history must preserve women's testimony, youth perspectives and the work of local peacebuilders."
+  ],
+  [
+   "35. Independence, citizenship and the unfinished national project",
+   "Independence in 2011 created a sovereign state, but nation-building remains a continuing process. South Sudan's diversity is a source of cultural and historical richness, while political exclusion, armed competition, weak institutions and uneven development have made national cohesion difficult. The country's future depends on civilian protection, inclusive politics, credible public institutions, accountable management of resources, justice, education, health care and the ability of communities to resolve disputes without violence. Independence should neither be dismissed because of the wars that followed nor treated as the completion of liberation. It is a continuing political project whose history is being made by South Sudanese people across the country and diaspora."
+  ],
+  [
+   "36. Research priorities and the need for community histories",
+   "This national chapter provides a framework, not the final word on South Sudan's past. It must be expanded through dedicated histories of Dinka regions and clans, Nuer communities, Shilluk institutions, Azande kingdoms, Bari-speaking communities, Equatorian societies, Toposa, Murle, Anyuak, Acholi, Madi, Lotuko and many others. Further work is needed on women and gender, education, Christianity and local religious traditions, trade, cattle economies, music, literature, urban history, borderlands, refugees, the diaspora and the experiences of people living through the wars. Oral histories should be collected with informed consent and clear attribution. Conflicting accounts should be presented transparently rather than forced into a single simplified national narrative."
+  ]
+ ],
+ "source_leads": [
+  {
+   "name": "Øystein H. Rolandsen and M. W. Daly, A History of South Sudan: From Slavery to Independence, Cambridge University Press (2016)",
+   "url": "https://www.cambridge.org/core/books/a-history-of-south-sudan/7CD5DCCE76EE8326DDAC3F734B3A25ED"
+  },
+  {
+   "name": "Peace Research Institute Oslo, A History of South Sudan — book overview and chronology",
+   "url": "https://www.prio.org/publications/10358"
+  },
+  {
+   "name": "Steven C. Roach, South Sudan's Fateful Struggle: Building Peace in a State of War, Oxford University Press (2023), chapter on slave soldiers, colonial rule and armed resistance",
+   "url": "https://academic.oup.com/book/49417/chapter-abstract/418512677"
+  },
+  {
+   "name": "United Nations Mission in South Sudan, mandate and background",
+   "url": "https://unmiss.unmissions.org/"
+  },
+  {
+   "name": "Human Rights Watch, World Report 2026: South Sudan (events of 2025)",
+   "url": "https://www.hrw.org/world-report/2026/country-chapters/south-sudan"
+  },
+  {
+   "name": "UN Commission on Human Rights in South Sudan, 18 January 2026 statement on renewed fighting in Jonglei",
+   "url": "https://wapsphp.test.ohchr.un-icc.cloud/en/press-releases/2026/01/south-sudan-un-commission-urges-immediate-political-de-escalation-renewed"
+  },
+  {
+   "name": "UN Secretary-General, Report on the situation in South Sudan, 13 April 2026",
+   "url": "https://unmiss.unmissions.org/sites/default/files/2026-05/Secretary-General%27s%20Report%20on%20the%20situation%20in%20South%20Sudan%20%2813%20April%202026%29.pdf"
+  },
+  {
+   "name": "African Union Peace and Security Council, Communiqué on South Sudan, 26 August 2026",
+   "url": "https://www.beta.peaceau.org/en/article/communique-of-the-1364th-psc-meeting-held-on-26-august-2026-on-briefing-on-the-latest-developments-in-south-sudan"
+  },
+  {
+   "name": "UNMISS, briefing to the Security Council, 10 November 2026",
+   "url": "https://unmiss.unmissions.org/en/news/press-release-unmiss-urges-inclusive-dialogue-protection-of-civilians-and-renewed"
+  },
+  {
+   "name": "Security Council Report, South Sudan briefing and consultations, November 2026",
+   "url": "https://www.securitycouncilreport.org/whatsinblue/2026/11/south-sudan-briefing-and-consultations-33.php"
+  }
+ ],
+ "note": "Chronology distinguishes the 1955 Torit mutiny from Sudan's January 1956 independence; the first civil war (1955–1972) from the second (1983–2005); the 2005 CPA from South Sudan's 2011 independence; and the 2013–2018 civil war from local intercommunal conflicts. Current affairs are dated to 11 November 2026. The 22 December 2026 election is planned, not yet held. The country requires many further community-specific chapters and local oral histories."
+}
 ]
