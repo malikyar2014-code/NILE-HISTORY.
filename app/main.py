@@ -135,6 +135,36 @@ HISTORICAL_BOOKS = {
         "editorial_warning": "Produced by colonial government officers in 1905. It is a valuable primary source for the period, but its descriptions, categories and political assumptions reflect the colonial administration. Read critically and compare with Sudanese scholarship, community histories and other independent sources.",
         "language": "English",
         "pages": "351 pages in Volume I, plus illustrations and appendices in the digitised edition"
+    },
+    "anglo-egyptian-sudan-vol2": {
+        "id": "anglo-egyptian-sudan-vol2",
+        "title": "The Anglo-Egyptian Sudan: A Compendium, Volume II — Routes",
+        "author": "Sudan. Wizarat al-Naql wa-al-Muwasalat",
+        "editor": "Lord Edward Gleichen",
+        "year": "1905",
+        "publisher": "His Majesty's Stationery Office, London",
+        "description": "The second volume of the 1905 government compendium, focused on routes and travel information across the Sudan of its period.",
+        "source": "Project Gutenberg, eBook 74585",
+        "source_url": "https://www.gutenberg.org/ebooks/74585",
+        "text_url": "https://www.gutenberg.org/cache/epub/74585/pg74585.txt",
+        "rights": "Project Gutenberg identifies this edition as public domain in the United States. Copyright rules differ by country; readers and redistributors outside the USA should check local law.",
+        "editorial_warning": "Produced by colonial government officers in 1905. Its route descriptions are a historical snapshot, not a current map or present-day travel guide. Read its descriptions and classifications critically.",
+        "language": "English"
+    },
+    "incidents-nubia-darfur": {
+        "id": "incidents-nubia-darfur",
+        "title": "Incidents on a Journey through Nubia to Darfoor",
+        "author": "F. Sidney Ensor",
+        "editor": "Original 1881 edition",
+        "year": "1881",
+        "publisher": "W. H. Allen & Co., London",
+        "description": "A nineteenth-century travel narrative describing a journey through Nubia toward Darfur. It is useful as a contemporary account of places, routes and encounters, but does not represent the perspectives of all the communities described.",
+        "source": "Project Gutenberg, eBook 78526",
+        "source_url": "https://www.gutenberg.org/ebooks/78526",
+        "text_url": "https://www.gutenberg.org/cache/epub/78526/pg78526.txt",
+        "rights": "Project Gutenberg identifies this edition as public domain in the United States. Copyright rules differ by country; readers and redistributors outside the USA should check local law.",
+        "editorial_warning": "A Victorian travel narrative written by an outsider. Its observations, names and descriptions may reflect the author's assumptions and the conventions of nineteenth-century travel writing. Compare it with Sudanese oral histories, local scholarship and other sources.",
+        "language": "English"
     }
 }
 
