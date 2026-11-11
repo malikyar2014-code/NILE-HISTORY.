@@ -54,3 +54,33 @@ async function loadWikipediaCatalog(){
  }catch(error){count.textContent='Could not load the source catalogue. Refresh to try again.';}
 }
 loadWikipediaCatalog();
+
+
+async function loadBookCatalog(){
+ const node=document.getElementById('bookCatalog');if(!node)return;
+ try{
+  const response=await fetch('/api/library/books');if(!response.ok)throw new Error('catalog');
+  const data=await response.json();
+  node.innerHTML=data.items.map(book=>'<article class="book-card"><div class="eyebrow">'+esc(book.year)+' · '+esc(book.language)+'</div><h3>'+esc(book.title)+'</h3><p><b>Author:</b> '+esc(book.author)+'<br><b>Editor:</b> '+esc(book.editor)+'<br><b>Publisher:</b> '+esc(book.publisher)+'</p><p>'+esc(book.description)+'</p><button type="button" class="primary book-open" data-book="'+esc(book.id)+'">Read complete book inside NILE HISTORY ↗</button><p class="book-rights">'+esc(book.rights)+'</p></article>').join('');
+  node.querySelectorAll('[data-book]').forEach(button=>button.addEventListener('click',()=>openHistoricalBook(button.dataset.book,data.items.find(item=>item.id===button.dataset.book))));
+ }catch(error){node.textContent='The historical book catalogue could not be loaded. Refresh to try again.';}
+}
+async function openHistoricalBook(id,book){
+ body.replaceChildren();const eyebrow=document.createElement('div');eyebrow.className='eyebrow';eyebrow.textContent='DIGITISED PRIMARY SOURCE · FULL TEXT';
+ const title=document.createElement('h2');title.textContent=book.title;
+ const status=document.createElement('p');status.textContent='Loading the complete digitised text…';
+ body.append(eyebrow,title,status);dlg.showModal();
+ try{
+  const response=await fetch('/api/library/books/'+encodeURIComponent(id)+'/text');if(!response.ok)throw new Error('source');
+  const sourceText=await response.text();
+  const warning=document.createElement('aside');warning.className='book-warning';warning.textContent=book.editorial_warning;
+  const meta=document.createElement('p');meta.className='book-meta';meta.textContent=book.author+' · edited by '+book.editor+' · '+book.year+' · '+book.publisher;
+  const pre=document.createElement('pre');pre.className='book-fulltext';pre.textContent=sourceText;
+  const attribution=document.createElement('section');attribution.className='wiki-attribution';
+  const source=document.createElement('a');source.href=book.source_url;source.target='_blank';source.rel='noopener';source.textContent=book.source+' — bibliographic record and original edition';
+  const rights=document.createElement('p');rights.textContent=book.rights;
+  attribution.append(source,rights);
+  body.replaceChildren(eyebrow,title,meta,warning,pre,attribution);
+ }catch(error){status.textContent='The full text could not be retrieved right now. Please try again later.';}
+}
+loadBookCatalog();
