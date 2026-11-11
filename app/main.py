@@ -3,7 +3,7 @@ import json
 from urllib.request import Request, urlopen
 from urllib.parse import quote
 from fastapi import FastAPI, HTTPException, Query
-from fastapi.responses import HTMLResponse
+from fastapi.responses import HTMLResponse, PlainTextResponse
 from fastapi.staticfiles import StaticFiles
 from app.data import ARTICLES
 
@@ -115,3 +115,51 @@ def wikipedia_article(page_id: str):
         "history_url": f"https://en.wikipedia.org/w/index.php?title={title}&action=history",
         "attribution": "Wikipedia contributors",
     }
+
+
+# Public-domain source books with verified catalogue metadata.
+# Copyright status is territory-specific; this edition is marked public domain in the USA by Project Gutenberg.
+HISTORICAL_BOOKS = {
+    "anglo-egyptian-sudan-vol1": {
+        "id": "anglo-egyptian-sudan-vol1",
+        "title": "The Anglo-Egyptian Sudan: A Compendium, Volume I",
+        "author": "Sudan. Wizarat al-Naql wa-al-Muwasalat",
+        "editor": "Lord Edward Gleichen",
+        "year": "1905",
+        "publisher": "His Majesty's Stationery Office, London",
+        "description": "A large contemporary government compendium covering geography, peoples, administration and a historical section from early periods through the end of the nineteenth century.",
+        "source": "Project Gutenberg, eBook 74584",
+        "source_url": "https://www.gutenberg.org/ebooks/74584",
+        "text_url": "https://www.gutenberg.org/cache/epub/74584/pg74584.txt",
+        "rights": "Project Gutenberg identifies this edition as public domain in the United States. Copyright rules differ by country; readers and redistributors outside the USA should check local law.",
+        "editorial_warning": "Produced by colonial government officers in 1905. It is a valuable primary source for the period, but its descriptions, categories and political assumptions reflect the colonial administration. Read critically and compare with Sudanese scholarship, community histories and other independent sources.",
+        "language": "English",
+        "pages": "351 pages in Volume I, plus illustrations and appendices in the digitised edition"
+    }
+}
+
+@app.get("/api/library/books")
+def historical_book_catalog():
+    return {"count": len(HISTORICAL_BOOKS), "items": [
+        {key: value for key, value in book.items() if key != "text_url"}
+        for book in HISTORICAL_BOOKS.values()
+    ]}
+
+_BOOK_TEXT_CACHE = {}
+
+@app.get("/api/library/books/{book_id}/text", response_class=PlainTextResponse)
+def historical_book_text(book_id: str):
+    book = HISTORICAL_BOOKS.get(book_id)
+    if not book:
+        raise HTTPException(status_code=404, detail="Book not found in the NILE HISTORY collection")
+    if book_id not in _BOOK_TEXT_CACHE:
+        request = Request(book["text_url"], headers={"User-Agent": "NILE-HISTORY/1.0 (historical source reader)"})
+        try:
+            with urlopen(request, timeout=35) as response:
+                text = response.read().decode("utf-8-sig")
+        except Exception as exc:
+            raise HTTPException(status_code=502, detail="The digitised book is temporarily unavailable. Please try again.") from exc
+        if "*** START OF THE PROJECT GUTENBERG EBOOK" not in text:
+            raise HTTPException(status_code=502, detail="The source text did not pass the expected edition check.")
+        _BOOK_TEXT_CACHE[book_id] = text
+    return PlainTextResponse(_BOOK_TEXT_CACHE[book_id], headers={"Cache-Control": "public, max-age=3600"})
