@@ -1304,4 +1304,179 @@ ARTICLES = [
  ],
  "note": "The chapter distinguishes the SPLM/A's New Sudan programme from southern separatist positions; distinguishes Anyanya II from the SPLM/A; treats the 1991 split and internal southern violence without collective ethnic blame; and distinguishes the north-south war from conflicts in Darfur, the Nuba Mountains and Blue Nile. Population and casualty estimates vary by source and methodology; no single exact death toll is asserted here."
 }
+,
+ {
+ "id": "darfur-conflict-2003-present",
+ "title": "Darfur, 2003–present: rebellion, counter-insurgency, peace efforts and renewed war",
+ "period": "2003–present",
+ "region": "Darfur, western Sudan, including North, South, East, Central and West Darfur",
+ "category": "Wars and conflicts",
+ "summary": "A detailed history of the Darfur conflict from the 2003 rebellion through government counter-insurgency, mass displacement, international investigations, peace agreements, the 2019 transition, the 2023 SAF–RSF war and the fall of El Fasher in 2025. It distinguishes local communities and armed movements, documents civilian experiences and explains legal findings with their dates and institutional context.",
+ "status": "Substantial research synthesis, not an exhaustive account of every Darfuri community, locality or survivor",
+ "article_sections": [
+  [
+   "1. Darfur before 2003: a region with its own histories",
+   "Darfur is a large and diverse region in western Sudan, historically connected to the Sahel, the Nile Valley, Libya, Chad and Central Africa. It was home to settled farmers, pastoralists, traders, artisans, religious scholars and communities whose livelihoods often combined cultivation and livestock keeping. The Fur Sultanate, which ruled much of the region until its incorporation into the Anglo-Egyptian Sudan in 1916, remains an important part of political memory. Darfur's history cannot be reduced to a division between 'Arab' and 'African' populations. Communities have long shared languages, religious traditions, markets, marriage ties and political institutions, while also maintaining distinct identities and histories. The Fur, Masalit, Zaghawa, Berti, Tunjur, Daju, Tama, Birgid, Arab pastoralist groups and many others have different experiences and internal diversity. The modern conflict emerged from this complex regional history and the relationship between Darfur and the central Sudanese state."
+  ],
+  [
+   "2. Land, water and local authority",
+   "Access to land and water has been central to Darfur's social and political life. Farming communities cultivated fields and used established territories, while pastoralist groups moved seasonally with livestock along routes to water and pasture. Customary land rights, often described through the institution of dar or homeland, were administered through local authorities and native administration structures. These arrangements varied by community and changed under colonial and postcolonial governments. Drought, desertification, population growth and changing rainfall patterns placed pressure on livelihoods, but environmental stress alone does not explain the war. Decisions by governments, unequal investment, arms flows, political manipulation, weakened dispute-resolution systems and the failure to protect civilians transformed local disputes into wider violence. Land is not simply an economic resource: it is tied to belonging, authority, identity, return and the possibility of rebuilding after displacement."
+  ],
+  [
+   "3. The 1980s and the weakening of local peace mechanisms",
+   "Darfur experienced severe drought and famine in the 1980s, including the 1984–1985 famine. Competition over pasture, water, cultivated land and migration routes intensified in some areas. The region also experienced cross-border flows of weapons and fighters, including during the conflict in Chad and the wider regional wars of the period. Local agreements and customary authorities sometimes helped settle disputes, but their ability to prevent violence was weakened by political interference and the growing availability of firearms. The 1987–1989 conflict in parts of Darfur, including violence involving Fur and Arab groups, demonstrated how local tensions could escalate when state institutions failed to protect people and mediate disputes. The later war did not begin from a blank slate, but neither was it inevitable: political choices and the organisation of armed power mattered."
+  ],
+  [
+   "4. Darfur under the Bashir government",
+   "Omar al-Bashir's 1989 government centralised political power and reorganised administration across Sudan. In Darfur, administrative divisions and appointments altered local balances of authority. The weakening or politicisation of native administration, disputes over land and representation, and unequal distribution of public services contributed to grievances. Darfuris complained of marginalisation in national decision-making, limited infrastructure and inadequate development investment. The region's political opposition included both peaceful activists and armed networks. The 1990s also saw the spread of weapons and the mobilisation of local armed groups. These developments should be examined through local archives and testimony: no single explanation applies to every locality, and the experiences of North, South and West Darfur were not identical."
+  ],
+  [
+   "5. The emergence of the Sudan Liberation Movement/Army and the Justice and Equality Movement",
+   "The Sudan Liberation Movement/Army (SLM/A, also widely called SLA) and the Justice and Equality Movement (JEM) emerged as organised opposition movements in the early 2000s. They accused the central government of marginalising Darfur and failing to protect its population. Their membership and support bases were not identical, and both movements later experienced splits and leadership disputes. The SLM/A drew support from communities including Fur and Zaghawa, while JEM had a distinct political and organisational history and links to wider national opposition networks. Neither movement represented every member of the communities from which some of its fighters came. Their political programmes, command structures and military strategies changed over time. The movements' emergence reflected both local grievances and a national struggle over the distribution of power in Sudan."
+  ],
+  [
+   "6. The 2003 rebellion",
+   "In February 2003, the rebellion escalated into open attacks on government positions. The SLM/A and JEM challenged the authority of the central government and attacked military and security targets. The government treated the uprising as a major threat to state control in the west. The conflict rapidly expanded beyond isolated clashes. Government forces and allied militia formations launched counter-insurgency operations across Darfur. Attacks on villages, killings, sexual violence, destruction of homes and the looting of livestock drove civilians from their communities. The pattern of violence varied by place and time, but the scale of the crisis soon drew international attention. The rebellion's immediate military objectives must be distinguished from the wider political and social grievances that had accumulated over decades."
+  ],
+  [
+   "7. Government counter-insurgency and the Janjaweed",
+   "The Bashir government used the regular armed forces, air power, intelligence services and allied militia forces in its campaign against the rebellion. The term Janjaweed became widely used for some of the armed militia formations involved in attacks on civilians, although it did not describe one uniform organisation with a single command throughout the conflict. Investigations documented coordination and cooperation between government forces and allied militias in attacks on villages. The United Nations International Commission of Inquiry reported in January 2005 that government forces and Janjaweed militias were responsible for widespread and systematic serious violations, including killings, rape, village destruction, pillage and forced displacement. The Commission also found evidence of serious violations by rebel forces. The evidence must be discussed without blaming whole ethnic communities: armed perpetrators and political leaders bear responsibility for their actions."
+  ],
+  [
+   "8. Who were the civilians targeted?",
+   "The 2005 UN Commission documented that many victims of attacks belonged to Fur, Zaghawa, Masalit and other communities commonly categorised in the sources of the time as African. Later investigations documented targeted violence against specific non-Arab communities in particular locations. However, the labels 'Arab' and 'African' are not simple biological or fixed racial categories. Darfur's communities are internally diverse, and language, livelihood, ancestry, political allegiance and local identity overlap in complex ways. Many Arab Darfuris opposed militia violence, suffered from the war or were displaced; many people from non-Arab communities held different political positions. A responsible history identifies perpetrators and victims through evidence and does not assign guilt or innocence to an entire population."
+  ],
+  [
+   "9. Village destruction, sexual violence and forced displacement",
+   "The conflict destroyed villages, homes, farms, wells, schools and local markets. Livestock were stolen or killed, crops were lost and families were forced to flee. Survivors and investigators documented killings, torture, rape and other forms of sexual violence, abduction, pillage and the destruction of livelihoods. Sexual violence affected women and girls in particular, while men and boys also faced killing, detention and other abuses. The consequences extended long after an attack: loss of land documents, fear of returning, family separation, stigma and the breakdown of community institutions made recovery difficult. These crimes should be documented with dignity and care for survivors. Statistics vary by source and period, and figures should always be accompanied by their date, method and geographic scope."
+  ],
+  [
+   "10. Displacement, camps and the cross-border refugee crisis",
+   "Millions of Darfuris were displaced inside Sudan or fled across the border into Chad. Internally displaced people settled in camps and informal sites near towns such as El Fasher, Nyala, Zalingei and Geneina, as well as in rural locations. Camps became places of shelter and community organisation, but residents faced insecurity, inadequate water and sanitation, limited health services, restrictions on movement and dependence on humanitarian assistance. Some camps were attacked or threatened, and the presence of armed actors created additional risks. Refugees in Chad established new social networks while maintaining connections to home communities. Displacement was not a single event: families were often forced to move repeatedly as violence spread or camps became unsafe."
+  ],
+  [
+   "11. The 2004 ceasefire and African Union involvement",
+   "The N'Djamena Humanitarian Ceasefire Agreement was signed in April 2004 by the Government of Sudan and the SLM/A and JEM movements. It aimed to halt hostilities and enable humanitarian access, but violations continued and monitoring was difficult. The African Union took a leading role in the political process and deployed observers and protection personnel. The African Union Mission in Sudan (AMIS) began with a limited mandate and resources relative to the scale of the territory and the crisis. Its work included monitoring ceasefire arrangements and supporting protection efforts, but it struggled with logistics, security and the scale of civilian need. The experience showed the limits of deploying a small monitoring mission into a conflict involving widespread attacks and mass displacement."
+  ],
+  [
+   "12. The UN Commission of Inquiry and the question of genocide",
+   "The UN Security Council established an International Commission of Inquiry in September 2004. Its report, submitted in January 2005, found that government forces and allied Janjaweed militias had committed serious violations amounting to crimes under international law, including crimes against humanity and war crimes. It also found credible evidence of serious violations by rebel forces. On the specific question of genocide, the Commission concluded that it had not established a government policy of genocide, reasoning that the specific intent to destroy a protected group was not demonstrated at the level of central government policy; it stressed that this did not reduce the gravity of the crimes. The United States government separately determined in 2004 that genocide had occurred. In 2010, the International Criminal Court added genocide charges to its warrant for Bashir. These are distinct institutional findings made under different mandates and at different times; they should not be collapsed into one statement."
+  ],
+  [
+   "13. The International Criminal Court and accountability",
+   "In March 2005, the UN Security Council referred the situation in Darfur to the International Criminal Court through Resolution 1593. The ICC later issued warrants for senior figures, including President Omar al-Bashir, on allegations of crimes against humanity, war crimes and genocide; other cases concerned officials and militia leaders. A warrant is an accusation and not a conviction. The court's work has been affected by non-cooperation, the difficulty of securing arrests and the dangers facing witnesses. Accountability efforts also include national courts, documentation by Sudanese organisations, survivor testimony, sanctions and other international mechanisms. Justice requires protecting witnesses, preserving evidence, supporting survivors and ensuring that investigations do not expose communities to further danger."
+  ],
+  [
+   "14. The 2006 Darfur Peace Agreement",
+   "The Darfur Peace Agreement was signed in Abuja, Nigeria, in May 2006 by the Sudanese government and a faction of the SLM/A led by Minni Minawi. Other major rebel factions did not sign, arguing that the agreement did not adequately address security, compensation, power sharing and the return of displaced people. The agreement therefore lacked broad support among armed movements and many affected communities. Its implementation was limited, and violence continued. Minawi later held a senior position in the government, while other factions remained outside the settlement. The agreement is important not because it ended the war, but because it illustrates the difficulty of negotiating with fragmented movements when civilians and local communities do not feel adequately represented."
+  ],
+  [
+   "15. UNAMID and the long international mission",
+   "In July 2007, the UN Security Council authorised the African Union–United Nations Hybrid Operation in Darfur (UNAMID). It replaced the African Union mission and was mandated to protect civilians, support humanitarian access and assist the political process. UNAMID operated in a vast and insecure region and faced restrictions, attacks, logistical problems and political obstacles. Its presence provided protection and monitoring in some locations, but it could not prevent all attacks or resolve the underlying political disputes. The mission's eventual withdrawal was controversial because insecurity and displacement persisted. The history of UNAMID should include both its limitations and the experiences of people who relied on its presence for protection."
+  ],
+  [
+   "16. The Doha Document for Peace in Darfur, 2011",
+   "The Doha Document for Peace in Darfur was finalised in 2011 after negotiations hosted by Qatar. The Government of Sudan and the Liberation and Justice Movement signed the document in July 2011. It addressed power sharing, wealth sharing, human rights, justice and reconciliation, compensation, return and internal dialogue. Several major armed movements did not sign, and implementation was uneven. The document created institutions, including a Darfur Regional Authority, but did not produce a comprehensive end to armed conflict. Some communities remained displaced, land disputes continued and insecurity persisted. Peace agreements can establish frameworks, but their success depends on inclusive participation, security guarantees, resources and practical implementation."
+  ],
+  [
+   "17. The Rapid Support Forces and the legacy of militia structures",
+   "The Rapid Support Forces (RSF) were formally established by the Sudanese government in 2013 and drew heavily on networks and commanders associated with Janjaweed militia formations. The RSF became a powerful paramilitary force under Mohamed Hamdan Dagalo, known as Hemedti. The RSF was incorporated into Sudan's security architecture but retained a distinct command and economic interests. Its rise reflected the Bashir government's earlier reliance on auxiliary armed forces and the use of militia structures in counter-insurgency. The RSF should not be described as identical in every respect to all Janjaweed groups: it was a later, formalised organisation with its own institutional development. Its emergence nevertheless connects the Darfur wars of the 2000s to the national conflict that erupted in 2023."
+  ],
+  [
+   "18. Conflict and local insecurity in the 2010s",
+   "The signing of peace documents did not end violence in Darfur. Armed movements continued to operate, government forces and the RSF conducted security operations, and local conflicts over land, livestock, water and authority persisted. In some areas, militia violence and attacks on villages displaced civilians who had already been uprooted once. The growth of the RSF and its role in national politics changed the balance of armed power. Gold mining and other economic networks became important sources of income and influence for armed actors. The region's population continued to face weak public services, limited justice mechanisms and uncertainty over land restitution. The 2010s should be treated as a period of continued and changing conflict, not as a settled post-war era."
+  ],
+  [
+   "19. The 2019 revolution and the question of Darfur's future",
+   "Popular protests led to the removal of Omar al-Bashir in April 2019. A transitional political process began, involving civilian forces and military leaders, including the Sudanese Armed Forces and RSF. Darfuris participated in the national revolution and continued to demand justice, security, civilian rule, land rights and the return of displaced people. The transition faced major challenges: the security forces retained substantial power, armed movements remained active, and the demands of victims and displaced communities could not be met quickly. The 2019 change of leadership did not automatically dismantle the institutions and armed networks built during the Bashir era."
+  ],
+  [
+   "20. The Juba Peace Agreement, 2020",
+   "The Juba Peace Agreement was signed in October 2020 between Sudan's transitional government and several armed movements, including factions from Darfur. It addressed power sharing, security arrangements, land, compensation, development and the integration of former combatants. Some important movements did not sign, and implementation was delayed and contested. The agreement offered a framework for addressing long-standing grievances, but it could not by itself resolve local security problems or rebuild trust among communities. Disputes over representation and the future of armed forces remained significant. The agreement's record should be assessed through what was implemented on the ground, not only through the text signed by political leaders."
+  ],
+  [
+   "21. The 2021 coup and the collapse of the transition",
+   "In October 2021, military leaders seized power and derailed the civilian-led transition. The coup weakened the political process that had been expected to support implementation of peace agreements and security-sector reform. Armed groups and political actors repositioned themselves, while public protests continued. The unresolved question of integrating the RSF into the national army became a central source of tension between the armed leaderships. Darfur's local security arrangements remained fragile, and civilians continued to face attacks and displacement. The coup did not create all of these problems, but it removed an important route through which a civilian political settlement might have addressed them."
+  ],
+  [
+   "22. The war between the SAF and RSF, from 15 April 2023",
+   "On 15 April 2023, fighting erupted between the Sudanese Armed Forces (SAF) and the RSF, turning a national power struggle into a devastating war. Darfur quickly became one of the most dangerous theatres. The conflict involved the national armed forces, the RSF and allied militias, armed movements with changing alignments, and local defence groups. In some areas, former rebel movements that had signed peace agreements took different positions; some later fought alongside the army in joint formations. The war disrupted transport, markets, health services and humanitarian operations. It also intensified local violence and revived patterns of ethnic targeting documented in earlier decades. Darfur's conflict in 2023 must be understood in relation to the national SAF–RSF war and to the region's own history."
+  ],
+  [
+   "23. El Geneina and the targeting of Masalit communities in 2023",
+   "West Darfur's capital, El Geneina, experienced a particularly severe campaign of violence in 2023. Human Rights Watch's investigation, published in 2024, concluded that the RSF and allied militias carried out a campaign of ethnic cleansing against the Masalit and other non-Arab communities. Its research documented killings, attacks on neighbourhoods, sexual violence, torture, pillage and forced displacement during attacks between April and June 2023 and later violence in Ardamata. The organisation interviewed more than 220 people and analysed photographs, videos and satellite imagery. These findings describe responsibility of armed perpetrators and their allies; they do not justify blaming all Arab residents or any entire community. The flight of survivors into Chad reshaped families and the demographic landscape of West Darfur."
+  ],
+  [
+   "24. Zamzam camp, Nyala and the widening war",
+   "The war spread across Darfur's towns, camps and rural districts. Zamzam, one of Sudan's largest displacement camps near El Fasher, was attacked in April 2025, forcing large numbers of residents to flee. Nyala, the capital of South Darfur, became a major RSF-controlled centre during the war, while other towns and routes changed hands or remained contested. Attacks on camps and civilian infrastructure deepened an already severe humanitarian emergency. Displacement sites are not simply temporary settlements: many families had lived in them for years after earlier wars, and the renewed fighting forced them to flee again. Humanitarian reporting must distinguish newly displaced people from those displaced in earlier phases."
+  ],
+  [
+   "25. The siege and fall of El Fasher, 2024–2025",
+   "El Fasher, the capital of North Darfur, endured a prolonged siege as the RSF and allied forces fought the Sudanese army and armed movements aligned with it. The city was a refuge for civilians displaced by earlier attacks and a major humanitarian centre. Fighting, bombardment, restrictions on supplies and attacks on nearby displacement sites severely damaged civilian life. The RSF captured El Fasher in October 2025 after the siege. The UN Human Rights Office reported in February 2026 that it had documented more than 6,000 killings during the first three days of the final offensive, based on interviews with over 140 victims and witnesses; it assessed that the real toll was likely higher. These are documented estimates tied to a defined period and investigation, not a complete final count of all deaths."
+  ],
+  [
+   "26. The 2026 findings on El Fasher and international law",
+   "In February 2026, the UN Independent International Fact-Finding Mission for the Sudan reported that mass killings and related atrocities committed by the RSF in and around El Fasher during its October 2025 takeover showed hallmarks of genocide. The Mission described identity-based targeting, including against Zaghawa and Fur communities, and patterns of killings, sexual violence, detention, torture and disappearances. Amnesty International's July 2026 investigation separately concluded that the RSF committed crimes against humanity and ethnic cleansing during its campaign to seize El Fasher, and said some documented conduct might be relevant to genocide investigations. These are serious findings by named investigative bodies; legal determinations should be attributed accurately and distinguished from a final criminal conviction by a competent court. Earlier UN findings on Darfur in 2005 addressed a different period and inquiry."
+  ],
+  [
+   "27. Darfur's humanitarian situation and displacement in 2026",
+   "The fall of El Fasher produced another major wave of displacement, particularly towards Tawila and other parts of North Darfur and across the border into Chad. Humanitarian reporting in 2026 continued to describe severe shortages of food, safe water, shelter and health care. The European Union Agency for Asylum, citing IOM displacement data, reported that North Darfur hosted more than 1.6 million internally displaced people as of 30 July 2026, with over 700,000 in Tawila district. These figures are dated snapshots and may change as people move, return or are displaced again. Humanitarian needs are not measured only by the number of people in camps: families in host communities and people on the move may be difficult to count and reach."
+  ],
+  [
+   "28. Darfur's communities, resilience and cultural life",
+   "Darfur's history is not only a history of armed groups and atrocities. Its communities have maintained languages, oral traditions, religious learning, farming knowledge, pastoral systems, music, craft, markets and family networks through repeated upheaval. The Fur, Masalit, Zaghawa, Berti, Tunjur, Daju, Tama, Arab pastoralist groups and many others have distinct histories that deserve dedicated chapters. Women have organised food, care, education, trade and mutual aid, while youth, teachers, health workers, farmers, pastoralists and diaspora associations have supported survival and documentation. Displacement can threaten cultural transmission, but it can also produce new networks and forms of community organisation. A fuller archive should preserve oral histories with informed consent and careful protection of identities."
+  ],
+  [
+   "29. Land restitution, return and the meaning of peace",
+   "For many displaced Darfuris, peace means more than a ceasefire. It requires safe return or a genuine choice not to return, restitution or compensation for lost land and property, security, justice, public services and the ability to rebuild livelihoods. Land claims may overlap, and customary authority structures were altered by displacement and conflict. A return policy that ignores these histories risks creating new violence. Women and younger generations may face particular barriers when asserting land and inheritance rights. Any settlement must include displaced people, host communities, pastoralists, farmers, local authorities and civil society, while protecting the rights of all residents."
+  ],
+  [
+   "30. Historical assessment: a regional war within a national crisis",
+   "The Darfur conflict developed from long-standing political marginalisation, struggles over land and authority, environmental pressures, weakened local institutions, armed mobilisation and state counter-insurgency. The 2003 rebellion and the government's response produced mass atrocities and displacement. Peace agreements in 2006, 2011 and 2020 did not establish lasting security or resolve the region's political and land questions. The RSF's development from militia networks associated with the Bashir era connected the earlier Darfur war to the national conflict that began in 2023. The violence in El Geneina and the fall of El Fasher demonstrate the continuing danger of ethnic targeting and impunity. A complete history must keep adding verified local evidence, Sudanese scholarship, community testimony, women's accounts, court records and carefully dated humanitarian data."
+  ]
+ ],
+ "source_leads": [
+  {
+   "name": "United Nations International Commission of Inquiry on Darfur, Report to the Secretary-General (25 January 2005)",
+   "url": "https://www.icc-cpi.int/sites/default/files/NR/rdonlyres/F87E244D-B27C-4A0A-BE1B-D27CECB5649E/278008/Report_to_UN_on_Darfur.pdf"
+  },
+  {
+   "name": "Human Rights Watch, Q&A: War Crimes, Crimes Against Humanity, Ethnic Cleansing in West Darfur (9 May 2024)",
+   "url": "https://www.hrw.org/news/2024/05/09/qa-war-crimes-crimes-against-humanity-ethnic-cleansing-west-darfur"
+  },
+  {
+   "name": "UNAMID, Doha Document for Peace in Darfur",
+   "url": "https://unamid.unmissions.org/en/node/26782"
+  },
+  {
+   "name": "United Nations, Darfur and the role of UNAMID",
+   "url": "https://www.unmissions.org/en/unmis-0/unmis-background"
+  },
+  {
+   "name": "UN Human Rights Office, RSF violations during capture of El Fasher amount to war crimes and possible crimes against humanity (13 February 2026)",
+   "url": "https://sudan.un.org/en/310121-rsf-violations-during-capture-el-fasher-amount-war-crimes-and-possible-crimes-against"
+  },
+  {
+   "name": "Independent International Fact-Finding Mission for the Sudan, A/HRC/61/77: Sudan: Hallmarks of Genocide in El-Fasher (19 February 2026)",
+   "url": "https://wapsphp.test.ohchr.un-icc.cloud/en/documents/thematic-reports/ahrc6177-sudan-hallmarks-genocide-el-fasher-report-independent"
+  },
+  {
+   "name": "Amnesty International, Sudan: RSF atrocities in El Fasher 'a stain on the conscience of humanity' (1 July 2026)",
+   "url": "https://www.amnesty.org/en/latest/news/2026/07/sudan-rsf-atrocities-in-el-fasher-a-stain-on-the-conscience-of-humanity-new-report/"
+  },
+  {
+   "name": "European Union Agency for Asylum, Sudan: Security Situation, October 2026 — North Darfur displacement and return",
+   "url": "https://www.euaa.europa.eu/coi/22-north-darfur/226-conflict-induced-displacement-and-return"
+  },
+  {
+   "name": "Human Rights Watch, Sudan: One Year on from the Cataclysm of El Fasher (26 October 2026)",
+   "url": "https://www.hrw.org/news/2026/10/26/sudan-one-year-on-from-the-cataclysm-of-el-fasher"
+  },
+  {
+   "name": "International Criminal Court, Situation in Darfur, Sudan",
+   "url": "https://www.icc-cpi.int/darfur"
+  }
+ ],
+ "note": "This chapter distinguishes the 2003 rebellion from the 2023 SAF–RSF war; distinguishes Janjaweed formations from the later formal RSF; avoids collective ethnic blame; and attributes legal findings to the specific institutions and dates that made them. The 2005 UN Commission's genocide assessment, the US government's 2004 determination, ICC proceedings, and the 2026 UN Fact-Finding Mission's El Fasher findings concern different mandates, periods and legal questions. Current humanitarian figures are dated snapshots, not permanent totals."
+}
 ]
