@@ -166,6 +166,67 @@ HISTORICAL_BOOKS = {
         "editorial_warning": "A Victorian travel narrative written by an outsider. Its observations, names and descriptions may reflect the author's assumptions and the conventions of nineteenth-century travel writing. Compare it with Sudanese oral histories, local scholarship and other sources.",
         "language": "English"
     }
+    ,
+    "ten-years-captivity-mahdi": {
+        "id": "ten-years-captivity-mahdi",
+        "title": "Ten Years' Captivity in the Mahdi's Camp, 1882–1892",
+        "author": "Josef Ohrwalder",
+        "editor": "Translated and edited by F. R. Wingate",
+        "year": "1892",
+        "publisher": "Sampson Low, Marston & Company, London",
+        "description": "A first-person account by an Austrian missionary who was held in the Mahdist state. It offers evidence about captivity and the period through one author's experience, not a comprehensive account of Sudanese society or the Mahdist revolution.",
+        "source": "Project Gutenberg, eBook 32875",
+        "source_url": "https://www.gutenberg.org/ebooks/32875",
+        "text_url": "https://www.gutenberg.org/cache/epub/32875/pg32875.txt",
+        "rights": "Project Gutenberg identifies this edition as public domain in the United States. Copyright rules differ by country; readers and redistributors outside the USA should check local law.",
+        "editorial_warning": "A missionary's captivity narrative, translated and edited in a colonial-era context. It is valuable testimony but reflects the author's religious and political position; compare it with Sudanese accounts, Mahdist sources and modern scholarship.",
+        "language": "English"
+    },
+    "egyptian-campaigns-1882-1885": {
+        "id": "egyptian-campaigns-1882-1885",
+        "title": "The Egyptian Campaigns, 1882 to 1885",
+        "author": "Charles Royle",
+        "editor": "Original nineteenth-century edition",
+        "year": "1886",
+        "publisher": "Hurst and Blackett, London",
+        "description": "A military and political narrative of the campaigns and events surrounding British intervention in Egypt and the Mahdist conflict. It is a period account, not a balanced modern history of Sudan.",
+        "source": "Project Gutenberg, eBook 41744",
+        "source_url": "https://www.gutenberg.org/ebooks/41744",
+        "text_url": "https://www.gutenberg.org/cache/epub/41744/pg41744.txt",
+        "rights": "Project Gutenberg identifies this edition as public domain in the United States. Copyright rules differ by country; readers and redistributors outside the USA should check local law.",
+        "editorial_warning": "A nineteenth-century military account shaped by British imperial perspectives. Read its descriptions of Sudanese people and political movements critically and alongside Sudanese sources and later scholarship.",
+        "language": "English"
+    },
+    "khartoum-blue-white-niles-vol1": {
+        "id": "khartoum-blue-white-niles-vol1",
+        "title": "Khartoum, and the Blue and White Niles, Volume I",
+        "author": "George Melly",
+        "editor": "Original edition",
+        "year": "1851",
+        "publisher": "Colburn & Co., London",
+        "description": "A Victorian travel narrative following a journey from Egypt up the Nile toward Nubia and Khartoum, recording landscapes, antiquities and encounters through the author's own perspective.",
+        "source": "Project Gutenberg, eBook 78014",
+        "source_url": "https://www.gutenberg.org/ebooks/78014",
+        "text_url": "https://www.gutenberg.org/cache/epub/78014/pg78014.txt",
+        "rights": "Project Gutenberg identifies this edition as public domain in the United States. Copyright rules differ by country; readers and redistributors outside the USA should check local law.",
+        "editorial_warning": "A nineteenth-century outsider's travelogue. Its depictions of people, religion, slavery and social life reflect the author's time and viewpoint; they should not be treated as neutral ethnography.",
+        "language": "English"
+    },
+    "khartoum-blue-white-niles-vol2": {
+        "id": "khartoum-blue-white-niles-vol2",
+        "title": "Khartoum, and the Blue and White Niles, Volume II",
+        "author": "George Melly",
+        "editor": "Original edition",
+        "year": "1851",
+        "publisher": "Colburn & Co., London",
+        "description": "The second volume of Melly's travel narrative, continuing the account of travel and observations along the Nile and in the region of Khartoum.",
+        "source": "Project Gutenberg, eBook 78015",
+        "source_url": "https://www.gutenberg.org/ebooks/78015",
+        "text_url": "https://www.gutenberg.org/cache/epub/78015/pg78015.txt",
+        "rights": "Project Gutenberg identifies this edition as public domain in the United States. Copyright rules differ by country; readers and redistributors outside the USA should check local law.",
+        "editorial_warning": "A nineteenth-century outsider's travelogue. Its depictions of people, religion, slavery and social life reflect the author's time and viewpoint; they should not be treated as neutral ethnography.",
+        "language": "English"
+    }
 }
 
 @app.get("/api/library/books")
