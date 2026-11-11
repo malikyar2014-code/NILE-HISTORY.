@@ -1042,4 +1042,131 @@ ARTICLES = [
  ],
  "note": "This chapter distinguishes the 1972 Addis Ababa Agreement and its regional autonomy framework from the 1983 decisions that dismantled key institutions. It treats the 1983 mutinies and formation of the SPLM/A as a distinct development from the earlier Anya-Nya movement. The September Laws are described as contested state legislation and enforcement, with attention to Sudan's religious and cultural diversity. Further editions should expand local histories, women’s experiences, environmental impacts, oil-region communities and the internal histories of political movements."
 }
+,
+ {
+ "id": "sudan-1985-2005-transition-war-peace",
+ "title": "Sudan, 1985–2005: democratic transition, Islamist rule, civil war and the Comprehensive Peace Agreement",
+ "period": "1985–2005",
+ "region": "Sudan, including the southern provinces, Darfur, eastern Sudan and the Nuba Mountains",
+ "category": "Modern history",
+ "summary": "A detailed account of the April 1985 uprising and transition, the 1986 elections, the 1989 coup, the National Islamic Front and National Congress state, the second civil war, internal southern divisions, oil development, eastern and western conflicts, Darfur from 2003, regional diplomacy and the 2005 Comprehensive Peace Agreement.",
+ "status": "Research chapter — substantial synthesis, not a complete account of every community or locality",
+ "article_sections": [
+  [
+   "1. The April 1985 uprising and the transitional government",
+   "The fall of Jaafar Nimeiri in April 1985 opened a new political transition. Trade unions, professional associations, students and political organisations had mobilised strikes and demonstrations, while senior military officers removed Nimeiri and established a Transitional Military Council under General Abdel Rahman Swar al-Dahab. The council promised to return the country to civilian rule. A transitional cabinet headed by Dr. al-Jazuli Daf'allah managed the government while preparations were made for elections. The uprising was an important example of organised civic action, but the transition inherited a severe economic crisis, the continuing second civil war, regional inequality and the legal and institutional structures created under Nimeiri. The military's role in supervising the transition also meant that the armed forces remained a powerful political actor."
+  ],
+  [
+   "2. The 1986 elections and the return to parliamentary government",
+   "National elections in April 1986 restored a multiparty parliamentary system. The Umma Party emerged as the largest party, followed by the Democratic Unionist Party and the National Islamic Front. Sadiq al-Mahdi became prime minister and led coalition governments. The elections represented a return to civilian politics, but the voting process was not equally possible across all areas affected by war, and many southern constituencies could not participate under normal conditions. Coalition governments were unstable, and disagreements over the civil war, constitutional reform, economic policy and the role of Islamic law made durable government difficult. The National Islamic Front, led politically by Hassan al-Turabi, expanded its influence through political organisation, professional networks and institutions. The period should be seen as a real but fragile democratic opening rather than a settled democratic order."
+  ],
+  [
+   "3. Negotiations and the Koka Dam Declaration",
+   "Attempts to end the southern war continued after the elections. In March 1986, representatives of the SPLM/A and northern political forces met at Koka Dam in Ethiopia and issued a declaration calling for a political solution, constitutional review and the suspension of the September 1983 laws as a step towards a secular and democratic settlement. The initiative showed that opposition to the war and support for negotiation existed beyond the battlefield. However, parties within the government disagreed over the terms, and the National Islamic Front opposed key elements of the proposed approach. The declaration did not produce an immediate comprehensive settlement. It remains important because it demonstrated that alternatives to military victory were being discussed before the 1989 coup."
+  ],
+  [
+   "4. The 1989 coup and the National Salvation Revolution",
+   "On 30 June 1989, Brigadier Omar Hassan Ahmad al-Bashir led a military coup that overthrew Sadiq al-Mahdi's government. The new regime called itself the Revolutionary Command Council for National Salvation and described its takeover as a national rescue. Political parties were dissolved, trade unions and professional associations were restricted, newspapers were censored and political opponents were detained. The coup was closely associated with the National Islamic Front, although the new rulers initially concealed the civilian Islamist role behind a military façade. The takeover ended the parliamentary period and established a government that would remain in power, under changing institutional forms, for three decades. The coup's origins and the relationship between Bashir and al-Turabi are central to understanding the regime's early development."
+  ],
+  [
+   "5. The National Islamic Front, Hassan al-Turabi and the new state",
+   "The National Islamic Front had developed from Islamist political currents and networks associated with Hassan al-Turabi. After the coup, Islamist cadres gained influence across government, security institutions, universities and the economy. The regime pursued a project of reshaping state and society through an Islamist political vision. Bashir held the formal leadership of the military government, while al-Turabi became an influential political and ideological figure. Their relationship was not static: cooperation, rivalry and institutional competition developed over the following decade. It is important not to treat all Sudanese Muslims, religious leaders or Islamist currents as supporters of the regime. Sudanese political Islam was diverse, and many religious scholars, Sufi networks, political activists and ordinary citizens opposed the government's coercive methods or its claims to represent Islam."
+  ],
+  [
+   "6. Repression, security institutions and political opposition",
+   "The new government built an extensive security apparatus and used detention, censorship, surveillance and restrictions on political organisation to consolidate power. Political opponents, trade unionists, journalists, students, civil servants and members of the armed forces faced arrest, dismissal or exile. The regime established institutions that enabled ideological screening and the removal of people considered politically unreliable. Opposition continued inside Sudan and among exiles, through parties, professional networks, armed movements and human-rights organisations. Accounts of detention and abuse have been documented by survivors and rights groups, although access to official records has often been limited. The history of this period must include the experiences of people who were imprisoned, displaced, dismissed from employment or forced into exile, not only the decisions of senior leaders."
+  ],
+  [
+   "7. The second civil war and the government's military strategy",
+   "The second north-south civil war, which had resumed in 1983 after the collapse of the Addis Ababa settlement, continued throughout the period. The SPLM/A, led by John Garang, fought for a transformed Sudan and opposed the central government's political and military order. The movement's declared vision was not initially identical to a programme for immediate southern independence. The government relied on the regular armed forces, security bodies and allied armed groups. Fighting affected rural settlements, roads, towns, agricultural production and access to humanitarian assistance. Both government and insurgent forces operated in a conflict that exposed civilians to displacement, recruitment, food insecurity and violence. The war was not a single front: its intensity and political dynamics varied across Equatoria, Upper Nile, Bahr el Ghazal, the Nuba Mountains and other areas."
+  ],
+  [
+   "8. The SPLM/A and political divisions within the southern movement",
+   "The SPLM/A was a broad and changing movement rather than a politically uniform organisation. Its leadership, command structures, political programme and relationships with communities evolved during the war. In 1991, a split associated with Riek Machar and Lam Akol challenged John Garang's leadership. The breakaway faction criticised the movement's command and political direction and increasingly advocated southern self-determination. The split triggered severe internal fighting, especially in parts of Upper Nile, and violence between armed factions and communities. Civilians suffered killings, displacement and destruction of livelihoods. The conflict cannot be explained as an inevitable ethnic struggle between entire communities: political leadership, military competition, local grievances, access to resources and the manipulation of identity all mattered. Dinka, Nuer and other communities contained diverse political positions and experiences."
+  ],
+  [
+   "9. The 1990s: famine, displacement and humanitarian emergencies",
+   "The combination of war, drought, insecurity and restrictions on humanitarian access contributed to repeated food emergencies during the 1990s. Operation Lifeline Sudan, established in 1989 through cooperation between the United Nations, governments and humanitarian organisations, created a negotiated framework for delivering assistance across front lines. Its operation was complicated by insecurity, political interference, taxation and diversion of relief supplies, and the difficulty of reaching isolated communities. The 1998 famine in Bahr el Ghazal drew international attention to the human consequences of the war and the limits of humanitarian access. Famine was not simply a natural disaster: conflict, forced displacement, disrupted markets and restrictions on movement contributed to vulnerability. Local coping strategies, community networks and humanitarian workers were central to survival."
+  ],
+  [
+   "10. The Nuba Mountains and the spread of conflict beyond the south",
+   "The war expanded beyond the southern provinces. In the Nuba Mountains of South Kordofan, the SPLM/A developed an alliance with local fighters and communities who opposed government policies and sought protection, political rights and greater control over local affairs. Government counter-insurgency operations caused widespread displacement and serious abuses. The Nuba Mountains' experience was distinct from the southern provinces: the region remained within northern Sudan's administrative framework, and its political claims included questions of land, identity, religion and local governance. The war also affected parts of Blue Nile and other areas. These histories show why the conflict cannot be described only as a north-south war between two homogeneous populations."
+  ],
+  [
+   "11. Oil discovery, production and the political economy of war",
+   "Oil became increasingly important to Sudan's economy and the government's ability to finance the war. Exploration by foreign companies had begun in the 1970s, but commercial production started in the late 1990s, with exports beginning in 1999. Major fields were located in areas whose boundaries and political status were contested, particularly around the south and what later became South Sudan. Oil infrastructure, including pipelines to Port Sudan, connected production areas to export markets. Development brought revenue to the state but also intensified disputes over land, displacement, compensation, environmental damage and the distribution of wealth. Human-rights organisations documented abuses and forced displacement in oil-producing areas. Oil should not be treated as the sole cause of the war, but it reshaped the conflict's resources and political calculations."
+  ],
+  [
+   "12. Eastern Sudan and the Beja Congress",
+   "Eastern Sudan experienced its own political and security tensions. The Beja Congress, founded in 1958, articulated grievances about political representation, development and the distribution of national resources. During the 1990s, armed opposition developed in the east, with changing relationships among the Beja Congress, other opposition groups and the National Democratic Alliance. The region's strategic importance included Port Sudan, trade routes, the Red Sea coast and border connections with Eritrea. The eastern conflict had its own local histories and should not be treated as a simple extension of the southern war. Beja communities are diverse, and the political positions of their leaders and members were not uniform."
+  ],
+  [
+   "13. Darfur before the 2003 rebellion",
+   "Darfur's conflict in 2003 emerged from a longer history of political marginalisation, uneven development, environmental stress, competition over land and water, cross-border politics and the weakening or manipulation of local institutions. The region had experienced serious drought and famine in the 1980s, including the 1984–1985 famine, and conflict over resources and authority continued in later decades. Darfur's communities include farmers, pastoralists and people with mixed livelihoods, and identities cannot be reduced to a simple Arab/non-Arab division. The Fur, Masalit, Zaghawa and many other communities have complex histories, and alliances have changed over time. Climate and resource pressures mattered, but they cannot alone explain the violence: governance, arms, political mobilisation and state policy were also important."
+  ],
+  [
+   "14. The 2003 Darfur rebellion and the government's response",
+   "In early 2003, the Sudan Liberation Movement/Army and the Justice and Equality Movement launched attacks against government targets, demanding an end to political and economic marginalisation and changes to the distribution of power. The government's response involved regular forces and the mobilisation and support of allied militias commonly referred to as Janjaweed. Attacks on civilians, village destruction, killings, sexual violence and mass displacement became defining features of the conflict. The identity and organisation of armed groups varied, and not every Arab community supported the government or participated in militia violence. The conflict involved multiple armed actors and local dynamics, but international investigations documented the government's role in supporting militia forces and the scale of abuses against civilians. It is essential to distinguish verified findings from propaganda and to avoid collective blame against entire ethnic communities."
+  ],
+  [
+   "15. The humanitarian crisis and international response in Darfur",
+   "By 2004 and 2005, the Darfur conflict had produced a major humanitarian emergency, with large numbers of people displaced inside Sudan and across the border into Chad. Humanitarian agencies faced insecurity, access restrictions and attacks on aid operations. The African Union deployed monitors and protection personnel, while international diplomacy sought ceasefires and political negotiations. The United Nations Security Council adopted resolutions addressing the crisis, arms restrictions and accountability. The International Commission of Inquiry on Darfur reported in January 2005 on violations and responsibility, distinguishing the legal question of genocide from the grave crimes it documented. The term used in legal findings should not replace careful description of the evidence. Survivors' testimony, local records and independent investigations remain essential to documenting what happened."
+  ],
+  [
+   "16. IGAD diplomacy and the road to a north-south settlement",
+   "Negotiations to end the second civil war developed under the Intergovernmental Authority on Development, with Kenya playing a central hosting and mediation role. The 1994 IGAD Declaration of Principles set out a framework that included self-determination for the south if a negotiated settlement could not resolve fundamental issues. Talks advanced through a series of protocols addressing security, wealth sharing, power sharing and the status of contested areas. The Machakos Protocol of July 2002 established key principles, including an interim period, a referendum on self-determination for the south and a framework for addressing the relationship between religion and state. Subsequent agreements addressed security arrangements, wealth, power, and the areas of Abyei, Southern Kordofan and Blue Nile. The negotiations were difficult and did not include every Sudanese constituency equally."
+  ],
+  [
+   "17. The 2005 Comprehensive Peace Agreement",
+   "On 9 January 2005, the Government of Sudan and the SPLM/A signed the Comprehensive Peace Agreement in Nairobi, Kenya. The agreement formally ended the second civil war between the two principal parties and established a six-year interim period. It provided for power sharing, wealth sharing, security arrangements, a Government of National Unity and an autonomous Government of Southern Sudan. It also recognised the right of southern Sudanese to vote in a referendum on self-determination at the end of the interim period. Separate protocols addressed Abyei, Southern Kordofan and Blue Nile. The agreement was a major diplomatic achievement, but it did not resolve every conflict in Sudan, including Darfur, eastern Sudan and local disputes over land and authority. Its implementation required trust, institutions and political commitment that remained contested."
+  ],
+  [
+   "18. John Garang, the peace settlement and the shock of July 2005",
+   "John Garang, the SPLM/A leader who became First Vice-President of Sudan and President of the Government of Southern Sudan under the peace settlement, died in a helicopter crash on 30 July 2005, only weeks after taking office. His death caused shock and uncertainty across Sudan and the region. Salva Kiir Mayardit succeeded him as leader of the SPLM/A and as First Vice-President. Garang's political vision of a transformed, united Sudan had shaped the movement's public programme, while many southerners also supported the right to choose independence. His death changed the political landscape during a delicate implementation period. It is important not to assume that all supporters shared one view of the future: unity, autonomy and independence remained subjects of debate."
+  ],
+  [
+   "19. What the 2005 settlement did not resolve",
+   "The Comprehensive Peace Agreement focused primarily on the conflict between the central government and the SPLM/A. It did not settle the Darfur war, resolve the political grievances of eastern Sudan, or complete the constitutional transformation of the whole country. Disputes remained over the boundaries and status of Abyei, oil revenue, security arrangements, the integration or redeployment of armed forces, and the distribution of power in the national government. Communities in the Nuba Mountains and Blue Nile expected meaningful implementation of the protocols that applied to them. The agreement created a path to a referendum but also established a complex and fragile interim state. It should be understood as a major negotiated settlement with defined scope, not as a comprehensive end to every conflict in Sudan."
+  ],
+  [
+   "20. Historical assessment and research priorities",
+   "Between 1985 and 2005, Sudan moved from a popular uprising and a fragile parliamentary restoration to a long period of military-Islamist rule, intensified civil war, oil exports, regional insurgencies and a major negotiated peace agreement. The 1989 coup closed the democratic opening, while the government's political and military strategies shaped the course of the second civil war. The conflict was not solely a north-south struggle: it affected the Nuba Mountains, Blue Nile, eastern Sudan and Darfur, each with distinct political histories. The 2005 agreement ended the war between the government and SPLM/A but left major questions unresolved. A fuller history must expand women's experiences, local administration, labour, student movements, refugee and diaspora histories, the internal politics of armed movements, and the testimony of communities affected by violence."
+  ]
+ ],
+ "source_leads": [
+  {
+   "name": "Congressional Research Service, Sudan: The Crisis in Darfur and Status of the North-South Peace Agreement",
+   "url": "https://www.everycrsreport.com/reports/RL33754.html"
+  },
+  {
+   "name": "United Nations, Report of the International Commission of Inquiry on Darfur (25 January 2005)",
+   "url": "https://www.icc-cpi.int/sites/default/files/NR/rdonlyres/F87E244D-B27C-4A0A-BE1B-D27CECB5649E/278008/Report_to_UN_on_Darfur.pdf"
+  },
+  {
+   "name": "United Nations Mission in Sudan, Background and the role of the UN in Darfur",
+   "url": "https://unmis.unmissions.org/en/unmis-0/unmis-background"
+  },
+  {
+   "name": "Alex de Waal, Sudan: International Dimensions to the State and its Crisis, Crisis States Research Centre (2007)",
+   "url": "https://www.gov.uk/research-for-development-outputs/sudan-international-dimensions-to-the-state-and-its-crisis"
+  },
+  {
+   "name": "Robert O. Collins, Civil Wars in the Sudan, Civil Wars 5(6), 2007",
+   "url": "https://doi.org/10.1111/j.1478-0542.2007.00473.x"
+  },
+  {
+   "name": "Yehudit Ronen, The Rise and Fall of Hasan Abdallah al-Turabi: A Unique Chapter in Sudan's Political History (1989–99), Middle Eastern Studies (2014)",
+   "url": "https://doi.org/10.1080/00263206.2014.933420"
+  },
+  {
+   "name": "After the Comprehensive Peace Agreement in Sudan, edited by Elke Grawert (2010), introduction",
+   "url": "https://www.cambridge.org/core/books/abs/after-the-comprehensive-peace-agreement-in-sudan/introduction/487C92BB76B474B7279E55C52247AD8C"
+  },
+  {
+   "name": "United States Holocaust Memorial Museum, A Country Divided: Sudan",
+   "url": "https://www.ushmm.org/genocide-prevention/countries/sudan/a-country-divided"
+  }
+ ],
+ "note": "The chapter distinguishes the 1985 transition, 1986 parliamentary period, 1989 coup, second civil war, regional insurgencies, Darfur conflict and 2005 CPA. Darfur's conflict is described through political marginalisation, governance, environmental pressures, armed mobilisation and state policy without assigning collective guilt to ethnic communities. The CPA is not presented as ending the Darfur or all other conflicts. Further editions should incorporate more Sudanese-authored scholarship, oral histories, women's histories, regional archives and community testimony."
+}
 ]
