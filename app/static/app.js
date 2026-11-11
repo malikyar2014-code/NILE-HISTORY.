@@ -127,3 +127,38 @@ function openResearchCollection(id){
  body.replaceChildren(eyebrow,title,summary,rights,frame,fallback);dlg.showModal();
 }
 loadResearchCollections();
+
+
+/* Global search across archive articles, Wikipedia catalogue, books and research collections. */
+let globalSearchTimer;
+const globalInput=document.getElementById('globalSearchInput');
+const globalResults=document.getElementById('globalSearchResults');
+async function runGlobalSearch(){
+ if(!globalInput||!globalResults)return;
+ const term=globalInput.value.trim();
+ if(!term){globalResults.hidden=true;globalResults.innerHTML='';return;}
+ globalResults.hidden=false;globalResults.innerHTML='<p>Searching the NILE HISTORY archive…</p>';
+ const needle=term.toLocaleLowerCase();
+ const found=[];
+ try{
+  const response=await fetch('/api/articles?q='+encodeURIComponent(term));
+  if(response.ok){const data=await response.json();(data.items||[]).forEach(item=>found.push({type:'Historical article',title:item.title,detail:item.period+' · '+item.region,action:()=>show(item.id)}));}
+ }catch(e){}
+ try{
+  const response=await fetch('/api/library/catalog');
+  if(response.ok){const data=await response.json();(data.items||[]).filter(item=>(item.title+' '+item.group+' '+item.id).toLocaleLowerCase().includes(needle)).forEach(item=>found.push({type:'Full source article',title:item.title,detail:item.group+' · Wikipedia source',action:()=>showWikipedia(item.id)}));}
+ }catch(e){}
+ try{
+  const response=await fetch('/api/library/books');
+  if(response.ok){const data=await response.json();(data.items||[]).filter(item=>(item.title+' '+item.author+' '+item.description).toLocaleLowerCase().includes(needle)).forEach(item=>found.push({type:'Digitised book',title:item.title,detail:item.author+' · '+item.year,action:()=>openHistoricalBook(item.id,item)}));}
+ }catch(e){}
+ (researchCollections||[]).filter(item=>(item.title+' '+item.coverage+' '+item.description).toLocaleLowerCase().includes(needle)).forEach(item=>found.push({type:'Research collection',title:item.title,detail:item.coverage,action:()=>openResearchCollection(item.id)}));
+ if(globalInput.value.trim()!==term)return;
+ globalResults.innerHTML=found.length?'<div class="global-results-heading">'+found.length+' result(s) found</div>'+found.map((item,index)=>'<button type="button" class="global-result" data-result="'+index+'"><span>'+esc(item.type)+'</span><b>'+esc(item.title)+'</b><small>'+esc(item.detail)+'</small></button>').join(''):'<p>No matching records found. Try another spelling or a broader search.</p>';
+ globalResults.querySelectorAll('[data-result]').forEach(button=>button.addEventListener('click',()=>found[Number(button.dataset.result)].action()));
+}
+if(globalInput){
+ globalInput.addEventListener('input',()=>{clearTimeout(globalSearchTimer);globalSearchTimer=setTimeout(runGlobalSearch,250);});
+ globalInput.addEventListener('keydown',event=>{if(event.key==='Enter'){event.preventDefault();clearTimeout(globalSearchTimer);runGlobalSearch();}});
+ document.getElementById('globalSearchButton').addEventListener('click',runGlobalSearch);
+}
