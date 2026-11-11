@@ -681,4 +681,127 @@ ARTICLES = [
  ],
  "note": "This is a substantial regional synthesis, not an exhaustive history of every community. It distinguishes Turco-Egyptian rule, the Mahdiyya and the later Condominium; these were different political systems. Enslavement, imperial expansion and colonial violence are described directly but without treating affected communities as passive. Add community-led oral histories and further regional studies in later revisions."
 }
+,
+ {
+ "id": "condominium-1899-1956",
+ "title": "Anglo-Egyptian Condominium, 1899–1956: colonial rule, resistance and the road to independence",
+ "period": "1899–1956",
+ "region": "The territories of present-day Sudan and South Sudan",
+ "category": "Modern history",
+ "summary": "A detailed account of the Anglo-Egyptian Condominium: its constitutional structure, regional administration, economic priorities, education, the Southern Policy, Darfur's incorporation, the 1924 movement, political parties, constitutional change, Sudanisation, the Torit mutiny and independence in 1956.",
+ "status": "Research chapter — substantial synthesis; regional and community histories require further expansion",
+ "article_sections": [
+  [
+   "1. The conquest and the new political settlement",
+   "The defeat of the Mahdist state at Omdurman in September 1898 was followed by the occupation of other regions and the consolidation of Anglo-Egyptian power. The Anglo-Egyptian Agreement of 19 January 1899 established the Condominium, a system formally described as joint British and Egyptian administration. Its legal structure was unusual: the Governor-General was appointed by the Khedive of Egypt on British recommendation, while British officials exercised decisive influence over policy and administration. Egypt contributed to the costs and retained a formal claim, but Britain became the dominant power. The arrangement reflected imperial rivalry and the strategic importance Britain attached to Egypt, the Nile and the Suez Canal. It did not create a representative Sudanese government. Sudanese people were subjects of the new administration, not equal partners in the agreement that established it."
+  ],
+  [
+   "2. What the Condominium meant in practice",
+   "The Condominium was not a partnership of equal influence. The Governor-General stood at the centre of the administration, supported by a hierarchy of provincial governors, district commissioners, military officers and civil servants. British officials occupied the most influential senior posts, while Egyptians served in parts of the administration and Sudanese employees gradually entered lower and middle ranks. The exact balance shifted over time and was shaped by disputes between London and Cairo. In 1924, following the assassination of Governor-General Lee Stack in Cairo and the ensuing crisis with Egypt, British authorities expelled Egyptian troops and officials from Sudan. The 1936 Anglo-Egyptian Treaty later altered relations between Britain and Egypt but did not end Britain's effective dominance of the Sudanese administration. The term joint rule therefore describes the legal form more accurately than the day-to-day distribution of power."
+  ],
+  [
+   "3. Re-establishing control and the uneven reach of government",
+   "The new regime sought to suppress armed resistance, restore revenue collection and establish administrative control. Its reach was uneven. Riverain towns and transport corridors were more accessible to government than distant pastoral areas, forest regions, wetlands and mountain zones. Military campaigns and punitive expeditions accompanied the extension of authority in several regions. Officials frequently relied on local chiefs, religious leaders and other intermediaries to collect taxes, settle disputes and communicate government orders. This system reduced the cost of administration but also reshaped local authority: some leaders gained official recognition, while others lost influence or were bypassed. Colonial records often describe this process as pacification. That word reflects the government's perspective and can conceal coercion, dispossession and resistance."
+  ],
+  [
+   "4. Native administration and indirect rule",
+   "The administration increasingly governed rural populations through recognised chiefs and local authorities, a system commonly called Native Administration. Officials classified communities, defined administrative units and assigned responsibilities for tax collection, local order and customary courts. These arrangements did not simply preserve timeless traditions. Colonial officials selected, reorganised and sometimes invented the authority they claimed to recognise as customary. The power of a chief could be expanded, restricted or altered by administrative decisions. Local responses varied: some leaders used official positions to protect their communities or strengthen their standing; others faced resentment because they were associated with taxation, forced labour or government demands. The system differed by region and should not be described as identical across Sudan."
+  ],
+  [
+   "5. The economy: transport, cotton and state priorities",
+   "The Condominium invested in infrastructure where it served strategic, administrative and commercial objectives. Railways, river steamers, telegraph lines and roads connected key towns and agricultural zones. The railway from the north towards Atbara and Khartoum helped consolidate military and administrative control. Port Sudan became an important outlet on the Red Sea. The Gezira irrigation scheme, developed in stages from the 1920s, became central to large-scale cotton production for export. Cotton connected Sudanese agriculture to international markets and generated revenue, but its benefits and burdens were distributed unequally. Tenant farmers, labourers, merchants and landholders experienced the scheme differently. Infrastructure and commercial growth should not be mistaken for balanced development: investment was concentrated in selected corridors and projects, while many regions received fewer schools, clinics and transport links."
+  ],
+  [
+   "6. Land, labour and rural life",
+   "Colonial economic policy affected land use, labour relations, taxation and access to markets. Agricultural schemes introduced new contractual relationships and demands on cultivators. In pastoral areas, administrative boundaries and rules could affect seasonal movement, grazing and access to water. In some regions, taxation and local government obligations placed pressure on households already managing variable rainfall, livestock disease or insecurity. The impact differed between the Nile Valley, Gezira, Kordofan, Darfur, the Red Sea hills, the Nuba Mountains and the southern provinces. Official statistics can help reconstruct production and revenue, but they rarely capture the full social cost of labour demands, household strategies or local disputes. These histories require district-level records and community research rather than a single national narrative."
+  ],
+  [
+   "7. The Southern Policy and the division of administration",
+   "For much of the Condominium period, British authorities pursued policies that treated the southern provinces differently from the north. The so-called Southern Policy sought to limit northern political, commercial and cultural influence in the south and to govern the regions through separate administrative arrangements. Officials debated whether the south might eventually be linked more closely with British East Africa. Closed District regulations restricted movement and access, while language, education, missionary activity and trade were governed through distinct policies. The policy was never perfectly uniform or uncontested, and local communities did not simply accept it. Nevertheless, it institutionalised separation and contributed to uneven access to education, administration and political representation. Historians continue to debate the motives and long-term effects, but the consequences for later state-building are central to understanding the period."
+  ],
+  [
+   "8. Education, language and missionary institutions",
+   "Education developed unevenly. In the north, government schools expanded in major towns alongside Egyptian, missionary, community and private schools. In the south, Christian missionary organisations played a major role in schooling for much of the period, while government provision remained limited. English, Arabic and local languages were used in different settings and at different times. Educational policy was never simply a neutral programme of literacy: it shaped access to government employment, religious institutions and political networks. The late colonial move towards a unified educational system accelerated after the 1947 Juba Conference, but unification often meant extending northern administrative and curricular models southward. This occurred amid deep inequalities in the number and level of schools, trained teachers and educational opportunities. The consequences were felt well beyond 1956."
+  ],
+  [
+   "9. Darfur and the western regions",
+   "Darfur did not enter the Condominium at the same time as the central Nile regions. The Keira Sultanate retained its independence after the 1898 defeat of the Mahdiyya. In 1916, during the First World War, Anglo-Egyptian forces invaded Darfur, defeated Sultan Ali Dinar and incorporated the sultanate into the Sudanese administration. This was a major turning point in Darfur's political history. Colonial rule then relied heavily on indirect administration and local authorities, while investment and infrastructure remained limited compared with the central riverain regions. Kordofan and the Nuba Mountains also experienced distinct forms of administration, military control and economic change. These western and central regions cannot be reduced to peripheral versions of Khartoum's history; each had its own political institutions, social networks and responses to colonial power."
+  ],
+  [
+   "10. The Red Sea, eastern Sudan and the Nuba Mountains",
+   "The eastern regions, including Beja communities of the Red Sea hills, were shaped by pastoral mobility, trade, port development, religious networks and administrative boundaries. Port Sudan's growth changed the economic geography of the coast, but it did not erase older routes or local authority. In the Nuba Mountains, colonial administration developed through military campaigns, district structures and policies that affected movement, taxation, education and religious life. Officials often described diverse communities through broad administrative labels. Such categories should be treated as colonial records of classification, not as complete descriptions of identity. Regional histories need to attend to local languages, land relationships, religious practice and the ways communities negotiated the colonial state."
+  ],
+  [
+   "11. The 1924 political crisis and the White Flag movement",
+   "The end of the First World War and political changes in Egypt influenced political debate in Sudan. A group of educated Sudanese and military personnel associated with Ali Abd al-Latif and the White Flag League called for political change and challenged the colonial order. Demonstrations and unrest in 1924 developed amid tensions over Sudan's future and the relationship between Britain and Egypt. The assassination of Governor-General Lee Stack in Cairo in November 1924 triggered a severe Anglo-Egyptian crisis. Britain imposed demands on Egypt and expelled Egyptian troops and officials from Sudan. The White Flag movement was suppressed, and its members faced arrest, exile or other penalties. The movement was important, but it should not be presented as representing every Sudanese community or as a fully formed mass national party. It was one early expression of organised anti-colonial politics."
+  ],
+  [
+   "12. Religious leaders, merchants and political influence",
+   "Religious institutions and influential families played important roles in Sudanese public life. The Khatmiyya, associated with the Mirghani family, and the Ansar movement, associated with the Mahdi's family and later Abd al-Rahman al-Mahdi, developed extensive religious and social networks. Their influence was not limited to theology: it could shape education, commerce, patronage, political mobilisation and relationships with the colonial administration. Government officials sometimes sought cooperation with religious leaders and merchants to stabilise rule, while these leaders pursued their own interests and responded to changing political circumstances. Their communities were not politically uniform, and religious affiliation did not determine every individual's political position. The later emergence of major political parties was closely connected to these networks."
+  ],
+  [
+   "13. The growth of Sudanese political organisations",
+   "During the 1930s and 1940s, educated Sudanese, civil servants, teachers, journalists, merchants and students debated constitutional reform and the country's future. The Graduates' General Congress, founded in 1938, became an important platform for political discussion and demands for greater Sudanese participation in government. Its members did not share one position on the relationship with Egypt or on the pace and form of independence. Disagreements grew between advocates of union with Egypt and supporters of an independent Sudan. Religious and regional networks also influenced political alignments. The press and public meetings helped widen political debate, although censorship and restrictions limited political activity. The growth of nationalism was a process involving competing visions, not a single unified movement."
+  ],
+  [
+   "14. The Second World War and constitutional change",
+   "The Second World War changed Sudan's strategic and economic position. Sudan's location and transport links gave it importance to Allied military planning, while wartime conditions affected trade, labour, prices and public administration. After the war, demands for political participation became harder to contain. The administration convened conferences and considered constitutional arrangements that would bring Sudanese representatives into government. The 1947 Juba Conference brought northern and southern representatives together to discuss political and administrative questions. It marked a major step towards treating the north and south as parts of one political unit, but it did not resolve disagreements over representation, education, language, federal safeguards or the future distribution of power. Southern participants entered these discussions from a position shaped by decades of separate administration and unequal access to education and government employment."
+  ],
+  [
+   "15. Party politics and the question of independence",
+   "In the late 1940s and early 1950s, political organisations developed more formal structures. The National Unionist Party advocated close association or union with Egypt, while the Umma Party supported an independent Sudan and drew support from networks associated with the Ansar. Other parties, regional voices and independent politicians also participated in public debate. The rivalry between Britain and Egypt over Sudan's future gave Sudanese parties opportunities but also placed pressure on their choices. The Egyptian revolution of 1952 changed the political context, and the new Egyptian leadership accepted the principle that Sudanese people should determine their future. The question was no longer only how to reform the Condominium, but whether Sudan would become independent or enter a political union with Egypt."
+  ],
+  [
+   "16. The 1953 agreement and self-government",
+   "The Anglo-Egyptian Agreement of February 1953 established a transitional period of self-government and provided for Sudanese self-determination. Elections were held in 1953, and a Sudanese parliament and government took office in 1954. The agreement also provided for the Sudanisation of the administration: British and Egyptian officials were to be replaced by Sudanese personnel. This was a major transfer of responsibility, but the speed and distribution of appointments generated controversy. The limited number of trained southern Sudanese officials meant that many posts in the southern provinces were filled by northerners as British officials withdrew. The issue was not merely the nationality of officials; it concerned trust, representation, language, regional power and the fear that separate colonial administration would be replaced by centralised rule without adequate safeguards."
+  ],
+  [
+   "17. The Torit mutiny of August 1955",
+   "In August 1955, soldiers of the Equatoria Corps mutinied at Torit and unrest spread to other locations in the southern provinces. The immediate events involved military orders and fears about troop movements, but the deeper causes included political uncertainty, inadequate southern representation, distrust of northern domination and grievances shaped by the colonial period. Violence followed, including attacks and reprisals against civilians and officials. The mutiny was not a simple expression of one unified southern political programme, and its causes and consequences require careful treatment of regional and individual experiences. It did not instantly become a continuous nationwide civil war; the subsequent years involved further violence, political mobilisation and the development of armed resistance. The event exposed how unresolved questions about federalism, security and representation threatened the new state before independence had even been declared."
+  ],
+  [
+   "18. Sudan declares independence, 1956",
+   "In December 1955, the Sudanese parliament moved to declare independence. On 1 January 1956, Sudan became an independent state, ending the Anglo-Egyptian Condominium. Independence was achieved through a combination of Sudanese political activity, parliamentary decisions and changing British-Egyptian diplomacy. It was not the resolution of every constitutional question. The country entered independence without a permanent constitution and with major disagreements over the relationship between central and regional government, the political status of the southern provinces, the distribution of resources and the role of religion and identity in the state. The promise to consider federal arrangements did not settle southern demands. Independence was a historic achievement, but it also inherited unresolved structures and inequalities from the colonial period."
+  ],
+  [
+   "19. Historical assessment and the work still needed",
+   "The Condominium reshaped administration, transport, education, agricultural production and political organisation, but its benefits and burdens were distributed unequally. Its policies strengthened some local authorities, weakened others, and created new administrative categories. The separation of northern and southern governance had long-term consequences, while the development of nationalist politics was concentrated among groups with access to education, urban networks and public institutions. A complete history must go beyond the records of governors and political elites. It needs histories of farmers and workers, pastoralists and merchants, women and students, soldiers and religious communities, and the many peoples whose experiences were recorded unevenly or through colonial categories. This chapter is a detailed national and regional synthesis, not a claim to have exhausted every local history."
+  ]
+ ],
+ "source_leads": [
+  {
+   "name": "M. W. Daly, The Development of the Governor-Generalship of the Sudan, 1899–1934, Journal of African History (1983)",
+   "url": "https://www.cambridge.org/core/journals/journal-of-african-history/article/abs/development-of-the-governorgeneralship-of-the-sudan-18991934/3331C84D0DAEA4BF0EA0842824732B58"
+  },
+  {
+   "name": "Ahmed Ibrahim Abushouk, The Anglo-Egyptian Sudan: From Collaboration Mechanism to Party Politics, 1898–1956 (2010)",
+   "url": "https://irep.iium.edu.my/12009/"
+  },
+  {
+   "name": "Iris Seri-Hersch, Education in Colonial Sudan, 1900–1957, Oxford Research Encyclopedia of African History (2017)",
+   "url": "https://academic.oup.com/edited-volume/61663/chapter-abstract/553443259"
+  },
+  {
+   "name": "M. W. Daly, Darfur's Sorrow: The Forgotten History of a Humanitarian Disaster — chapter “Closed District” (2010)",
+   "url": "https://www.cambridge.org/core/books/abs/darfurs-sorrow/closed-district/FD2DA841394691778D1FA40989390A15"
+  },
+  {
+   "name": "Library of Congress, Anglo-Egyptian Sudan (1920), digitised historical survey and 190 images",
+   "url": "https://www.loc.gov/item/a22000955/"
+  },
+  {
+   "name": "Hansard, Anglo-Egyptian Agreement concerning self-government and self-determination for Sudan (12 February 1953)",
+   "url": "https://hansard.parliament.uk/commons/1953-02-12/debates/d64c1fa5-0ede-4fbb-8897-1ae078363889/Sudan%28Anglo-EgyptianAgreement%29"
+  },
+  {
+   "name": "Øystein H. Rolandsen and Cherry Leonardi, Discourses of violence in the transition from colonialism to independence in southern Sudan, 1955–1960",
+   "url": "https://durham-repository.worktribe.com/output/1426866/"
+  },
+  {
+   "name": "Peter Woodward, Sudan's Fragile State, 1956–1989, in The Sudan Handbook (Rift Valley Institute, 2011) — background on independence settlement",
+   "url": "https://riftvalley.net/wp-content/uploads/2018/06/RVI-The-Sudan-Handbook.pdf"
+  }
+ ],
+ "note": "This chapter distinguishes the formal Condominium agreement from British dominance in practice. Colonial administrative sources and official debates are used as evidence of policy, not treated as neutral accounts of Sudanese experience. The Southern Policy, Darfur's 1916 incorporation, the 1924 movement, the 1947 Juba Conference, the 1955 Torit mutiny and independence are presented as distinct developments. Further editions should add more community-authored histories, women's histories, labour histories and local-language sources."
+}
 ]
