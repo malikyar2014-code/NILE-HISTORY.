@@ -185,3 +185,43 @@ if(globalInput){
   }
  });
 })();
+
+
+/* Section-based navigation: one main area at a time to avoid endless scrolling. */
+(()=>{
+ const main=document.querySelector('main');
+ const menu=document.getElementById('mainMenu');
+ if(!main||!menu)return;
+ const pageIds=['home','explore','digital-library','historical-books','research-collections','timeline','research-standard'];
+ const sections=pageIds.map(id=>document.getElementById(id)).filter(Boolean);
+ const home=document.getElementById('home');
+ const promise=document.querySelector('.promise');
+ function activatePage(id,updateHash=true){
+  if(!pageIds.includes(id))id='home';
+  sections.forEach(section=>section.classList.toggle('page-hidden',section.id!==id));
+  if(promise)promise.classList.toggle('page-hidden',id!=='home');
+  menu.querySelectorAll('[data-page]').forEach(link=>{
+   if(link.dataset.page===id)link.setAttribute('aria-current','page');
+   else link.removeAttribute('aria-current');
+  });
+  document.body.dataset.currentPage=id;
+  if(updateHash)history.replaceState(null,'','#'+id);
+  window.scrollTo({top:0,behavior:'auto'});
+  const toggle=document.getElementById('menuToggle');
+  if(toggle){toggle.setAttribute('aria-expanded','false');menu.classList.remove('menu-open');}
+ }
+ menu.querySelectorAll('[data-page]').forEach(link=>link.addEventListener('click',event=>{
+  event.preventDefault();activatePage(link.dataset.page);
+ }));
+ document.querySelectorAll('a[href="#explore"],a[href="#home"]').forEach(link=>{
+  if(!menu.contains(link))link.addEventListener('click',event=>{
+   event.preventDefault();activatePage(link.getAttribute('href').slice(1));
+  });
+ });
+ const initial=location.hash.slice(1);
+ activatePage(pageIds.includes(initial)?initial:'home',false);
+ window.addEventListener('hashchange',()=>{
+  const id=location.hash.slice(1);
+  if(pageIds.includes(id))activatePage(id,false);
+ });
+})();
