@@ -51,3 +51,13 @@
 }
 @media(min-width:701px){.main-menu{top:64px}}
 html{scroll-behavior:smooth;scroll-padding-top:125px}
+
+
+/* App-style page views: keep each destination focused and short. */
+.page-hidden{display:none!important}
+main>section:not(.page-hidden){animation:pageEnter .18s ease-out}
+@keyframes pageEnter{from{opacity:.65;transform:translateY(5px)}to{opacity:1;transform:translateY(0)}}
+main{min-height:65vh}
+main>section#home{min-height:calc(100vh - 150px)}
+main>section#explore,main>section#digital-library,main>section#historical-books,main>section#research-collections,main>section#timeline,main>section#research-standard{margin-top:24px}
+.main-menu a[aria-current="page"]{background:#d0ad75;color:#172a25;font-weight:750}
