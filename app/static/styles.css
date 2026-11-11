@@ -95,3 +95,75 @@ main>section#home{min-height:0}
  .hero{padding:34px 18px 22px}
  .promise{padding:16px 18px}
 }
+
+
+/* Reading-first article dialog: make long source texts usable on phones */
+dialog#articleDialog{
+ width:min(1040px,calc(100% - 28px));
+ max-width:1040px;
+ max-height:94dvh;
+ overflow:auto;
+ padding:clamp(16px,3vw,30px);
+ border-radius:12px;
+}
+#articleDialog #closeDialog{
+ position:sticky;
+ top:0;
+ z-index:5;
+ float:right;
+ width:42px;
+ height:42px;
+ display:grid;
+ place-items:center;
+ margin:-6px -6px 8px 12px;
+ background:#172a25;
+ color:#fff;
+ border-radius:50%;
+ cursor:pointer;
+}
+#articleDialog .wiki-frame{
+ width:100%;
+ height:72dvh;
+ min-height:520px;
+ border:1px solid #d7ddd8;
+ border-radius:8px;
+ background:#fff;
+ display:block;
+ -webkit-overflow-scrolling:touch;
+}
+#articleDialog .article-reading{
+ font-size:16px;
+ line-height:1.9;
+}
+#articleDialog .article-paragraph{
+ font-size:15px;
+ line-height:1.9;
+ color:#26332e;
+ max-width:78ch;
+}
+#articleDialog .article-chapter h3{
+ font-size:clamp(19px,2.5vw,25px);
+ margin-top:30px;
+}
+#articleDialog .wiki-attribution{
+ font-size:12px;
+ overflow-wrap:anywhere;
+}
+@media(max-width:650px){
+ dialog#articleDialog{
+  width:100vw;
+  max-width:none;
+  max-height:100dvh;
+  height:100dvh;
+  margin:0;
+  border:0;
+  border-radius:0;
+  padding:14px 14px 24px;
+ }
+ #articleDialog .wiki-frame{
+  height:calc(100dvh - 190px);
+  min-height:55vh;
+ }
+ #articleDialog h2{font-size:30px;line-height:1.2}
+ #articleDialog .article-paragraph{font-size:15px;line-height:1.85}
+}
