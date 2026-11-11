@@ -804,4 +804,119 @@ ARTICLES = [
  ],
  "note": "This chapter distinguishes the formal Condominium agreement from British dominance in practice. Colonial administrative sources and official debates are used as evidence of policy, not treated as neutral accounts of Sudanese experience. The Southern Policy, Darfur's 1916 incorporation, the 1924 movement, the 1947 Juba Conference, the 1955 Torit mutiny and independence are presented as distinct developments. Further editions should add more community-authored histories, women's histories, labour histories and local-language sources."
 }
+,
+ {
+ "id": "sudan-independence-1956-1969",
+ "title": "Sudan after independence, 1956–1969: parliamentary politics, civil war and revolution",
+ "period": "1956–1969",
+ "region": "Sudan, including the southern provinces",
+ "category": "Modern history",
+ "summary": "A detailed account of the first post-independence parliamentary period, the 1958 coup and Abboud regime, the escalation of the southern insurgency, the October Revolution of 1964, the return to parliamentary government and the May 1969 coup.",
+ "status": "Research chapter — substantial synthesis; not an exhaustive account of every region or political organisation",
+ "article_sections": [
+  [
+   "1. Independence and the unfinished state",
+   "Sudan became independent on 1 January 1956. The new republic inherited the institutions and boundaries of the Anglo-Egyptian Condominium, but it did not inherit a settled agreement about how the country should be governed. A permanent constitution had not been completed. Political leaders disagreed over the relationship between religion and state, the distribution of power between the centre and the regions, the place of Arabic and other languages, and the political future of the southern provinces. The colonial administration had left major inequalities in education, infrastructure and access to senior government positions. These were not merely technical problems: they shaped who could participate in the new state and whose interests its institutions represented. Independence was a major achievement, but sovereignty did not automatically create political unity or equal citizenship."
+  ],
+  [
+   "2. The first parliamentary governments, 1956–1958",
+   "The first years of independence were marked by party competition, shifting parliamentary alliances and unstable cabinets. Ismail al-Azhari, whose National Unionist Party had led the transition to independence, initially headed the government. Political divisions and defections weakened his position, and a coalition led by Abdallah Khalil and the Umma Party took office in 1956. The principal political forces were connected to wider religious and social networks, especially the Ansar and Khatmiyya, but neither party nor religious community was politically uniform. Parliamentary debate took place amid economic pressures, constitutional disputes and conflict over the southern question. Frequent changes of alliance made it difficult to build durable policy, while the army increasingly appeared to some politicians as an alternative arbiter. The instability of the period should not be reduced to a claim that democracy was inherently unsuitable: it reflected specific institutional weaknesses, elite rivalries, regional inequalities and unresolved conflicts."
+  ],
+  [
+   "3. Sovereignty, Egypt and foreign relations",
+   "Formal independence did not mean that Sudan immediately escaped all external pressures. The Nile waters, trade, currency, military arrangements and relations with Egypt and Britain remained important questions. Sudan's leaders sought to establish the country's independent diplomatic identity while managing practical connections inherited from the Condominium. The 1959 Nile Waters Agreement between Sudan and Egypt became a major element of this relationship and was connected to plans for the Aswan High Dam and the allocation of Nile water. The agreement and related development projects generated political debate over sovereignty, compensation, land and the future of communities affected by the reservoir. Sudan's foreign policy also developed in the context of the Cold War and regional politics. The early republic was therefore independent in law while still negotiating the economic and strategic consequences of its geography and history."
+  ],
+  [
+   "4. The 1958 military coup",
+   "On 17 November 1958, General Ibrahim Abboud and senior military officers seized power, ending the parliamentary government. Prime Minister Abdallah Khalil had invited or accepted military intervention amid political deadlock; the precise political calculations and degree of prior coordination have been debated by historians. The coup was initially presented as a way to restore order and effective government. Parliament and party political activity were suspended or sharply restricted, and the military leadership established a Supreme Council of the Armed Forces. The coup marked the first direct military takeover of independent Sudan. It also established a pattern in which political and military elites would repeatedly contest the right to govern outside the parliamentary system."
+  ],
+  [
+   "5. The Abboud regime and its administration",
+   "General Abboud became the central figure in a military government that sought to centralise authority and reduce open party competition. The regime relied on military officers and senior administrators, restricted political organisation and controlled public debate. It pursued development projects and attempted to strengthen state capacity, but its political legitimacy remained contested. Some contemporary assessments credited the government with administrative or economic achievements, while critics emphasised repression, the absence of democratic accountability and its failure to resolve regional conflict. Its record should be evaluated across different sectors and regions rather than described as either wholly successful or wholly ineffective. Political opposition did not disappear: students, professionals, trade unions, religious networks and regional organisations continued to form spaces of criticism and mobilisation."
+  ],
+  [
+   "6. Economic policy, cotton and the limits of development",
+   "The economy remained strongly dependent on agricultural exports, especially cotton, and vulnerable to changes in world prices, weather and harvest conditions. The Gezira Scheme continued to be a major centre of irrigated production, while other agricultural regions and pastoral economies faced different constraints. The state pursued infrastructure and development projects, but uneven investment and limited public resources constrained the transformation of rural livelihoods. Poor cotton seasons in the early 1960s contributed to fiscal and economic pressures. Economic grievances intersected with political dissatisfaction, although the causes of opposition differed among tenant farmers, workers, merchants, civil servants and urban professionals. National economic indicators alone cannot show how policies affected different communities or the distribution of land, labour and public services."
+  ],
+  [
+   "7. The southern question after independence",
+   "The southern provinces entered independence with far less access to formal education and senior administrative positions than the north. The separate systems of colonial administration, missionary schooling and restricted movement had created deep institutional differences. Many southerners feared that the withdrawal of British officials and rapid Sudanisation would transfer power to northern officials without adequate guarantees of representation or regional autonomy. The failure to agree on a federal settlement intensified distrust. The Torit mutiny of August 1955 had already exposed these fears before independence, but it did not mean that a continuous, fully organised civil war began at that moment. From 1956 to 1962, tensions, local violence, political uncertainty and social and economic stagnation grew. Historian Øystein H. Rolandsen argues that organised political violence reached the level of civil war in 1963, a distinction important for an accurate chronology."
+  ],
+  [
+   "8. From local unrest to the Anya-Nya insurgency",
+   "By 1963, armed opposition in the south had developed into a more sustained insurgency commonly associated with the name Anya-Nya. The movement was not a single organisation with uniform command from its beginning. It grew through local networks, former soldiers, political activists and armed groups responding to state violence and demands for autonomy or self-determination. Its organisation, leadership and objectives changed over time. The conflict spread across parts of Equatoria, Upper Nile and Bahr el Ghazal, but intensity varied by locality and year. Communities were affected by fighting, displacement, insecurity, disrupted trade and pressure from armed actors. A careful history must distinguish the different stages of the insurgency and avoid projecting the later structure of the Anyanya movement backwards onto its earliest years."
+  ],
+  [
+   "9. The state's response and the expansion of violence",
+   "The government increasingly relied on military operations and security measures to confront the insurgency. In many areas, state violence, reprisals and the treatment of civilians deepened alienation and helped sustain armed resistance. Insurgent groups also committed violence and imposed demands on local populations. Civilians were not simply supporters of one side: families and communities often navigated threats from multiple armed forces, sought safety, moved across borders or attempted to maintain livelihoods. The conflict's geography and social effects differed across the southern provinces. Government reports and insurgent accounts each have political purposes and should be compared with independent scholarship, local testimony and humanitarian records. The war's history is not adequately told by listing battles alone; it must include displacement, food security, family separation and the destruction or adaptation of local institutions."
+  ],
+  [
+   "10. The Abboud government's southern policies",
+   "The military regime pursued policies intended to strengthen national integration, but several measures were experienced in the south as coercive assimilation. The use and promotion of Arabic in administration and education, restrictions on political activity, and the growing role of state security institutions heightened suspicion. The government also acted against some missionary institutions and foreign personnel, particularly in the early 1960s, disrupting established education and health networks. These policies were not experienced identically by all southern communities, and the south itself contained diverse languages, religious traditions and political positions. It is important to distinguish the government's stated aim of national unity from the practical effects of policies that many southerners understood as undermining their autonomy and institutions."
+  ],
+  [
+   "11. Opposition in the north and the wider political landscape",
+   "Opposition to military rule developed among students, university lecturers, teachers, lawyers, doctors, journalists, civil servants, workers and political organisations. The Sudanese Communist Party, trade unions, professional associations and religiously affiliated political networks played different roles in this opposition. The Beja Congress, founded in 1958, articulated political and economic grievances in eastern Sudan, including demands for regional representation and development. Other regional and occupational groups also challenged the concentration of power in Khartoum. Their aims were not identical: some demanded a return to parliamentary government, others sought regional rights, labour protections or wider social transformation. The opposition became increasingly connected through professional and student networks, creating the organisational basis for mass action in 1964."
+  ],
+  [
+   "12. The October Revolution of 1964",
+   "The immediate crisis that triggered the October uprising developed around the government's handling of the southern war and the repression of public discussion. A student meeting at the University of Khartoum in October 1964 was violently broken up by security forces, and the killing of student Ahmad al-Qurashi Taha became a powerful symbol of state repression. Demonstrations expanded, and professional organisations and trade unions called strikes and civil disobedience. The movement spread through Khartoum and other towns, drawing in students, workers, professionals and political activists. The uprising became known as the October Revolution. It was not simply a change arranged by political party leaders: organised civil society and popular mobilisation were central to forcing Abboud from power. The military leadership relinquished authority, and a transitional civilian government was formed."
+  ],
+  [
+   "13. The transitional government and the return to civilian politics",
+   "Following Abboud's departure, a transitional government under Sirr al-Khatim al-Khalifa prepared the return to parliamentary government. Political parties and organisations that had been restricted under military rule re-emerged into public life. The transitional period raised hopes for constitutional reform and a new approach to the southern conflict. A Round Table Conference in 1965 brought northern and southern political representatives together to discuss the country's future, including federalism and regional arrangements. The discussions exposed significant differences in priorities and trust. The transitional authorities faced a difficult task: restore political institutions, address the war, manage economic pressures and establish a constitutional settlement in a short period. The return to civilian rule was a major democratic achievement, but it did not automatically resolve the structural conflicts inherited from the colonial era."
+  ],
+  [
+   "14. Elections and the parliamentary governments, 1965–1969",
+   "Elections in 1965 restored a parliamentary system, with political power again shaped by competition among the Umma Party, the National Unionist Party and other organisations. Coalition governments were unstable, and leadership changes followed disputes within and between parties. Muhammad Ahmad Mahgoub became prime minister in 1966, and Sadiq al-Mahdi also held the premiership during the period. The parliamentary arena was active, but party rivalries and ideological divisions made durable agreement difficult. The southern war continued, and elections could not be conducted on equal terms throughout the country because of insecurity and insurgency. Political participation was therefore geographically uneven. The period should be understood as a real but fragile attempt to restore civilian government under the pressure of war, economic challenges and unresolved constitutional questions."
+  ],
+  [
+   "15. The southern war and regional politics in the late 1960s",
+   "By the late 1960s, the southern conflict had become a major challenge to the authority and resources of the state. Armed groups continued to operate across parts of the south, while government forces pursued counter-insurgency campaigns. The conflict also had cross-border dimensions, as neighbouring countries and changing regional alliances affected the movement of people, weapons and political support. Southern political actors disagreed over strategy, leadership and the desired political settlement. It is inaccurate to portray the south as a single political bloc or the insurgency as a movement with one unchanging programme. The war affected civilians differently across localities and communities, and its history requires region-specific research. The failure to reach a durable political agreement during the 1960s set the stage for the negotiations that eventually produced the Addis Ababa Agreement in 1972."
+  ],
+  [
+   "16. The May 1969 coup",
+   "On 25 May 1969, a group of military officers calling themselves the Free Officers seized power and overthrew the parliamentary government. Colonel Gaafar Muhammad Nimeiri became the leading figure of the new regime. The coup was supported by a coalition of military officers and civilian political forces, including sections of the communist movement and Arab nationalist currents, although these allies soon disagreed over the direction of the state. The new leadership criticised the old party system as incapable of solving the civil war and economic problems. It promised a more radical programme of national transformation. The coup ended the second parliamentary period and opened a new era of military rule. Nimeiri's political orientation and alliances would change substantially in later years, so the regime's later character should not be projected unchanged onto its first months."
+  ],
+  [
+   "17. How to read the period: evidence, memory and competing interpretations",
+   "The history of 1956–1969 is documented through parliamentary debates, government files, newspapers, party publications, military records, memoirs, oral histories and academic research. Each source has limits. Official records may understate state violence or present military operations as security measures. Party accounts can simplify internal divisions and political failures. Insurgent narratives may emphasise particular leadership claims or moments of unity. Oral testimony is essential for understanding local experiences but must be gathered with consent and contextualised rather than treated as a single collective memory. The distinction between the 1955 mutiny, the escalation of conflict in 1956–1962 and the emergence of full-scale insurgency from 1963 is one example of why chronology and careful source criticism matter."
+  ],
+  [
+   "18. Historical assessment and questions for further research",
+   "The first thirteen years of independence were shaped by the struggle to build a state across regions with unequal colonial legacies and competing political visions. Parliamentary governments struggled to establish stable institutions and resolve the southern question. The Abboud regime centralised authority but intensified opposition and failed to end the war. The October Revolution demonstrated the power of organised civil society, yet the restored parliamentary system could not secure a lasting peace or stable coalition government. The May 1969 coup was therefore both a break with parliamentary politics and a consequence of unresolved conflicts within the postcolonial state. This chapter is a substantial national synthesis, not a complete account of every community, province, political organisation or civilian experience. Further editions should expand histories of eastern Sudan, Darfur, the Nuba Mountains, Blue Nile, women, labour movements, students, local southern political organisations and the everyday lives of people affected by war."
+  ]
+ ],
+ "source_leads": [
+  {
+   "name": "Øystein H. Rolandsen, “A False Start: Between War and Peace in the Southern Sudan, 1956–62,” Journal of African History 52(1), 2011",
+   "url": "https://www.cambridge.org/core/journals/journal-of-african-history/article/abs/false-start-between-war-and-peace-in-the-southern-sudan-195662/09EFC13E2C1C6D368E02587E530A8C06"
+  },
+  {
+   "name": "Yusuf Fadl Hasan, “The Sudanese Revolution of October 1964,” The Journal of Modern African Studies",
+   "url": "https://www.cambridge.org/core/journals/journal-of-modern-african-studies/article/abs/sudanese-revolution-of-october-1964/29FBA8C5F23B3A5C4610886965D2BD61"
+  },
+  {
+   "name": "Moritz A. Mihatsch, “Dependence after independence: Sudan’s bounded sovereignty 1956–1958,” Journal of Eastern African Studies, 2021",
+   "url": "https://www.tandfonline.com/doi/abs/10.1080/17531055.2021.1904705"
+  },
+  {
+   "name": "“Stories of a failed nation; Sudanese politics 1945–69,” University of Oxford thesis repository",
+   "url": "https://ora.ox.ac.uk/objects/uuid:96421286-02ab-49bd-92be-31f74526110d"
+  },
+  {
+   "name": "Peter Bechtold, “The Military in Sudanese Politics,” Africa Today 15(2), 1968",
+   "url": "https://www.jstor.org/stable/4184890"
+  },
+  {
+   "name": "“The Crisis of the State in the Horn of Africa,” Max Planck Research Library — discussion of the Abboud regime and regional conflict",
+   "url": "https://www.mprl-series.mpg.de/studies/14/4/index.html"
+  },
+  {
+   "name": "“A Chronology of Sudan’s Multi-Party Elections,” United Nations Mission in Sudan",
+   "url": "https://unmis.unmissions.org/sites/default/files/insudan-dec-en-webversion.pdf"
+  }
+ ],
+ "note": "The chapter distinguishes the 1955 Torit mutiny from the escalation of organised insurgency into full-scale civil war from 1963. It avoids treating southern communities or political organisations as a single unified actor. It is a substantial synthesis and should be expanded with community-authored oral histories, provincial records and more detailed studies of women, labour, regional movements and civilian experiences."
+}
 ]
