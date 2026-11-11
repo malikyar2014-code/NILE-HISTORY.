@@ -188,5 +188,221 @@ ARTICLES = [
    }
   ],
   "note": "Original NILE HISTORY synthesis based on the listed archaeological and historical scholarship. It is not a reproduction of copyrighted books. Chronologies and regional labels vary among sources; disputed origins and political boundaries are identified cautiously. The chapter is an overview, not a complete history of every Sudanese community. Add local-language sources, community-reviewed oral histories and specialist regional chapters in future editions."
+ },
+ {
+  "id": "nubia-medieval-christian-islamic",
+  "title": "Nubia: Christian kingdoms and the transition to Islamic states",
+  "period": "c. 5th–16th centuries CE",
+  "region": "Middle Nile, present-day Sudan and southern Egypt",
+  "category": "Regional Histories",
+  "summary": "A focused history of Nobadia, Makuria and Alodia, their Christian institutions, diplomacy, written cultures and later political transformations.",
+  "status": "Research chapter — specialist scholarship and uneven evidence, especially for Alodia",
+  "article_sections": [
+   [
+    "1. The making of Christian Nubia",
+    "Christian Nubia describes the societies that developed south of Egypt from approximately the fifth century CE. The principal kingdoms were Nobadia in the north, Makuria in the middle Nile and Alodia (Alwa) farther south. Their histories were connected, but they were not identical and did not always share one political structure. Conversion to Christianity brought new institutions, church networks, literacy practices and artistic forms, which interacted with older local traditions."
+   ],
+   [
+    "2. Nobadia and Makuria",
+    "Nobadia and Makuria developed political centres along the Nile. Makuria's capital was Old Dongola, a major urban, religious and administrative centre. The relationship between the northern kingdom of Nobadia and Makuria changed over time, and their political union is commonly placed in the early medieval period. Archaeology, inscriptions, churches, cemeteries and documentary finds provide evidence for royal authority, trade, education and daily life. Surviving evidence is richer in some northern areas than in the south."
+   ],
+   [
+    "3. Alodia and Soba",
+    "Alodia, also known as Alwa, was the southernmost of the major Christian Nubian kingdoms. Soba, near modern Khartoum, is associated with its capital. Written sources about Alodia are relatively scarce, and archaeological investigation has been more limited than for Makuria. This imbalance must not be mistaken for a lack of historical importance. Its political organisation, regional connections and chronology remain areas where new archaeology and careful reading of external accounts can change interpretations."
+   ],
+   [
+    "4. Diplomacy, the Baqt and Egypt",
+    "After the Arab conquest of Egypt, Makuria and the new rulers to the north entered into a relationship conventionally associated with the Baqt agreement, following conflict around 651–652. The agreement's terms and later practice are debated; historians should not reduce centuries of relations to a single simple treaty. Nubian rulers negotiated, traded and sometimes fought with Egyptian powers. Relations varied across periods, including changing conditions under Fatimid, Ayyubid and Mamluk rule."
+   ],
+   [
+    "5. Language, manuscripts and religious life",
+    "Christian Nubian culture was multilingual. Old Nubian appears in manuscripts and inscriptions, alongside Greek, Coptic and later Arabic in different contexts. Churches and monasteries were centres of worship, learning and artistic production. Wall paintings, liturgical texts, legal documents and letters reveal aspects of political and social life that royal chronicles alone cannot provide. The surviving record is selective, and literacy should not be treated as confined only to clergy or rulers."
+   ],
+   [
+    "6. Political transformation and Islamic Nubian states",
+    "From the later medieval period, dynastic conflict, intervention from Egypt, changing regional networks and internal political developments reshaped Nubian kingdoms. Christian institutions persisted in some places after political authority changed. Islamic Nubian political traditions emerged through processes that were gradual and regionally varied. The transition should not be narrated as a single invasion or instant conversion. The last known evidence for Christian kingship in northern Nubia extends into the late fifteenth century, while the fate and chronology of Alodia require separate caution."
+   ]
+  ],
+  "article_text": [
+   "Christian Nubia was a major political and cultural region of northeast Africa for roughly a millennium. Its kingdoms—Nobadia, Makuria and Alodia—developed distinctive institutions, religious traditions and written cultures along the Middle Nile. Their histories were connected to Egypt and the wider Mediterranean, but they were also rooted in local Nubian societies.",
+   "The evidence is uneven. Old Dongola and northern sites have yielded substantial archaeological and documentary material, while Alodia remains less well understood. The transition from Christian kingdoms to Islamic Nubian states unfolded over generations and varied by region. A complete history must combine archaeology, manuscripts, inscriptions and carefully contextualised external accounts."
+  ],
+  "source_leads": [
+   {
+    "name": "Alexandros Tsakos, Medieval/Christian Nubia — Oxford Research Encyclopedia",
+    "url": "https://academic.oup.com/edited-volume/61663/chapter-abstract/553492790"
+   },
+   {
+    "name": "Bogdan Żurawski, Christian and Islamic Nubia, 543–1820 — Oxford Research Encyclopedia",
+    "url": "https://academic.oup.com/edited-volume/61663/chapter-abstract/553434566"
+   },
+   {
+    "name": "Jay Spaulding, Islamic Nubian Kingdoms — Oxford Handbook of Ancient Nubia",
+    "url": "https://academic.oup.com/edited-volume/35472/chapter-abstract/303804423"
+   },
+   {
+    "name": "Adam Simmons, A Note towards Quantifying the Medieval Nubian Diaspora — open access",
+    "url": "https://escholarship.org/uc/item/8908w6s5"
+   }
+  ],
+  "note": "Original synthesis. The relative scarcity of evidence for Alodia is explicitly acknowledged. The Oxford reference chapters are bibliographic research leads; access may require a subscription."
+ },
+ {
+  "id": "beja-red-sea-histories",
+  "title": "Beja histories of the Red Sea hills and eastern Sudan",
+  "period": "Ancient references–present; focus on precolonial and colonial transformations",
+  "region": "Red Sea hills, eastern Sudan and adjacent borderlands",
+  "category": "Peoples & Cultures",
+  "summary": "A regional introduction to Beja histories, land, pastoralism, trade, political institutions and the effects of colonial reorganisation.",
+  "status": "Research chapter — community identities and historical labels require local specificity",
+  "article_sections": [
+   [
+    "1. Who are the Beja?",
+    "Beja is a broad name used for communities in eastern Sudan and adjacent parts of the Red Sea region. It should not be treated as a timeless, internally uniform identity. Language, locality, lineage, livelihood and political affiliation have all shaped how people identify themselves and how outsiders classify them. Historical sources use different names, and each must be examined in its own context."
+   ],
+   [
+    "2. Land, water and mobility",
+    "The Red Sea hills combine mountains, seasonal watercourses, coastal zones and routes linking the interior to ports and the Nile Valley. Pastoral mobility and access to grazing and water have been central to many local livelihoods, alongside trade, wage work and other economic activities. Land is not only an economic resource: it is also connected to identity, memory, customary authority and claims of belonging."
+   ],
+   [
+    "3. Trade and external powers",
+    "The eastern region has long been connected to Nile Valley states and Red Sea commerce. Ancient and medieval sources refer to peoples and routes in the eastern deserts, but historical labels cannot simply be equated with present-day communities. Egyptian, Roman, Arab, Ottoman and later European interests affected the region in different ways, including through military campaigns, trade, pilgrimage routes and resource extraction."
+   ],
+   [
+    "4. Customary institutions and colonial change",
+    "Beja communities maintained local institutions and customary claims to land and authority. Colonial rule reorganised administration and land governance, often privileging formal systems that weakened or marginalised customary claims. These changes did not erase local institutions; they altered the political conditions in which they operated. Historical analysis should distinguish official administrative categories from local practice."
+   ],
+   [
+    "5. Oral histories, language and historical research",
+    "Beja histories require oral testimony, local-language research, family and community archives, archaeology and critical use of administrative records. The identity of narrators, language of recording, location and circumstances should be documented. Colonial accounts can preserve useful information but frequently reflect the priorities and assumptions of the officials who wrote them."
+   ]
+  ],
+  "article_text": [
+   "Beja histories are inseparable from the landscapes of eastern Sudan and the Red Sea hills. Communities have maintained relationships with land, pasture, water, trade routes and neighbouring political powers over long periods. The broad label Beja covers diverse identities and institutions, and should never be used to imply one uniform history.",
+   "Modern historical research highlights how colonial land and administrative reforms affected customary institutions and claims to territory. A fuller account needs community-led oral history and local-language research alongside archaeology and written sources."
+  ],
+  "source_leads": [
+   {
+    "name": "Sara Pantuliano, Entangled Land and Identity: Beja History and Institutions — Cambridge University Press",
+    "url": "https://www.cambridge.org/core/books/abs/disrupting-territories/entangled-land-and-identity-beja-history-and-institutions/993BF117CF6049DD7265E5D2E0081174"
+   }
+  ],
+  "note": "This is an introductory research chapter, not a complete history of every Beja community. The Cambridge chapter is a research lead; full-text access may be restricted."
+ },
+ {
+  "id": "nuba-mountains-taqali-history",
+  "title": "Nuba Mountains: peoples, Taqali and precolonial political histories",
+  "period": "Prehistory–1821 CE, with emphasis on early modern history",
+  "region": "Nuba Mountains and South Kordofan, Sudan",
+  "category": "Peoples & Cultures",
+  "summary": "An introduction to the diverse peoples of the Nuba Mountains, the Taqali kingdom, local political institutions and the challenges of reconstructing regional histories.",
+  "status": "Research chapter — the region is linguistically and historically diverse",
+  "article_sections": [
+   [
+    "1. A diverse region, not one people",
+    "‘Nuba’ is a broad regional label applied to many communities in the Nuba Mountains. The region contains substantial linguistic and cultural diversity. It is therefore misleading to describe all inhabitants as one homogeneous people with one origin story or political system. Historical writing should identify particular communities and localities wherever the evidence permits."
+   ],
+   [
+    "2. Landscapes and settlement",
+    "The Nuba Mountains form a varied highland landscape surrounded by plains and routes connecting Kordofan, the Nile Valley and western Sudan. Hills, valleys, seasonal water and cultivable land shaped settlement and mobility. Archaeological reconnaissance has identified remains that can contribute to regional chronology, but the surveyed record is not comprehensive and should not be treated as a complete map of past occupation."
+   ],
+   [
+    "3. Taqali and its political history",
+    "Taqali became an important kingdom in the northeastern Nuba Mountains. Its rulers, often referred to by the title mek, negotiated with neighbouring powers including the Funj Sultanate and later Turco-Egyptian authorities. The chronology of the kingdom's emergence and the interpretation of its founding traditions remain debated. Janet J. Ewald's study demonstrates that accounts of Taqali's origins were shaped by particular political and social contexts, not simply transmitted unchanged from a remote past."
+   ],
+   [
+    "4. Authority beyond the kingdom",
+    "Taqali was not the only form of political organisation in the mountains. Local leadership, councils, lineage institutions, religious authority and community-level arrangements shaped political life in different places. Older colonial descriptions sometimes treated decentralised systems as evidence of an absence of government. That assumption overlooks how law, negotiation, land rights and collective decisions were organised outside a central monarchy."
+   ],
+   [
+    "5. Oral tradition and historical method",
+    "Founding stories and oral histories are important historical sources, but they must be attributed and compared. Different versions may explain political legitimacy, relations with neighbours, religious change or claims to land. A historian should record who told a story, when, in which language and under what circumstances. Oral accounts should be read alongside archaeology, linguistics and written documents, not forced into a single fixed chronology."
+   ],
+   [
+    "6. Research priorities",
+    "A fuller history needs community-specific accounts, more archaeological survey, local-language documentation and careful study of Taqali and other regional institutions. The Nuba Mountains' history cannot be reconstructed solely from the records of neighbouring states or colonial administrators."
+   ]
+  ],
+  "article_text": [
+   "The Nuba Mountains are home to many communities with distinct languages, political institutions and historical memories. Taqali was an important precolonial kingdom, but it did not represent the entire region. The history of the mountains also includes local authorities and forms of governance that do not fit a centralised state model.",
+   "Historical research must treat origin stories as evidence about both remembered pasts and the political contexts in which narratives were told. Archaeological and linguistic work remains uneven, and new community-based research is essential."
+  ],
+  "source_leads": [
+   {
+    "name": "Jay Spaulding, A Premise for Precolonial Nuba History — History in Africa",
+    "url": "https://www.cambridge.org/core/journals/history-in-africa/article/abs/premise-for-precolonial-nuba-history/5E7BFA5576B34B3E896585AD263349EC"
+   },
+   {
+    "name": "Janet J. Ewald, Experience and Speculation: History and Founding Stories in the Kingdom of Taqali, 1780–1935 — bibliographic record",
+    "url": "https://www.africabib.org/rec.php?RID=186507992"
+   },
+   {
+    "name": "Taylor & Bieniada, Archaeological Reconnaissance in the Nuba Mountains — research paper",
+    "url": "https://strathprints.strath.ac.uk/84198/1/Taylor_Bieniada_SN_2007_Archaeological_reconnaissance_in_the_Nuba_mountains.pdf"
+   },
+   {
+    "name": "Annotated Bibliography: Social Research on the Nuba — Chr. Michelsen Institute",
+    "url": "https://www.cmi.no/publications/file/5693-annotated-bibliography-social-research-nuba.pdf"
+   }
+  ],
+  "note": "This chapter is a regional introduction. It deliberately avoids treating Nuba as a single ethnic identity or asserting one uncontested origin for Taqali."
+ },
+ {
+  "id": "darfur-keira-sultanate-history",
+  "title": "Darfur before 1874: the Keira Sultanate and regional societies",
+  "period": "c. 17th century–1874 CE",
+  "region": "Darfur and western Sudan",
+  "category": "Regional Histories",
+  "summary": "A focused introduction to the Keira Sultanate, its political institutions, trade networks, diverse communities and the historical role of slavery and long-distance commerce.",
+  "status": "Research chapter — early chronology and origin traditions remain debated",
+  "article_sections": [
+   [
+    "1. Darfur as a historical region",
+    "Darfur is a large and diverse region in western Sudan. Its societies were connected to the Nile Valley, the Sahel, Wadai, North Africa and regions farther south. The region's history cannot be reduced to the history of one dynasty or one community. Agricultural, pastoral and trading populations interacted through markets, alliances, conflict, religious networks and political institutions."
+   ],
+   [
+    "2. The rise of the Keira Sultanate",
+    "The Keira dynasty established a sultanate that became a major regional power from the seventeenth century. The precise chronology and accounts of its origins are reconstructed from Arabic chronicles, genealogies, oral traditions and later scholarship. Such sources may serve political or dynastic purposes and should be compared rather than treated as a single unquestionable narrative."
+   ],
+   [
+    "3. The sultanate and its institutions",
+    "The sultanate developed a court and political institutions through which rulers negotiated authority across a large territory. Power was not exercised uniformly in every locality. Local leaders, religious figures, communities and regional elites retained influence and negotiated their relationships with the centre. The history of the state is therefore also a history of local political agency and changing relationships."
+   ],
+   [
+    "4. Trade routes and external connections",
+    "Darfur participated in trans-Saharan and Sahelian commerce, with routes connecting toward the Nile, North Africa and Wadai. Trade involved goods, livestock and people, and the routes changed with political security, market demand and control of water and caravan stations. Darfur should be studied as part of wider African commercial networks rather than as an isolated western province."
+   ],
+   [
+    "5. Slavery, raiding and the political economy",
+    "Slavery and slave trading were important to the expansion and political economy of the Keira state, according to specialist historical research. Enslaved people were exported and also served within military, administrative and domestic systems. The scale, organisation and effects varied across periods and localities. Historical writing must foreground the people subjected to enslavement and violence, while carefully distinguishing state policy, raiding, commerce and local practices."
+   ],
+   [
+    "6. Communities and the limits of dynastic history",
+    "Darfur has long been home to diverse communities, including Fur, Masalit, Zaghawa and many others. Their histories cannot be collapsed into the history of the sultanate or explained through fixed ethnic categories. Political affiliation, livelihood, language and identity could overlap and change. Community-specific histories and oral testimony are necessary to understand the region beyond the court."
+   ],
+   [
+    "7. The end of the first Keira sultanate",
+    "The first Keira sultanate ended in 1874 amid military and political upheaval associated with the expansion of external commercial and military power. This was a major turning point, but it did not end Darfur's societies or historical agency. Later political transformations require a separate account of the nineteenth-century conquest, Mahdist period and subsequent colonial rule."
+   ]
+  ],
+  "article_text": [
+   "The Keira Sultanate became a major political power in Darfur from the seventeenth century until its overthrow in 1874. Its history involved dynastic institutions, local authorities, trade across the Sahel and relationships with neighbouring states. Darfur's societies were diverse, and the sultanate did not govern every locality in the same way.",
+   "Specialist research also documents the central role of slavery and slave trading in the political economy of the sultanate. A responsible history must address this directly, without reducing all of Darfur's past to slavery or overlooking the experiences and agency of its many communities."
+  ],
+  "source_leads": [
+   {
+    "name": "R. S. O'Fahey, Slavery and the Slave Trade in Dār Fūr — Journal of African History",
+    "url": "https://www.cambridge.org/core/journals/journal-of-african-history/article/abs/slavery-and-the-slave-trade-in-dar-fur/78A7E436EA2B1CA75301FB60E628E173"
+   },
+   {
+    "name": "Roland Oliver & Anthony Atmore, Nubia, Darfur and Wadai — Cambridge University Press",
+    "url": "https://www.cambridge.org/core/books/abs/medieval-africa-12501800/nubia-darfur-and-wadai/852AF7761863DDCCE98F9F0C1391ADFA"
+   },
+   {
+    "name": "R. S. O'Fahey & J. L. Spaulding, Kingdoms of the Sudan — Routledge",
+    "url": "https://www.routledge.com/Kingdoms-of-the-Sudan/OFahey-Spaulding/p/book/9781138212206"
+   }
+  ],
+  "note": "Original synthesis and research guide. The chapter treats slavery as a documented historical institution while avoiding generalisations about all Darfur communities. Detailed local histories remain necessary."
  }
 ]
