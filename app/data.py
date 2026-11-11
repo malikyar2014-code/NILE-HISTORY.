@@ -585,4 +585,100 @@ ARTICLES = [
   ],
   "note": "Introductory regional synthesis. Do not repeat outdated colonial labels except when explicitly analysing their use in historical documents."
  }
+
+,
+{
+ "id": "sudan-south-1820-1898",
+ "title": "Sudan and the southern Nile regions, 1820–1898: conquest, commerce and the Mahdiyya",
+ "period": "1820–1898",
+ "region": "The Nile Valley, Kordofan, Darfur, Blue Nile and the regions now forming South Sudan",
+ "category": "Modern history",
+ "summary": "A detailed regional chapter on the Turco-Egyptian conquest, changing systems of government, commercial expansion, the ivory and slave trades, Equatoria, resistance, the Mahdist revolution and the fall of the Mahdist state. It distinguishes regional experiences and identifies areas where the evidence remains uneven.",
+ "status": "Research chapter — substantial synthesis; not a complete account of every region or community",
+ "article_sections": [
+  [
+   "1. A region of many political worlds before 1820",
+   "The territories later administered as Sudan were not a single political or social unit before the nineteenth century. The Funj Sultanate, centred on Sinnar, had shaped much of the central Nile and Blue Nile political landscape since the early sixteenth century. Darfur was governed by the Keira sultanate, whose authority, institutions and commercial networks differed from those of Sinnar. Along the Nile, Nubian communities carried histories shaped by the older Christian kingdoms and subsequent Islamic transformations. Kordofan connected the Nile Valley with western routes and pastoral societies. Farther south, communities along the White Nile, in the Bahr el Ghazal, the Nuba Mountains and the Equatoria region maintained diverse systems of authority, exchange, land use and diplomacy. These places had their own histories; they should not be treated as empty territory awaiting incorporation into a state. The historical record is uneven: chronicles, Arabic manuscripts, archaeology, oral histories and later administrative reports illuminate different places and social groups with unequal detail."
+  ],
+  [
+   "2. The Egyptian invasion of 1820–1821",
+   "In 1820, Muhammad Ali Pasha, the Ottoman governor of Egypt, dispatched military expeditions southward. One force under his son Ismail Kamil Pasha advanced against the Funj state; another campaign under Muhammad Bey Khusraw moved into Kordofan. Sinnar fell in 1821, and the conquest dismantled the central institutions of the Funj sultanate. Ismail was killed at Shendi in 1822, prompting a major Nile Valley revolt and a brutal campaign of repression. The invasion is often called the Turco-Egyptian conquest or the Turkiyya. It was an Egyptian imperial project within the Ottoman world, not simply a modern national administration. Muhammad Ali sought revenue, strategic depth and military manpower, although the expedition did not achieve all of its stated ambitions. The conquest also brought different regions under a new political framework without making their local societies uniform."
+  ],
+  [
+   "3. Building the Turco-Egyptian administration",
+   "The new government established military and administrative centres, most importantly at Khartoum, which grew into a major political and commercial hub at the meeting of the Blue and White Nile. Governors and officials exercised authority through garrisons, tax collection, local intermediaries and military expeditions. The reach of government varied sharply. River towns and accessible routes could be supervised more consistently than distant pastoral, forest and swamp regions. Local rulers, religious figures, merchants and community authorities negotiated with, served, resisted or evaded the new administration in different ways. It is misleading to imagine a fully centralised state controlling every district equally. The government depended on coercion and on intermediaries who translated state demands into local practice. These relationships changed over time and differed between the Nile corridor, Kordofan, Darfur and the southern regions."
+  ],
+  [
+   "4. Taxation, land, labour and military recruitment",
+   "The administration needed revenue to pay officials and maintain its forces. Tax demands affected agricultural producers, merchants, pastoral communities and towns in different ways. Officials relied on assessments, collection agents and coercive measures; abuses and arbitrary exactions became central grievances against the regime. Military recruitment also formed part of the state's ambitions. The government sought soldiers from the conquered territories, but its capacity to obtain them was constrained by resistance, logistics and the political realities of the region. The effects of taxation and recruitment were not identical everywhere: a riverain farming village, a mobile pastoral group and a remote southern settlement encountered the state through different institutions and intermediaries. Historical accounts written by officials often describe these systems from the viewpoint of administration, so they must be compared with local histories and later scholarship."
+  ],
+  [
+   "5. Commerce, ivory and the expansion of slave trading",
+   "The nineteenth century brought an expansion and reorganisation of long-distance commerce. Ivory was a major export, alongside gum arabic, livestock, hides and other goods. Demand for ivory drew merchants and armed trading networks deeper into the White Nile and Bahr el Ghazal regions. Enslaved people were also bought, captured, transported and sold through networks linking the interior to northern markets and beyond. Slavery and forms of dependency existed in different societies before the Egyptian conquest; the nineteenth-century transformation lay in the scale, routes, commercial organisation and political violence associated with expanding demand and armed expeditions. The growth of trading stations and fortified enclosures, often called zaribas, altered local security and power. These systems were not a single uniform institution: their organisation and impact varied across regions, and the historical evidence must not erase the experiences or agency of the people subjected to enslavement."
+  ],
+  [
+   "6. The southern regions and the creation of Equatoria",
+   "Egyptian and Khartoum-based commercial networks moved south along the White Nile and into the interior, but environmental conditions, distance, disease, resistance and the Sudd wetlands limited state control. Trading stations and armed camps became important nodes in the ivory and slave trades. In the 1860s and 1870s, Egyptian rulers also pursued territorial ambitions and prestige connected with the Nile and the search for its sources. The province of Equatoria was developed under Samuel Baker and later Charles Gordon, although the realities of rule remained fragile and contested. These campaigns should not be confused with the peaceful exploration of an uninhabited landscape: the regions were inhabited by communities with their own political systems, trade routes and histories. The creation of Equatoria was an attempt to extend imperial authority, and it was accompanied by military violence, commercial extraction and uneven administration."
+  ],
+  [
+   "7. The abolition campaigns and their limits",
+   "Under pressure from international diplomacy and British influence, Egyptian authorities announced measures against the slave trade and appointed officials to suppress it. The campaigns associated with figures such as Samuel Baker and Charles Gordon were part of wider imperial policy as well as humanitarian claims. Their implementation was inconsistent, and officials could be compromised by the same commercial and political structures they were meant to control. Closing one route or trading station did not automatically end enslavement; networks could shift, conceal activity or resume when enforcement weakened. It is essential to distinguish legal decrees, administrative campaigns and actual conditions on the ground. Slavery persisted in different forms after the formal end of the Turco-Egyptian regime, and abolition under later governments was neither immediate nor simple."
+  ],
+  [
+   "8. Resistance, revolt and the crisis of the Turkiyya",
+   "Opposition to Turco-Egyptian rule took many forms: refusal or evasion of taxes, flight, local revolts, resistance to recruitment, attacks on officials and the defence of local authority. The scale and causes of opposition varied. The Shendi revolt after Ismail's death in 1822 was one early episode; later resistance arose in different regions for different reasons. Administrative corruption, forced demands, commercial violence and the conduct of officials contributed to the regime's loss of legitimacy. At the same time, the government faced financial pressures and conflicts over the slave trade and military control. These pressures did not make revolution inevitable, but they created conditions in which a religious and political movement could mobilise support against the state."
+  ],
+  [
+   "9. The Mahdist movement begins, 1881",
+   "Muhammad Ahmad ibn Abd Allah declared himself the Mahdi in 1881. His movement emerged in a particular religious, political and economic setting, drawing on Islamic reformist traditions and widespread dissatisfaction with Turco-Egyptian government. Support came from varied groups and regions; people joined for different reasons, including religious conviction, opposition to state demands, local political calculations and hopes for change. The Mahdist movement was not simply a unified national uprising in the modern sense. It developed through alliances, military victories and the incorporation of different communities into a new political project. The movement's success depended on religious authority and military organisation, but also on the weakening of the state it challenged."
+  ],
+  [
+   "10. The fall of Khartoum and the Mahdist state",
+   "Mahdist forces defeated government armies in a series of campaigns and captured Khartoum in January 1885, where General Charles Gordon was killed. Muhammad Ahmad died later that year, and leadership passed to the Khalifa Abdallahi ibn Muhammad. The Mahdist state, or Mahdiyya, developed institutions of taxation, military organisation, religious authority and provincial administration. Its government was a state-building project, not merely a period of rebellion. It also faced severe pressures: warfare, food shortages, epidemic disease, regional resistance, internal rivalries and the difficulty of governing a large territory with limited resources. The Mahdiyya's policies and effects differed across the regions it claimed to rule. Its history must be studied through both its administrative records and the experiences of the populations subject to its armies and officials."
+  ],
+  [
+   "11. Southern Sudan under Mahdist influence",
+   "Mahdist influence in the southern regions was uneven and often weaker than in the central Nile Valley. Some former Turco-Egyptian trading and administrative networks collapsed or changed, while Mahdist forces and agents attempted to establish authority in selected areas. Local communities responded in different ways: some resisted, some negotiated, and others adapted to shifting commercial and military conditions. The southern regions were not simply cut off from wider events; they experienced the consequences of changing trade routes, armed movements and the breakdown of earlier imperial structures. Yet it would be inaccurate to describe every southern community as governed in the same way or to assume that Mahdist control was continuous across the region. The evidence is patchy and requires careful comparison of written sources, archaeology and local oral histories."
+  ],
+  [
+   "12. The 1896–1898 invasion and the end of the Mahdiyya",
+   "In 1896, an Anglo-Egyptian military campaign began advancing south from Egypt. The force defeated the Mahdist army at the Battle of Omdurman on 2 September 1898 and occupied Khartoum. The battle marked the decisive military defeat of the Mahdist state, although campaigns and resistance continued in different areas. The invasion was driven by strategic, imperial and political aims; it should not be presented only as a humanitarian operation. The Anglo-Egyptian Condominium was formally established in 1899, creating a new framework of British and Egyptian rule. This transition did not mean that all regions were immediately controlled or that older political and social structures disappeared. The new regime inherited and reshaped institutions, commercial routes and regional inequalities created during the preceding decades."
+  ],
+  [
+   "13. How historians reconstruct this period",
+   "The nineteenth century is documented by Arabic chronicles, government correspondence, travel narratives, missionary records, maps, commercial papers, archaeological sites and oral traditions. Each source has limitations. Government reports may exaggerate administrative reach or reproduce racial and cultural assumptions. European travel accounts often focus on routes, trade and encounters that served the author's purpose. Mahdist documents illuminate state priorities but do not automatically represent the views of ordinary people. Archaeology at former trading and military sites can test written claims, while community histories preserve memories overlooked in official archives. A responsible account compares sources rather than treating any one archive as complete. It also distinguishes contemporary evidence from later interpretation and identifies where the record remains uncertain."
+  ],
+  [
+   "14. Regional experiences and unanswered questions",
+   "There was no single experience of 1820–1898 shared by all the peoples of the territories now called Sudan and South Sudan. The Nile towns, Kordofan, Darfur, the Red Sea region, the Nuba Mountains, the Blue Nile and the southern river and forest regions had distinct political histories and different degrees of exposure to the state. Some local histories remain poorly represented in published narratives, especially those preserved in oral traditions and local-language sources. Future editions of this chapter should add region-specific research, community-authored accounts, biographies, maps of documented routes and trading stations, and carefully contextualised primary documents. This chapter is a substantial overview of major transformations, not a claim that every local history has been told."
+  ]
+ ],
+ "source_leads": [
+  {
+   "name": "Emanuel Beška, “Muhammad ʿAli’s Conquest of Sudan (1820–1824),” Asian and African Studies 28(1), 2019 — open scholarly article",
+   "url": "https://www.sav.sk/?doc=journal-list&journal_article_no=16876&lang=en&part=article_response_page"
+  },
+  {
+   "name": "Øystein H. Rolandsen and M. W. Daly, A History of South Sudan: “Ivory and slaves: the nineteenth century” (Cambridge University Press, 2016)",
+   "url": "https://www.cambridge.org/core/books/abs/history-of-south-sudan/ivory-and-slaves-the-nineteenth-century/16423C0D02D890311755F71AE4A34F1C"
+  },
+  {
+   "name": "Paul Lane and Douglas H. Johnson, “The Archaeology and History of Slavery in South Sudan in the Nineteenth Century,” The Frontiers of the Ottoman World (British Academy, 2009)",
+   "url": "https://academic.oup.com/british-academy-scholarship-online/book/20031/chapter-abstract/178991734"
+  },
+  {
+   "name": "Alice Moore-Harell, Egypt's Africa Empire: Samuel Baker, Charles Gordon and the Creation of Equatoria (Liverpool University Press, 2010)",
+   "url": "https://www.jstor.org/stable/jj.38401854"
+  },
+  {
+   "name": "Jay Spaulding, “Funj Sultanate of Sinnar,” The Encyclopedia of Empire (2016)",
+   "url": "https://onlinelibrary.wiley.com/doi/10.1002/9781118455074.wbeoe007"
+  },
+  {
+   "name": "G. N. Sanderson, “The Modern Sudan, 1820–1956: The Present Position of Historical Studies,” Journal of African History (2009)",
+   "url": "https://www.cambridge.org/core/journals/journal-of-african-history/article/abs/modern-sudan-18201956-the-present-position-of-historical-studies/51FA0F40EB2436B0476D4892B1D886A9"
+  }
+ ],
+ "note": "This is a substantial regional synthesis, not an exhaustive history of every community. It distinguishes Turco-Egyptian rule, the Mahdiyya and the later Condominium; these were different political systems. Enslavement, imperial expansion and colonial violence are described directly but without treating affected communities as passive. Add community-led oral histories and further regional studies in later revisions."
+}
 ]
