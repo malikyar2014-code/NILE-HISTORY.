@@ -162,3 +162,26 @@ if(globalInput){
  globalInput.addEventListener('keydown',event=>{if(event.key==='Enter'){event.preventDefault();clearTimeout(globalSearchTimer);runGlobalSearch();}});
  document.getElementById('globalSearchButton').addEventListener('click',runGlobalSearch);
 }
+
+
+/* Accessible main navigation: compact on mobile, always available on desktop. */
+(()=>{
+ const toggle=document.getElementById('menuToggle');
+ const menu=document.getElementById('mainMenu');
+ if(!toggle||!menu)return;
+ toggle.addEventListener('click',()=>{
+  const open=toggle.getAttribute('aria-expanded')==='true';
+  toggle.setAttribute('aria-expanded',String(!open));
+  menu.classList.toggle('menu-open',!open);
+ });
+ menu.querySelectorAll('a').forEach(link=>link.addEventListener('click',()=>{
+  toggle.setAttribute('aria-expanded','false');
+  menu.classList.remove('menu-open');
+ }));
+ document.addEventListener('keydown',event=>{
+  if(event.key==='Escape'){
+   toggle.setAttribute('aria-expanded','false');
+   menu.classList.remove('menu-open');
+  }
+ });
+})();
