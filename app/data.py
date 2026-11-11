@@ -60,5 +60,133 @@ ARTICLES = [
  ["16. Evidence gaps and priorities for future research","The archaeological record remains uneven, and political instability has interrupted research, conservation and access to collections. Oral histories have not been collected systematically from every community, and many existing records lack clear information about narrators, dates, language and consent. Some colonial archives are extensive but reflect the priorities of the administrations that created them. Research priorities include community-led oral history, local-language publication, archaeological survey and scientific dating, preservation of manuscripts and recordings, women's histories, histories of trade and technology, and documentation of smaller or underrepresented communities. Sudanese and South Sudanese scholars, heritage workers, elders, language specialists and community organisations must be recognised as knowledge producers, not merely as sources for outside researchers. New evidence may revise this chapter; that is a strength of historical research, not a failure."],
  ["17. Conclusion: a region of connected histories","The deep history of South Sudan is not an empty prelude to colonialism, civil war or independence. Archaeology, oral tradition, linguistics and regional history show a landscape inhabited and shaped by communities over many centuries. People developed varied economies, technologies and political institutions, moved and formed new relationships, and participated in networks that crossed the boundaries of the modern state. Some details remain uncertain because evidence is scarce or uneven. The answer is not to fill those gaps with invented certainty, but to explain what is known, identify competing interpretations and keep researching. A comprehensive national history must make room for the diversity of local histories while showing how those histories became connected in the modern era."]
  ],"article_text":["The history of the lands that became South Sudan begins long before the creation of the modern state in 2011. Before the nineteenth century, communities across the Upper Nile lived in a connected but highly diverse region shaped by rivers, wetlands, savannas, forests, trade routes and seasonal movement. No single kingdom or ethnic identity covered the whole territory. Archaeology, oral traditions, linguistics and neighbouring written sources each illuminate parts of this past, but none provides a complete record on its own.","A peer-reviewed archaeological review by David Kay, Samuel Lunn-Rockliffe and Matthew Davies surveys evidence from about 3000 BCE to 1500 CE. It highlights changing lifeways, including pastoralism, cultivation and ironworking, while stressing how limited archaeological coverage remains. Finds can document settlement and technology, but cannot automatically be assigned to a modern ethnic group. The modern borders of South Sudan must not be projected backwards as ancient political boundaries.","The Shilluk/Chollo kingdom is an important example of centralised kingship in the Upper Nile. Other communities developed different forms of authority, including local leadership, councils, age-based institutions, lineage networks and spiritual offices. Older colonial labels such as 'stateless' often obscure these institutions. Dinka, Nuer, Anyuak, Bari, Azande, Murle, Lotuko, Toposa and many other communities have distinct histories that require separate, locally grounded treatment.","Oral histories are indispensable, but must be recorded with the narrator, language, locality, date and circumstances. Douglas H. Johnson has shown why colonial-era summaries of oral traditions need critical assessment: they may combine an informant's account with the assumptions of the official who recorded it. Oral accounts should be compared with one another and with archaeology, linguistics and written sources, not dismissed or treated as timeless statements.","The nineteenth century brought major transformations through Turco-Egyptian expansion, commercial networks, ivory and slave trading, armed expeditions and later colonial rule. These processes changed societies that already had deep histories. A full account must examine regional differences, local agency, resistance, adaptation and the experiences of people affected by violence and displacement."],"source_leads":[{"name":"Kay, Lunn-Rockliffe & Davies (2019), The archaeology of South Sudan from c. 3000 BC to AD 1500 — Cambridge Repository, accepted peer-reviewed version","url":"https://www.repository.cam.ac.uk/items/1767f474-8215-46af-963e-c40a12b7ff0b"},{"name":"Johnson, Douglas H. (2016), South Sudan: A New History for a New Nation — Ohio University Press Open Access","url":"https://ohioopen.library.ohio.edu/oupress/76/"},{"name":"Johnson, Douglas H. (1982), Ngundeng and the Turuk: Two Narratives Compared — History in Africa","url":"https://www.cambridge.org/core/journals/history-in-africa/article/abs/ngundeng-and-the-turuk-two-narratives-compared/38CAF1CF6CDE1B92966800C8F55B7D97"},{"name":"Rolandsen & Daly, A History of South Sudan — Cambridge University Press excerpt on Upper Nile societies and historical sources","url":"https://assets.cambridge.org/97805211/16312/excerpt/9780521116312_excerpt.pdf"},{"name":"Kay, Lunn-Rockliffe & Davies (2019), open accepted manuscript — UCL Discovery","url":"https://discovery.ucl.ac.uk/id/eprint/10090610/"}],"note":"Original NILE HISTORY chapter synthesised from the cited archaeological review and historical scholarship. This is not a claim that every community's history is fully covered. Dates and migration interpretations remain provisional where evidence is limited. The Cambridge archaeology manuscript is described as CC BY-NC 4.0 in the repository; this chapter is an independent synthesis, not a reproduction of that paper. The Ohio University Press book is CC BY-NC-ND 4.0 and is linked rather than copied or adapted."}
-
+,
+ {
+  "id": "precolonial-sudan-regional-histories",
+  "title": "Precolonial Sudan: regions, kingdoms and connected histories",
+  "period": "Prehistory–1821 CE",
+  "region": "The lands of present-day Sudan",
+  "category": "Regional Histories",
+  "summary": "A long-form overview of the diverse societies and political traditions that shaped the lands of present-day Sudan before the Turco-Egyptian conquest. It connects archaeology, Nubian kingdoms, Christian and Islamic periods, the Funj and Darfur sultanates, and regional communities without treating modern borders as timeless.",
+  "status": "Expanded research chapter — regional coverage and chronology remain open to revision",
+  "article_sections": [
+   [
+    "1. What does ‘precolonial Sudan’ mean?",
+    "The term precolonial Sudan refers here to the many societies that existed in the territory of the modern Republic of Sudan before the Turco-Egyptian invasion of 1820–1821. It is a geographic convenience, not the name of one ancient country. Modern borders did not exist for most of this history, and political authority rarely covered the entire territory. Communities in the Nile Valley, Red Sea hills, western savannas, Nuba Mountains, Blue Nile, and southern borderlands followed distinct histories while maintaining relationships through trade, migration, diplomacy, religious networks and conflict. A national history must therefore combine regional narratives rather than force them into a single uninterrupted state."
+   ],
+   [
+    "2. Landscapes and routes",
+    "The Nile and its tributaries formed major corridors, but they were not the only routes through the region. The Blue Nile linked the Ethiopian highlands to central Sudan; the Atbara connected eastern uplands to the main river; the Red Sea coast linked inland communities to maritime trade; and desert tracks connected the Nile with Kordofan, Darfur, Egypt, Libya and the wider Sahel. Rainfall, pasture, seasonal rivers and access to wells shaped settlement and mobility. The same landscape could support cultivation, herding, fishing, caravan commerce and seasonal movement. Geography influenced political power, but did not determine a single way of life."
+   ],
+   [
+    "3. Archaeology before written chronicles",
+    "Archaeological evidence documents human occupation in what is now Sudan over immense spans of time. Stone tools, settlement remains, rock art, cemeteries, ceramics, plant remains and animal bones help researchers reconstruct changing lifeways. The evidence is uneven: some areas have been surveyed and excavated far more intensively than others. Archaeological cultures are analytical categories, not automatic equivalents of modern ethnic groups. A pottery style or burial practice cannot, by itself, establish the language or self-identity of the people who used it. Open-access research on Sudanese prehistory provides an important starting point, while new fieldwork continues to refine regional chronologies."
+   ],
+   [
+    "4. Early Nile Valley societies and Kerma",
+    "The Middle Nile saw the emergence of complex communities and powerful political centres long before the modern era. Kerma, flourishing broadly during the third and second millennia BCE, became a major kingdom south of Egypt. Its monumental mud-brick architecture, settlement remains, ceramics and extensive cemeteries reveal political authority, specialised production and long-distance exchange. Kerma interacted with Egypt through trade, diplomacy and warfare, but its history cannot be reduced to Egyptian records. The kingdom was conquered during the Egyptian New Kingdom expansion, yet conquest did not erase local populations or the region's cultural history. Kerma is treated in greater detail in NILE HISTORY's dedicated article."
+   ],
+   [
+    "5. Kush: Napata and Meroë",
+    "After the end of Egyptian imperial rule in Nubia, new political formations developed in the Middle Nile. The Napatan kingdom of Kush rose to prominence in the first millennium BCE. In the eighth century BCE, Kushite rulers conquered Egypt and established the Twenty-fifth Dynasty. After withdrawing from Egypt, Kush continued as an influential state, with major royal and religious centres including Napata and later Meroë. Meroitic rulers developed distinctive political, artistic and religious traditions; the Meroitic script remains only partly understood. Kush was not static: its centres, international relationships and internal institutions changed over centuries. Its decline in the fourth century CE is still discussed through multiple lines of evidence rather than a single simple cause."
+   ],
+   [
+    "6. The Red Sea, eastern deserts and Beja histories",
+    "The eastern regions were connected to the Nile, Red Sea ports and routes across the desert. Beja-speaking communities and their predecessors have long histories in the Red Sea hills and adjacent areas, though the chronology and labels used in ancient sources require care. Pastoralism, trade, local political authority and relations with neighbouring Nile states shaped the region. Ports and routes on the Red Sea connected northeast Africa with Arabia and the wider Indian Ocean world. No single ancient name in an external text should be assumed to describe every later Beja community. Their histories deserve dedicated treatment based on oral, linguistic, archaeological and documentary evidence."
+   ],
+   [
+    "7. Christian Nubian kingdoms",
+    "Following the decline of Meroitic power, Christian kingdoms emerged in Nubia, notably Nobatia, Makuria and Alodia (often called Alwa). Their histories are reconstructed from archaeology, inscriptions, manuscripts, church remains, external texts and local documentary material. Christianity became central to royal legitimacy, education, art and diplomacy. Old Dongola was a major centre of Makuria, while Soba was associated with Alodia. The kingdoms maintained complex relations with Egypt and other neighbours, including treaties, trade, warfare and religious exchange. Their territories and political influence changed over time; their histories should not be compressed into one uniform Nubian kingdom."
+   ],
+   [
+    "8. The Baqt and relations with Egypt",
+    "Early Muslim expansion into Egypt brought new political and religious relationships with Christian Nubian states. Warfare and diplomacy were followed by agreements commonly discussed under the name Baqt. The details, chronology and interpretation of the agreement remain subjects of scholarly debate, and later writers did not always describe it in identical ways. The relationship involved regulated movement, exchange and political negotiation over long periods. It is misleading to portray Nubia as simply conquered immediately after the arrival of Muslim rule in Egypt. The Christian kingdoms retained political institutions and cultural traditions for centuries while engaging with changing regional powers."
+   ],
+   [
+    "9. Language, faith and cultural change in medieval Nubia",
+    "Medieval Nubia was multilingual and culturally connected. Old Nubian survives in manuscripts and inscriptions, while Greek, Coptic and Arabic also appear in different contexts. Christian practice developed distinctive local forms expressed through churches, wall paintings, liturgy, burial customs and written documents. Islam spread through varied processes including trade, migration, scholarship, intermarriage and political change; it did not replace Christianity everywhere at one moment. The transition from Christian kingdoms to later Islamic political formations was uneven and differed between regions. Religious change should be studied alongside language, institutions, family life and economic networks."
+   ],
+   [
+    "10. Western Sudan, Kordofan and the Tunjur",
+    "The western and central regions had histories not reducible to the Nile Valley. Kordofan connected the Nile, Darfur, the Sahel and regions farther south. The Tunjur are important in accounts of the political history preceding the rise of the Keira sultanate in Darfur, although origins and chronology remain debated. Western Sudan included diverse communities, trading centres, pastoral and agricultural economies, and political institutions that changed over time. The region's history is documented through Arabic chronicles, genealogies, oral traditions, archaeology and later administrative records, each of which must be read in context."
+   ],
+   [
+    "11. The Funj Sultanate of Sennar",
+    "The Funj Sultanate emerged in the early sixteenth century, with Sennar (Sinnār) on the Blue Nile becoming its principal capital. It became a major power across much of the central Nile Valley and neighbouring regions, with political influence that changed over time. The origins and identity of the Funj ruling group remain debated; historians have challenged simple ethnic-origin stories and examined the kingdom as a complex political formation. The sultanate combined older regional political traditions with Islamic institutions and expanding scholarly networks. It fostered towns, markets, agriculture, craft production and long-distance trade. Its history involved alliances and tensions with the Abdallab and other regional authorities, as well as relations with Ottoman Egypt and Red Sea networks."
+   ],
+   [
+    "12. Darfur and the Keira Sultanate",
+    "In western Sudan, the Keira dynasty established the Darfur Sultanate, which became a major regional state from the seventeenth century and remained independent until the nineteenth-century conquest. The sultanate's political centre, institutions and influence changed over time. Darfur was connected to trans-Saharan and Sahelian trade, including routes toward North Africa and the Nile. Its population was diverse, with agricultural, pastoral and trading communities whose relationships shaped the state. The sultanate's history should not be reduced to a single ethnic narrative: political belonging, language, religion and local identity were historically complex and could overlap."
+   ],
+   [
+    "13. Taqali, the Nuba Mountains and local sovereignties",
+    "The Nuba Mountains contain many communities and languages, and their political histories cannot be represented by a single account of ‘the Nuba’. Taqali became an important kingdom in the central Nuba Mountains and negotiated with surrounding powers, including the Funj and later Turco-Egyptian authorities. Other local political systems included chiefdoms, councils, lineage-based authority and religious institutions. Older colonial classifications sometimes treated decentralised political systems as an absence of government. That assumption obscures the range of institutions through which communities governed land, resolved disputes, organised defence and maintained relations with neighbours. Local histories require careful regional research and community-specific terminology."
+   ],
+   [
+    "14. Blue Nile, Ingessana and borderland communities",
+    "The Blue Nile region and its surrounding hills were home to communities with varied political and economic relationships to the Funj state and neighbouring highland societies. Research on Ingessana history has shown that colonial-era labels such as ‘pagan tribes’ conceal complex patterns of authority, dependency, resistance and negotiation. Political relations radiated from regional centres but did not necessarily amount to uniform territorial administration. The region's history also connects with Ethiopia, the Upper Nile and Kordofan. These borderlands should be understood as active historical zones, not remote margins outside the story of Sudan."
+   ],
+   [
+    "15. Beja, Fur, Masalit, Zaghawa and other communities",
+    "A comprehensive account must include communities whose histories do not fit neatly into dynastic chronicles. Beja groups in the east, Fur and Masalit communities in the west, Zaghawa across the Darfur–Sahel borderlands, and many other peoples developed their own institutions, economic strategies, languages and historical memories. Some communities were incorporated into larger sultanates; others negotiated autonomy or shifted alliances. The names and boundaries of communities changed across time, and external writers often imposed simplified labels. This chapter is an overview, not a substitute for dedicated community histories grounded in local scholarship and oral testimony."
+   ],
+   [
+    "16. Trade, slavery, warfare and the limits of generalisation",
+    "Trade connected Sudanese regions to Egypt, the Red Sea, the Sahel and central Africa. Goods and people moved through markets, caravan routes, river transport and local exchange. Enslavement and slave trading existed in different forms and periods, but their scale, organisation and effects varied by region and changed over time. It is essential to distinguish local institutions, long-distance commerce, raiding and state-sponsored practices rather than describe centuries of history as one unchanging system. Historical accounts must give attention to those who experienced coercion and displacement, while also documenting the wider economies and political structures that shaped these systems."
+   ],
+   [
+    "17. Knowledge, manuscripts and oral history",
+    "The sources for precolonial Sudan include Arabic chronicles, Nubian manuscripts, inscriptions, religious texts, genealogies, archaeological evidence, oral histories and records written by neighbouring states. Each source has a context. A court chronicle may legitimise a ruling house; a genealogy may express political relationships; a travel account may misunderstand local terms; an oral tradition may preserve memory while changing through retelling. Historians compare sources, identify authors and audiences, and distinguish contemporary evidence from later reconstruction. Manuscripts and oral knowledge are not supplementary decorations: they are central archives of Sudanese history."
+   ],
+   [
+    "18. The Turco-Egyptian conquest of 1820–1821",
+    "The invasion led by Ismail Kamil Pasha in 1820–1821 brought the Funj state and other territories under a new regime based in Egypt. The conquest was enabled by military force, political divisions, strategic alliances and the interests of Muhammad Ali's government. It transformed taxation, military recruitment, trade and relations between the Nile Valley and outlying regions. The conquest did not affect every locality in the same way or complete the incorporation of all present-day Sudanese territory at once. The nineteenth century that followed involved further expansion, resistance, commercial change and local negotiation. The precolonial era therefore ends as a political transition, not as the disappearance of the region's societies."
+   ],
+   [
+    "19. How this chapter will expand",
+    "This overview cannot claim to contain the full history of every region or community. Future editions should add dedicated chapters on Nubian Christian towns and villages; Beja political and religious histories; Darfur's Keira institutions and local communities; Taqali and the Nuba Mountains; the Funj and Abdallab; Red Sea ports; Kordofan; Blue Nile societies; women, family and labour; trade and slavery; and the history of Arabic, Nubian and other local-language manuscripts. New chapters should cite specific page-level scholarship and, wherever possible, community-authorised oral sources. The catalogue should distinguish well-established evidence, scholarly interpretation and unresolved questions."
+   ]
+  ],
+  "article_text": [
+   "The lands that now form Sudan were never one continuous precolonial state. They contained many societies, kingdoms, sultanates, towns, pastoral regions and local political institutions whose histories overlapped and interacted. The Nile Valley was a major corridor, but the Red Sea hills, western savannas, Kordofan, Darfur, the Nuba Mountains and Blue Nile region also had their own centres and routes.",
+   "Archaeology documents deep human occupation and the emergence of complex societies, including Kerma and the later Kushite kingdoms of Napata and Meroë. Medieval Nubian kingdoms—Nobatia, Makuria and Alodia—developed Christian political and cultural traditions and maintained long relationships with Egypt. Religious and linguistic change was gradual and regionally varied.",
+   "From the early sixteenth century, the Funj Sultanate of Sennar became a major power in the Nile Valley, while the Keira dynasty built the Darfur Sultanate in the west. Taqali, local authorities in the Nuba Mountains, Beja communities in the east and many other societies retained distinct histories and forms of political organisation.",
+   "The Turco-Egyptian conquest of 1820–1821 transformed the political order, but it did not create the societies of Sudan. Those societies had long histories of exchange, migration, scholarship, state formation, conflict and adaptation. This chapter is a structured overview; each region and community requires further dedicated research."
+  ],
+  "source_leads": [
+   {
+    "name": "Brass & Vella Gregory (2021), Prehistory of Sudan — UCL Discovery open-access version",
+    "url": "https://discovery.ucl.ac.uk/id/eprint/10125807/"
+   },
+   {
+    "name": "David N. Edwards (2007), The Archaeology of Sudan and Nubia — Annual Review of Anthropology",
+    "url": "https://www.annualreviews.org/content/journals/10.1146/annurev.anthro.36.081406.094305"
+   },
+   {
+    "name": "Marianne Bechhaus-Gerst, Northeastern African States, c. 1000 BCE–1800 CE — Oxford Bibliographies",
+    "url": "https://academic.oup.com/reference/62328/reference-article-abstract/553794593"
+   },
+   {
+    "name": "Jay Spaulding, Islamic Nubian Kingdoms — Oxford Handbook of Ancient Nubia",
+    "url": "https://academic.oup.com/edited-volume/35472/chapter-abstract/303804423"
+   },
+   {
+    "name": "R. S. O’Fahey & J. L. Spaulding, Kingdoms of the Sudan — Routledge bibliographic record",
+    "url": "https://www.routledge.com/Kingdoms-of-the-Sudan/OFahey-Spaulding/p/book/9781138212206"
+   },
+   {
+    "name": "Jay Spaulding (2016), Funj Sultanate of Sinnar — Encyclopedia of Empire",
+    "url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/9781118455074.wbeoe007"
+   },
+   {
+    "name": "Jay Spaulding (1987), A Premise for Precolonial Nuba History — History in Africa",
+    "url": "https://www.cambridge.org/core/journals/history-in-africa/article/abs/premise-for-precolonial-nuba-history/5E7BFA5576B34B3E896585AD263349EC"
+   },
+   {
+    "name": "M. C. Jędrej, Ingessana and the Legacy of the Funj Sultanate — Africa journal",
+    "url": "https://www.cambridge.org/core/journals/africa/article/abs/ingessana-and-the-legacy-of-the-funj-sultanate-the-consequences-of-turkish-conquest-on-the-blue-nile/BBD385FAB0DFD24369D79C2C9C76692D"
+   }
+  ],
+  "note": "Original NILE HISTORY synthesis based on the listed archaeological and historical scholarship. It is not a reproduction of copyrighted books. Chronologies and regional labels vary among sources; disputed origins and political boundaries are identified cautiously. The chapter is an overview, not a complete history of every Sudanese community. Add local-language sources, community-reviewed oral histories and specialist regional chapters in future editions."
+ }
 ]
