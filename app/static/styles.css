@@ -192,3 +192,30 @@ dialog#articleDialog{
 .editorial-attention-item small,.editorial-footnote{color:var(--muted);font-size:11px;line-height:1.6}
 .editorial-footnote{margin-top:24px}
 @media(max-width:650px){.editorial-metrics{grid-template-columns:repeat(2,minmax(0,1fr))}.editorial-lower{grid-template-columns:1fr}}
+
+ 
+/* Focused long-form history reader */
+#articleDialog .reader-topline{display:flex;align-items:center;justify-content:space-between;gap:12px;padding-right:48px}
+#articleDialog .reader-bookmark,#articleDialog .reader-toolbar button{border:1px solid var(--line);background:#f4f1e8;color:var(--ink);padding:9px 12px;border-radius:7px;font:inherit;font-size:12px;cursor:pointer}
+#articleDialog .reader-bookmark[aria-pressed="true"]{border-color:var(--gold);color:#805d2d;font-weight:750}
+#articleDialog .reader-period{font-size:12px;color:var(--muted)}
+#articleDialog .reader-progress{height:4px;background:#e8e3d8;border-radius:4px;overflow:hidden;margin:18px 0 8px}
+#articleDialog .reader-progress span{display:block;height:100%;width:0;background:var(--gold);transition:width .15s}
+#articleDialog .reader-toolbar{position:sticky;top:0;z-index:4;display:flex;align-items:center;gap:8px;padding:9px 0;background:#fffefa;border-bottom:1px solid var(--line)}
+#articleDialog .reader-toolbar span{margin-left:auto;font-size:11px;color:var(--muted);font-variant-numeric:tabular-nums}
+#articleDialog .reader-toc{display:grid;gap:8px;padding:16px;margin:12px 0;background:#f4f1e8;border:1px solid var(--line);border-radius:8px}
+#articleDialog .reader-toc a{font-size:13px;color:#28543f;text-decoration:underline;text-underline-offset:3px}
+#articleDialog .article-reading{max-height:60dvh;overflow-y:auto;overscroll-behavior:contain;padding:6px 4px 24px;scroll-behavior:smooth}
+#articleDialog .article-chapter{scroll-margin-top:16px}
+#articleDialog .article-paragraph{font-size:16px;line-height:1.95;max-width:76ch}
+#articleDialog .citation-panel{margin:28px 0;padding:18px;background:#f4f1e8;border:1px solid var(--line);border-radius:8px}
+#articleDialog .reference-list{padding-left:22px;line-height:1.7;font-size:13px}
+#articleDialog .reference-list li{margin:10px 0}
+#articleDialog .optional-source{color:#28543f;text-decoration:underline}
+@media(max-width:650px){
+ #articleDialog .reader-topline{align-items:flex-start;flex-direction:column;padding-right:44px}
+ #articleDialog .reader-toolbar{gap:6px}
+ #articleDialog .reader-toolbar button{padding:9px 10px}
+ #articleDialog .article-reading{max-height:62dvh}
+ #articleDialog .article-paragraph{font-size:16px;line-height:1.9}
+}
