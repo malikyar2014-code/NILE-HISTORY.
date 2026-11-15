@@ -2038,7 +2038,7 @@ ARTICLES = [
   }
  ],
  "note": "Azande political history spans territories now in three countries. The 2022 Azande Kingdom is described as a modern reinvention, not a seamless survival or exact restoration of nineteenth-century monarchies."
-}
+},
 
 
  {
