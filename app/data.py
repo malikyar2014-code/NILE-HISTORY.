@@ -1678,4 +1678,365 @@ ARTICLES = [
  ],
  "note": "Chronology distinguishes the 1955 Torit mutiny from Sudan's January 1956 independence; the first civil war (1955–1972) from the second (1983–2005); the 2005 CPA from South Sudan's 2011 independence; and the 2013–2018 civil war from local intercommunal conflicts. Current affairs are dated to 11 November 2026. The 22 December 2026 election is planned, not yet held. The country requires many further community-specific chapters and local oral histories."
 }
+,
+ {
+ "id": "dinka-community-history",
+ "title": "Dinka histories: land, cattle, lineages, ritual authority and change",
+ "period": "Precolonial histories–2026",
+ "region": "Upper Nile, Jonglei, Lakes, Warrap, Unity and Bahr el-Ghazal regions",
+ "category": "Peoples & community histories",
+ "summary": "A regional and community-focused history of Dinka-speaking peoples, their diverse sections, land and cattle economies, political and ritual institutions, colonial encounters, wars and contemporary life. It does not treat Dinka people as a single uniform political bloc.",
+ "status": "Research synthesis; Dinka histories are internally diverse and require further section-, locality- and family-specific oral histories.",
+ "article_sections": [
+  [
+   "1. A people of many communities",
+   "Dinka is a broad name used for a large group of closely related communities in South Sudan. Dinka-speaking populations live across extensive areas of the Upper Nile basin, including parts of Jonglei, Lakes, Warrap, Unity and Bahr el-Ghazal. The term does not describe one historically centralised kingdom or a single uniform political organisation. Communities have their own names, territories, clan and lineage histories, dialects, ritual authorities and relationships with neighbours. Regional labels such as Padang, Bor, Rek, Agar, Malual, Ngok and others are useful starting points, but they do not capture every local identity or internal division. Historical writing must therefore ask which Dinka community, place and period it is discussing."
+  ],
+  [
+   "2. Land, rivers and seasonal environments",
+   "Dinka histories are closely connected to the floodplains, rivers, grasslands and wetlands of the Nile basin. Seasonal changes in water and pasture have shaped settlement patterns and livelihoods. Many households combine cultivation with cattle keeping, fishing, gathering and trade, adapting their activities to local ecological conditions. The Sudd and other wetlands are productive environments with complex seasonal rhythms, not empty or unusable spaces. Floods, droughts, disease and insecurity can force changes in movement and settlement. The same environmental conditions can create cooperation and competition among neighbouring communities, but outcomes depend on political relationships, access rules and local institutions rather than geography alone."
+  ],
+  [
+   "3. Migration traditions and the problem of chronology",
+   "Dinka oral histories preserve accounts of movement, settlement, ancestors, land acquisition and relations with neighbouring communities. Historical linguistics and comparative oral traditions suggest long-term movements and interactions across the Upper Nile region, but the precise dates, routes and sequence remain debated. Stephanie Beswick's research reconstructs regional histories through oral testimony, clan and lineage accounts, ecology and written sources, while also showing how different Dinka groupings remember their pasts. Migration traditions should not be collapsed into one definitive route or treated as proof that every modern community arrived at the same time. Oral accounts are historical evidence, but they must be read in their own social and political contexts."
+  ],
+  [
+   "4. Regional groupings and local histories",
+   "Scholarly work often distinguishes northern Padang communities, Bor communities east of the Nile and a range of communities across Bahr el-Ghazal. These broad groupings contain many named sections and lineages, each with its own historical relationships and territorial memories. For example, studies of the Bor region describe several major groupings and complex accounts of movement, separation, marriage and alliance. Such accounts show how identities formed through interaction and local histories, not through an unchanging ethnic map. Boundaries could be negotiated, crossed and reinterpreted over generations. Any serious Dinka archive must eventually provide separate chapters for individual regions and communities rather than treating this overview as complete."
+  ],
+  [
+   "5. Cattle, cultivation and social life",
+   "Cattle have profound economic, social and cultural significance in many Dinka communities. They provide milk, meat, hides and wealth, and they can be central to marriage exchanges, kinship, ritual obligations, prestige and political relationships. Cattle are not simply a measure of individual riches: their movement and distribution connect households and wider networks of relatives and neighbours. Cultivation, especially sorghum in many areas, has also been vital, alongside fishing and other activities. The balance among these livelihoods differs by region and season. Historical accounts that portray Dinka society as only pastoral overlook farmers, fishers, traders, craftspeople and the complex labour through which households sustain themselves."
+  ],
+  [
+   "6. Lineages, age-sets and authority",
+   "Dinka political life has often been organised through overlapping lineage, territorial, age-set and ritual institutions rather than one central state. Local leadership could involve elders, influential lineages, community leaders and ritual specialists. The bany bith, often translated as spear-masters, have been described in some Dinka settings as ritual authorities, mediators and figures involved in the initiation of age-sets and community affairs. Their roles and titles vary, and no single description should be applied identically to every Dinka group. Age-sets can organise relationships among generations and provide frameworks for cooperation, identity and responsibility. Colonial and wartime interventions altered these institutions, sometimes weakening or redirecting their authority."
+  ],
+  [
+   "7. Neighbours, exchange and conflict",
+   "Dinka communities have long interacted with Nuer, Shilluk, Anyuak, Fertit, Bongo, Jur and other neighbours through trade, marriage, migration, shared resources, political alliances and conflict. The historical record does not support a simple story of permanent hostility between Dinka and Nuer. Douglas Johnson's research on the Sobat and Zaraf valleys shows that conflict could be followed by assimilation, intermarriage and close political relationships, and that colonial attempts to separate communities into fixed administrative units could intensify tensions. Local histories are essential: relations between one pair of neighbouring communities cannot be used as a template for all Dinka-Nuer relations."
+  ],
+  [
+   "8. Nineteenth-century upheaval and colonial rule",
+   "The expansion of Turco-Egyptian authority and commercial networks during the nineteenth century brought raiding, enslavement, ivory trading, armed expeditions and new forms of political pressure into parts of the Upper Nile. The reach of these forces varied, and Dinka communities responded in different ways through resistance, flight, negotiation, trade and alliance. During Anglo-Egyptian rule after 1898, colonial officers attempted to govern through chiefs and administrative boundaries. These policies often reshaped local authority and treated flexible social relationships as if they belonged to fixed tribal territories. Colonial records are valuable but must be read critically because officials often wrote to serve administrative purposes."
+  ],
+  [
+   "9. Missionaries, education and changing institutions",
+   "Christian missions, colonial schools and new administrative institutions affected Dinka communities unevenly. Some areas gained access to mission education and medical services earlier than others; many remained underserved. New forms of literacy and religious organisation created opportunities while also changing older institutions and public authority. Dinka communities were not passive recipients of outside influence. Families, elders, teachers, clergy and local leaders interpreted, adapted or resisted changes in ways that reflected local priorities. A complete account should include Dinka-language publications, church histories, women's experiences and the development of schools and towns."
+  ],
+  [
+   "10. Civil wars, cattle protection and militarisation",
+   "The first Sudanese civil war and especially the second civil war transformed many Dinka communities through displacement, recruitment, military mobilisation and attacks on civilian settlements. During the second war, some cattle-camp defence groups became linked to the SPLA's military operations. Research on the militarisation of cattle raiding describes the Titweng and related formations, showing how wartime commanders drew on local defence institutions and altered age-set practices. These developments were not the inevitable expression of Dinka culture: they emerged under specific conditions of armed attack, state strategy, insurgent mobilisation and insecurity. The same institutions that supported community protection could be reshaped into instruments of wider war."
+  ],
+  [
+   "11. Independence, political power and diversity",
+   "The 2005 Comprehensive Peace Agreement and South Sudan's independence in 2011 brought new expectations and new political responsibilities. Dinka individuals and political leaders became prominent in national institutions, but it is inaccurate to treat all Dinka communities as sharing one political position or benefiting equally from state power. Dinka civilians have also experienced displacement, insecurity, economic crisis and violence. Political decisions by particular leaders or armed organisations must not be attributed collectively to an entire people. The diversity of political views within Dinka communities is part of the country's modern history."
+  ],
+  [
+   "12. Contemporary challenges and historical memory",
+   "Today, Dinka communities face overlapping challenges that include flooding, changing access to grazing land, economic hardship, displacement, insecurity, education gaps and the consequences of national political conflict. Local peace initiatives, churches, women's groups, youth, traditional authorities and civil society have all played roles in community life. Historical memory is preserved through oral narratives, songs, genealogies, place names, ritual practices and family accounts. This chapter is a framework for further work, not a final account. Future research should document the histories of named Dinka sections and localities with informed consent, record differing versions of events and include women's and younger generations' voices."
+  ]
+ ],
+ "source_leads": [
+  {
+   "name": "Stephanie Beswick, Sudan's Blood Memory: The Legacy of War, Ethnicity, and Slavery in Early South Sudan (2004), chapters on Dinka regional histories",
+   "url": "https://www.cambridge.org/core/books/sudans-blood-memory/"
+  },
+  {
+   "name": "Douglas H. Johnson, Tribal Boundaries and Border Wars: Nuer–Dinka Relations in the Sobat and Zaraf Valleys, c. 1860–1976",
+   "url": "https://doi.org/10.1017/S0021853700020521"
+  },
+  {
+   "name": "The militarization of cattle raiding in South Sudan: how a traditional practice became a tool for political violence",
+   "url": "https://doi.org/10.1186/s41018-018-0030-y"
+  },
+  {
+   "name": "Ponsiano Bimeny, research on Dinka communities, sociocultural institutions and experiences of violence (SOAS thesis, 2022)",
+   "url": "https://eprints.soas.ac.uk/38360/1/Bimeny_2022.pdf"
+  }
+ ],
+ "note": "Avoids treating Dinka as a homogeneous group or assigning collective responsibility for political violence. Migration chronologies and some oral traditions remain debated."
+},
+ {
+ "id": "nuer-community-history",
+ "title": "Nuer histories: riverlands, cattle, lineages, prophets and political change",
+ "period": "Precolonial histories–2026",
+ "region": "Upper Nile, Unity and Jonglei regions, with cross-border communities in Ethiopia",
+ "category": "Peoples & community histories",
+ "summary": "A historical introduction to Nuer communities, their regional diversity, pastoral and agricultural livelihoods, political institutions, prophetic traditions, colonial encounters, civil wars and contemporary transformations.",
+ "status": "Research synthesis; requires further histories of individual Nuer sections, women, localities and oral traditions.",
+ "article_sections": [
+  [
+   "1. Nuer communities and their names",
+   "Nuer is a broad name for a number of related communities living mainly in what is now South Sudan, with communities extending into western Ethiopia. Nuer people commonly use the term Naath for themselves, although spelling and usage vary. Nuer communities are not a single centralised state and should not be treated as one uniform political unit. Historical accounts distinguish many sections and regional groupings, including Lou, Jikany, Gaajak, Gaagwang, Bul, Leek, Jagei, Dok and others. The names and boundaries of these groupings have changed through migration, political alliance, conflict, marriage and administrative reorganisation. A community's own account of its identity and history is essential."
+  ],
+  [
+   "2. The ecology of the Upper Nile",
+   "Nuer histories are deeply connected to the floodplains, rivers, grasslands and seasonal wetlands of the Upper Nile basin. Rainfall and flooding create changing patterns of pasture, water, cultivation and fishing. Many households have combined cattle keeping with sorghum cultivation, fishing, gathering and exchange. Seasonal movement between permanent or semi-permanent settlements and cattle camps has been an important adaptation to the environment. The Sudd and its tributaries are central to livelihoods and mobility. These environments should not be described as empty wilderness: they are inhabited landscapes shaped by generations of knowledge, land use and negotiated access."
+  ],
+  [
+   "3. Migration, settlement and contested origins",
+   "Nuer oral histories preserve accounts of ancestors, migrations, settlement, conflict and incorporation of neighbouring groups. Linguistic research and historical scholarship suggest long-term movements within the Upper Nile region, but precise dates and routes are difficult to establish. Nuer expansion during the nineteenth century brought some communities into new relationships with Dinka and other neighbours. These processes involved warfare in some places, but also adoption, intermarriage, alliance and the formation of mixed communities. Historians caution against reading later ethnic boundaries backwards into periods when identities and political relationships were more fluid."
+  ],
+  [
+   "4. Cattle and the household economy",
+   "Cattle are central to many Nuer households and social relationships. They provide milk, meat, hides and wealth, and they are important in marriage exchanges, kinship obligations, compensation and ritual life. Cattle camps are not merely places where animals are kept; they are social spaces where young people learn, work, form relationships and participate in community life. Cultivation, fishing and trade are equally important in many local settings. The balance of these activities changes with seasons, ecological conditions, insecurity and access to markets. Describing Nuer society only as pastoral would erase the wider economic work of households, including women's labour."
+  ],
+  [
+   "5. Lineages, sections and political organisation",
+   "Nuer political organisation has often been described through segmentary lineage structures, in which kinship and territorial affiliations can shape alliances and collective action. These structures are flexible and context-dependent; they are not a fixed blueprint that automatically determines political behaviour. Local elders, influential lineages, community leaders and ritual authorities may all contribute to decision-making. The authority of a leader depends on relationships, reputation and circumstances rather than simply holding a central office. Older anthropological descriptions remain influential but should be read alongside later historical research and contemporary Nuer accounts."
+  ],
+  [
+   "6. Age-sets, cattle camps and generations",
+   "Age-set institutions have organised relationships among generations in many Nuer communities. Initiation and age-set identity can create obligations, social bonds and frameworks for cooperation. Their forms differ by place and period, and they have been affected by schooling, Christianity, war, displacement and state institutions. Cattle camps can be important settings for the formation of age-based identities and for the transmission of knowledge about livestock, songs, social responsibility and local history. It is important not to romanticise these institutions or assume they operate identically everywhere."
+  ],
+  [
+   "7. Leopard-skin chiefs and conflict resolution",
+   "The figure often translated as the leopard-skin chief has been described as a ritual mediator in some Nuer communities, especially in cases involving homicide and blood compensation. The role is not equivalent to a modern police officer or state judge. Its authority has been understood through ritual responsibility, mediation, sanctuary and the moral consequences of violence. Local practice varies, and the title and role should not be assumed to be identical across all Nuer sections. Colonial officials sometimes misunderstood or attempted to formalise such authorities within indirect rule, changing their relationship with communities."
+  ],
+  [
+   "8. Prophets and the moral history of the Upper Nile",
+   "Nuer prophetic traditions are among the most important dimensions of the region's religious and political history. Prophets associated with spiritual powers such as MAANI have at different times influenced local politics, conflict, reconciliation and ideas of moral responsibility. Douglas H. Johnson's study Nuer Prophets traces figures including Ngundeng and later prophetic traditions, arguing that their histories cannot be reduced to warfare or resistance alone. Prophets could articulate visions of peace and moral community that crossed political and ethnic boundaries. Their authority was debated, and followers did not always agree about what a prophet's message required."
+  ],
+  [
+   "9. Ngundeng and the prophetic tradition",
+   "Ngundeng Bong became one of the most influential Nuer prophets of the nineteenth century. His shrine and prophetic legacy acquired importance far beyond the immediate locality in which he lived. Later generations interpreted his prophecies in relation to colonial rule, political upheaval and war. The meaning of prophetic statements has often been contested, and claims that a prophecy predicted a specific modern event should be treated carefully. Ngundeng's historical significance lies not only in later political interpretations but in the ways prophetic authority shaped moral debate, community relationships and ideas of power."
+  ],
+  [
+   "10. Nuer-Dinka relations through time",
+   "Nuer and Dinka histories are deeply interconnected. In some periods and places, expansion and competition over land or cattle produced violence. In others, people formed kinship ties, adopted neighbours, traded, intermarried and built shared communities. Douglas Johnson's study of the Sobat and Zaraf valleys challenges the stereotype of permanent Nuer-Dinka hostility, documenting how relationships shifted across generations and how colonial administrative separation sometimes hardened divisions. The history of one frontier cannot stand for all interactions between these peoples. Both Nuer and Dinka communities contain varied experiences and memories."
+  ],
+  [
+   "11. Nineteenth-century trade, raiding and colonial expansion",
+   "The nineteenth-century expansion of Turco-Egyptian commercial and military networks affected Nuer regions unevenly. Ivory trading, slave raiding, armed expeditions and the search for routes and labour contributed to insecurity and changing political relationships. Some communities resisted external forces; others negotiated or adapted to new trade networks. After 1898, Anglo-Egyptian officials gradually extended administration into parts of the region. Their efforts to impose chiefs, courts, boundaries and taxation changed local political life. Colonial officers also feared independent religious authorities and at times sought to suppress prophets whose influence they could not control."
+  ],
+  [
+   "12. Colonial suppression and the politics of authority",
+   "During the 1920s, the Condominium government expanded direct administration in parts of western Nuer country and attempted to make chiefs' courts central to dispute settlement. Colonial officers also viewed prophetic movements as potential threats. Douglas Johnson's historical work documents the capture, exile or suppression of major Nuer prophets by colonial authorities. These policies did not simply remove old institutions; they changed the conditions under which religious and political authority operated. The colonial archive often portrays prophets through the lens of administrative security, so it must be compared with Nuer oral histories and later research."
+  ],
+  [
+   "13. Christianity, schooling and social change",
+   "Christian missions and schools influenced Nuer communities in different ways and at different times. Churches became important institutions for worship, education, social organisation and peacebuilding. Missionary education also contributed to the growth of new forms of leadership and literacy. Religious change did not erase older traditions uniformly; families and communities interpreted relationships between Christianity, local ritual practices and prophetic authority in diverse ways. Contemporary Nuer religious life includes debate, adaptation and disagreement, not one single response to modernity."
+  ],
+  [
+   "14. Civil wars, displacement and armed mobilisation",
+   "The first and second Sudanese civil wars transformed Nuer communities through displacement, recruitment, local defence, political mobilisation and violence. Nuer fighters and leaders participated in several movements and factions, whose aims and alliances changed over time. The 1991 split within the SPLM/A and subsequent violence in Upper Nile and elsewhere had devastating consequences for civilians. Later political conflicts in independent South Sudan also drew on elite rivalries, armed networks and local grievances. These events should be explained through specific decisions and circumstances, not as inevitable outcomes of Nuer identity."
+  ],
+  [
+   "15. The 1991 split and its consequences",
+   "The 1991 split in the SPLM/A involved Riek Machar, Lam Akol and other leaders challenging John Garang's leadership. The split had political and military dimensions and contributed to severe violence, including attacks on civilians in parts of Upper Nile. Communities experienced shifting alliances, insecurity and displacement. The events are remembered differently by survivors and political actors, and careful history must distinguish documented attacks, command responsibility, local participation and later political narratives. No entire Nuer or Dinka population can be held collectively responsible for actions by particular armed forces."
+  ],
+  [
+   "16. Peace, independence and the contemporary period",
+   "The 2005 Comprehensive Peace Agreement ended the main north-south war and created a route to the 2011 referendum and independence. Nuer communities participated in the new state in many ways, including public service, education, local government, religious life and national politics. The civil war that began in December 2013 caused mass displacement and grave abuses, particularly in parts of Jonglei, Unity and Upper Nile. The 2018 Revitalized Peace Agreement reduced large-scale fighting among principal signatories but did not end all local insecurity. Contemporary Nuer histories include political disagreement, community peace efforts, economic change and the lives of displaced people and diaspora communities."
+  ],
+  [
+   "17. Women, youth and oral history",
+   "Women's work in farming, household economies, cattle care, trade, education, religious life and peacebuilding is essential to Nuer history but often underrepresented in older ethnographies. Young people have experienced changing age-set institutions, schooling, recruitment, displacement and new forms of political participation. Oral histories preserve memories of prophets, migrations, cattle, conflict, family and place. Projects collecting testimony should obtain informed consent, protect sensitive information and preserve the speaker's own words and interpretation. A more complete Nuer history must be built with local historians, elders, women, youth, scholars and community organisations."
+  ],
+  [
+   "18. A living and changing history",
+   "Nuer communities continue to adapt to flooding, conflict, economic hardship, urbanisation, education and cross-border mobility. Cattle remain important for many households, but livelihoods are diverse and changing. Religious institutions, traditional authorities, civil society and local peace initiatives all contribute to public life. This chapter is an introduction rather than an exhaustive account of every Nuer section. Future volumes should document the histories of Lou, Jikany, Gaajak, Bul, Leek, Jagei, Dok and other communities in their own terms, while recording differences and disagreements rather than forcing them into one narrative."
+  ]
+ ],
+ "source_leads": [
+  {
+   "name": "Douglas H. Johnson, Nuer Prophets: A History of Prophecy from the Upper Nile in the Nineteenth and Twentieth Centuries (1994)",
+   "url": "https://academic.oup.com/book/47843"
+  },
+  {
+   "name": "E. E. Evans-Pritchard, The Nuer (1940) — classic ethnography to be read critically alongside later history",
+   "url": "https://archive.csrf-southsudan.org/repository/nuer-description-modes-livelihood-political-institutions-nilotic-people/"
+  },
+  {
+   "name": "Jedeit J. Riek and Naomi R. Pendle, Speaking Truth to Power in South Sudan: Oral Histories of the Nuer Prophets (Rift Valley Institute, 2019)",
+   "url": "https://docs.southsudanngoforum.org/index.php/research/report/speaking-truth-power-south-sudan-oral-histories-nuer-prophets"
+  },
+  {
+   "name": "Douglas H. Johnson, Tribal Boundaries and Border Wars: Nuer–Dinka Relations in the Sobat and Zaraf Valleys",
+   "url": "https://doi.org/10.1017/S0021853700020521"
+  },
+  {
+   "name": "Politics, prophets and armed mobilizations in South Sudan's conflicts",
+   "url": "https://doi.org/10.1080/17531055.2019.1708545"
+  }
+ ],
+ "note": "Older ethnographies are historically influential but reflect their authors' colonial-era research settings. This chapter does not treat segmentary lineage models as universal or Nuer-Dinka hostility as timeless."
+},
+ {
+ "id": "shilluk-chollo-community-history",
+ "title": "Shilluk (Chollo) histories: Nyikang, kingship, the White Nile and political change",
+ "period": "Kingdom formation–2026",
+ "region": "Western bank of the White Nile, Upper Nile, South Sudan",
+ "category": "Peoples & community histories",
+ "summary": "A history of the Chollo/Shilluk people and their kingdom, centred on oral traditions of Nyikang, royal institutions, riverine settlement, trade, colonial rule and modern political change.",
+ "status": "Historical synthesis; Chollo oral traditions and community-authored accounts remain essential for further development.",
+ "article_sections": [
+  [
+   "1. The Chollo and the names used for them",
+   "The people commonly called Shilluk are also known by the name Chollo. The name used by a community for itself matters, and this chapter uses Chollo alongside Shilluk where it helps readers connect the history with established scholarship and historical records. Chollo communities are concentrated along the western bank of the White Nile in Upper Nile, with settlements and family connections extending beyond a single administrative boundary. Their history is closely associated with a kingdom whose royal institution became an important source of shared identity. Chollo society is not frozen in the past: local communities have experienced migration, religious change, colonialism, civil war, urbanisation and contemporary political debate."
+  ],
+  [
+   "2. The White Nile landscape",
+   "The White Nile and its tributaries shaped Chollo settlement, fishing, cultivation, transport and political relationships. The river connected communities to markets and neighbouring peoples while also creating ecological boundaries and seasonal opportunities. The historic heartland is often described in relation to the stretch between Tonga and Muomo, near the Sobat confluence and Lake No. Waterways supported movement and exchange, while floodplain agriculture and fishing sustained local economies. This geography helped the kingdom develop influence along a major river corridor, but it should not be mistaken for a complete explanation of Chollo political history."
+  ],
+  [
+   "3. Nyikang in oral tradition",
+   "Chollo oral traditions place Nyikang at the centre of the kingdom's origin and enduring identity. Stories describe his departure from a southern homeland, movement through the Bahr el-Ghazal region and eventual settlement near the White Nile. Accounts differ in detail and should be preserved as oral traditions rather than converted into a single verified itinerary. Nyikang is not merely a remembered founder in these traditions: he is a continuing figure in the moral and ritual life of the kingdom. The historical importance of these narratives lies in how they explain belonging, kingship, land and the unity of Chollo people."
+  ],
+  [
+   "4. Formation of the kingdom",
+   "Historical scholarship commonly places the formation of the Chollo kingdom in the centuries around the sixteenth and seventeenth centuries, while recognising that exact dates are uncertain. The kingdom grew through settlement, political consolidation, incorporation and interaction with neighbouring communities. The population and institutions were shaped by diverse elements and local histories. It is therefore too simple to describe the kingdom as the product of one migration or one conquest. Oral traditions, linguistic evidence, archaeology and external accounts each provide partial perspectives, and the chronology remains a subject for careful historical study."
+  ],
+  [
+   "5. The reth and the institution of kingship",
+   "The Chollo king, commonly called the reth, occupies a distinctive position in the kingdom's political and ritual history. The kingship is associated with Nyikang, whose presence is understood in royal traditions as enduring beyond the life of an individual ruler. The office therefore represents more than personal political authority: it is connected to the continuity and moral unity of the kingdom. Historical ethnographies describe royal ceremonies and the relationship between the reth, shrines and the symbolic figure of Nyikang. These accounts are valuable but must be read alongside Chollo explanations and contemporary interpretations."
+  ],
+  [
+   "6. Succession, ritual and political unity",
+   "Royal succession has historically involved more than the transfer of an administrative office. Ritual traditions associated with Nyikang, royal regalia and the recognition of a new reth have been central to the continuity of kingship. Older ethnographic accounts describe ceremonial processions, symbolic conflict and the participation of communities from different parts of the kingdom. Details of ritual practice and interpretation should be documented with cultural care and in consultation with Chollo knowledge holders. The central historical point is that kingship connected local communities to a shared political and ritual institution, even when local interests and loyalties differed."
+  ],
+  [
+   "7. Land, villages and local authority",
+   "The kingdom was not governed only from the royal court. Village communities, local leaders, lineage relationships and customary authorities shaped everyday life. The relationship between royal authority and local autonomy changed over time. The White Nile corridor contained settlements with different economic and political roles, and the kingdom's influence was negotiated through these local relationships. A complete account should examine land tenure, fishing rights, agriculture, marriage, craft, women's work and the authority of local institutions rather than focusing exclusively on kings."
+  ],
+  [
+   "8. Trade and nineteenth-century pressure",
+   "During the nineteenth century, the expansion of Turco-Egyptian power and commercial networks brought new pressures to the White Nile region. Ivory, enslaved people, firearms and other goods moved through changing trade routes. Chollo rulers and communities had to respond to merchants, officials, armed expeditions and shifting regional alliances. Historical scholarship describes rulers who attempted to regulate foreign presence and trade, but the details varied across reigns and localities. These encounters affected the kingdom's political economy and its relations with neighbouring groups."
+  ],
+  [
+   "9. Relations with neighbours",
+   "Chollo history is intertwined with the histories of Dinka, Nuer, Anyuak, Funj and other communities. The White Nile and Sobat region was a place of trade, political competition, intermarriage, migration and cultural exchange. Neighbouring communities were not simply fixed enemies or subjects. Relations could change as leaders negotiated access to land, water, trade and security. The incorporation of diverse groups into the kingdom's history is part of its formation and should be explored through local accounts rather than reduced to a single ethnic origin story."
+  ],
+  [
+   "10. Anglo-Egyptian conquest and colonial rule",
+   "After the defeat of the Mahdist state in 1898, the Anglo-Egyptian Condominium extended colonial administration into the region. Colonial officials sought to control taxation, movement, courts and local leadership. The kingdom's institutions continued to matter, but their authority was reshaped by administrative policy and colonial intervention. The state often treated customary institutions as tools of indirect rule, changing the balance between royal, local and government authority. Colonial documents must be read critically because they were written to classify and govern the population."
+  ],
+  [
+   "11. The twentieth century and changing political institutions",
+   "During the twentieth century, Chollo communities experienced missionary activity, education, changing markets, administrative reforms and wider Sudanese political movements. New forms of schooling and religious organisation created additional institutions alongside customary authority. The kingdom remained an important point of historical identity, but its relationship with modern state structures was repeatedly negotiated. Local leaders and ordinary people participated in national politics in varied ways. More research is needed on Chollo experiences of the first and second Sudanese civil wars, the 2005 peace process and the transition to South Sudanese independence."
+  ],
+  [
+   "12. The kingdom and modern South Sudan",
+   "South Sudan's independence in 2011 created a new national framework within which the Chollo kingdom and its institutions continued to operate. Questions of customary authority, land, local government, political representation and security remain important. Chollo communities have experienced conflict and displacement, including violence around Malakal and the wider Upper Nile region. These events should be documented through survivor testimony and careful investigation, without treating the entire population of any neighbouring community as collectively responsible. The history of the kingdom is both a record of long institutional continuity and a story of adaptation to modern political conditions."
+  ],
+  [
+   "13. Historical sources and community memory",
+   "Chollo history is preserved through oral traditions, royal histories, songs, ritual knowledge, family memories and written scholarship. Older anthropological accounts contain detailed descriptions of kingship but reflect the assumptions and limitations of their period. The UNESCO documentation of Chollo traditions and scholarly work on divine kingship provide useful starting points, not substitutes for community authority over its own heritage. Future research should include Chollo historians, elders, women, youth, language specialists and cultural institutions. Where oral accounts differ, the archive should preserve those differences rather than declare one version definitive."
+  ],
+  [
+   "14. A living history",
+   "Chollo history continues through language, music, farming, fishing, religious life, royal institutions, education and political participation. The kingdom is not simply an archaeological or precolonial subject; it remains part of contemporary debates about identity and authority. This chapter is an introduction. Further work should document the histories of individual Chollo districts and families, the role of women and youth, the history of Malakal and river settlements, and the transformations of the kingdom during colonial and postcolonial periods."
+  ]
+ ],
+ "source_leads": [
+  {
+   "name": "D. H. Johnson, The divine kingship of the Shilluk of the Nilotic Sudan, HAU: Journal of Ethnographic Theory",
+   "url": "https://www.journals.uchicago.edu/doi/10.14318/hau1.1.016"
+  },
+  {
+   "name": "UNESCO documentation on Chollo/Shilluk traditions and Nyikang",
+   "url": "https://ich.unesco.org/doc/src/00153-EN.pdf"
+  },
+  {
+   "name": "UNESCO and regional heritage records on Chollo cultural traditions",
+   "url": "https://ich.unesco.org/"
+  },
+  {
+   "name": "UNESCO General History of Africa, Volume V, section on the Shilluk kingdom",
+   "url": "https://repository.out.ac.tz/407/1/Vol_5._Africa_from_the_Sixteenth_to_the_Eighteenth_Century_editor_B.A.OGOT%28FILEminimizer%29.pdf"
+  }
+ ],
+ "note": "Dates for the kingdom's formation are approximate and debated. Nyikang narratives are identified as Chollo oral traditions, not presented as a fully corroborated chronological biography."
+},
+ {
+ "id": "azande-community-history",
+ "title": "Azande histories: Avungara kingdoms, Gbudue, colonial borders and cultural renewal",
+ "period": "c. eighteenth century–2026",
+ "region": "Western Equatoria and adjoining borderlands of South Sudan, Central African Republic and Democratic Republic of the Congo",
+ "category": "Peoples & community histories",
+ "summary": "A history of Azande communities and the Avungara ruling dynasties, nineteenth-century state formation, Gbudue, colonial conquest, cross-border division, war, displacement and the modern revival of Azande kingship.",
+ "status": "Research synthesis; Azande histories cross modern national borders and require more locality- and family-based oral histories.",
+ "article_sections": [
+  [
+   "1. Azande and the wider Zande world",
+   "Azande communities live across the borderlands of present-day South Sudan, the Central African Republic and the Democratic Republic of the Congo. The modern international borders divide areas connected by language, kinship, trade and political history. Azande is therefore not only a South Sudanese subject: its history is regional and transnational. The people have been described in historical sources under several spellings, including Zande. This chapter uses Azande while recognising the variation in historical records. Communities have experienced different colonial regimes and postcolonial states, so there is no single uniform Azande experience."
+  ],
+  [
+   "2. Language, settlement and political networks",
+   "Azande languages belong to the Ubangian language family. The communities' historical settlement patterns developed through local political relationships, migration, agriculture, trade and the incorporation of neighbouring populations. The region's forest and savannah environments connected the upper Mbomu and Uele river basins with wider Central African networks. Historical accounts show that political boundaries shifted as ruling houses expanded their influence. The modern map should not be projected backwards onto a period when political relationships crossed the borders now separating three countries."
+  ],
+  [
+   "3. The rise of the Avungara",
+   "The Avungara ruling clan became central to the formation and expansion of several Azande political formations. Historical scholarship traces their rise in the eighteenth and nineteenth centuries, alongside the Abandia and other ruling lineages. These dynasties built authority over populations with varied local histories and languages. Their expansion involved warfare, alliances, appointments of local authorities and the integration of conquered or allied communities. The term 'Azande kingdom' can therefore refer to a set of connected but sometimes autonomous polities, rather than one unified state with fixed borders."
+  ],
+  [
+   "4. Multiple kingdoms, not one timeless monarchy",
+   "Nineteenth-century Azande political life included several connected kingdoms and ruling houses. Their rulers competed, negotiated and built networks of authority across a large region. Local governors and chiefs could exercise power on behalf of monarchs, while succession disputes and rival claims shaped political relationships. This was a stratified political order, but its institutions changed over time and differed among territories. A careful history must distinguish individual kingdoms, rulers and localities instead of collapsing them into a single undifferentiated monarchy."
+  ],
+  [
+   "5. Gbudue and the nineteenth-century political world",
+   "Gbudue was among the most prominent Azande rulers in the late nineteenth century. His reign is remembered in historical writing as a major period in the political history of the Avungara dynasties. His kingdom interacted with expanding Turco-Egyptian commercial networks, including the trade in ivory and enslaved people, and with European imperial agents. Azande rulers had to navigate armed traders, shifting alliances and external military pressure while maintaining authority over local populations. The period should be understood through both the actions of rulers and the experiences of the communities affected by their power."
+  ],
+  [
+   "6. Trade, firearms and the ivory economy",
+   "The nineteenth-century expansion of ivory trading brought Azande territories into wider commercial networks. Traders and armed expeditions sought ivory, labour and access to routes linking the Nile basin with Central Africa. Firearms and imported goods altered political and military relationships. Enslavement and raiding caused profound harm and affected the autonomy of local communities. The Azande were not simply passive victims of external trade: rulers and communities made strategic choices, resisted, negotiated and adapted, though under increasingly coercive conditions."
+  ],
+  [
+   "7. Colonial conquest and the end of the old kingdoms",
+   "European imperial expansion divided the lands of Azande polities among the Anglo-Egyptian Sudan, French Equatorial Africa and the Belgian Congo. Colonial conquest weakened or abolished the old royal institutions and introduced new administrative structures. The Avungara lineages continued, but their political authority was transformed as colonial governments incorporated some leaders into indirect rule and displaced others. The old political world was not simply erased: memories, family networks and claims to authority survived beneath the new administrative systems."
+  ],
+  [
+   "8. Borders and divided communities",
+   "Colonial boundaries divided Azande-speaking populations across what later became South Sudan, the Central African Republic and the Democratic Republic of the Congo. The borders changed the direction of trade, administration, education and political allegiance, but did not eliminate cross-border family and cultural ties. Different colonial regimes produced different experiences of taxation, labour, schooling, religious institutions and local government. Any history focused only on the South Sudanese side will miss important parts of the wider Zande story."
+  ],
+  [
+   "9. Gbudue's legacy and historical memory",
+   "Gbudue became an important figure in later Azande historical memory. His reign has been remembered through accounts of royal authority, resistance, political achievement and the end of the nineteenth-century kingdom. Modern scholarship cautions that older ethnographic reconstructions were often produced after colonial conquest had radically changed the institutions being described. Oral accounts collected decades later are valuable, but they must be situated in the circumstances in which people remembered the past. Historical memory is not a defect in the evidence; it is itself part of the history of how communities interpret loss and continuity."
+  ],
+  [
+   "10. Colonial administration and cultural change",
+   "Colonial administrations reshaped settlement, local authority, taxation, labour, agriculture and religious life. Missionary institutions and schools introduced new forms of literacy and Christianity, while colonial officials reclassified political leaders as chiefs or administrative intermediaries. The impact varied across the territories divided among three empires. Some families gained access to schooling and government employment; others experienced coercion, displacement or exclusion. Azande people adapted and negotiated these changes rather than simply accepting them."
+  ],
+  [
+   "11. The twentieth century, war and displacement",
+   "The twentieth century brought changing colonial borders, independence movements, postcolonial state formation and armed conflict across the Central African borderlands. Azande communities in what is now South Sudan experienced the consequences of the Sudanese civil wars, while communities across the borders faced different national conflicts and state policies. War and displacement disrupted families, land use and local institutions, but also created new forms of solidarity and cultural renewal. A complete account must compare the experiences of Azande communities in all three modern states."
+  ],
+  [
+   "12. Azande in independent South Sudan",
+   "After South Sudan's independence in 2011, Azande communities in Western Equatoria participated in the new state's political, cultural and social life. Local government, customary leadership, education, agriculture and security remained important concerns. Political instability and conflict affected parts of Western Equatoria, contributing to displacement and changes in community relations. Azande communities are politically diverse, and decisions by particular leaders or armed organisations should not be attributed to the entire population."
+  ],
+  [
+   "13. The revival of Azande kingship in 2022",
+   "A new Azande Kingdom institution was established in 2022 under King Atoroba Peni Rikito Gbudue, according to recent ethnographic research by Isaac Waanzi Hillary. The article explains that the modern institution is a reinvention rather than a direct restoration of a nineteenth-century state. It brought together claims associated with four precolonial kingdoms and developed structures modelled partly on modern government. The revival generated support and debate among Azande and within the Avungara lineage. This is a contemporary political and cultural development, not evidence that the old kingdoms survived unchanged through colonialism."
+  ],
+  [
+   "14. Cultural renewal and the politics of tradition",
+   "The renewed interest in kingship reflects broader efforts to recover historical memory after colonial rule, war and displacement. Cultural revival can strengthen identity and intergenerational connection, but it can also raise questions about representation, succession, territory and the relationship between customary authority and the modern state. These debates should be presented as debates among Azande people rather than settled by outside observers. The modern kingdom's claims and institutions must be studied in their own context and distinguished from the structures of the nineteenth century."
+  ],
+  [
+   "15. Sources, oral testimony and the future archive",
+   "Azande history has often been filtered through colonial administrators and classic anthropology. Newer research revisits those accounts through archives, interviews and contemporary ethnography. Isaac Waanzi Hillary's study of the rebirth of the Azande Kingdom and Bruno Jim Braak's 2026 research on colonialism, war and displacement provide important modern perspectives. Future work should include Azande historians, women, youth, chiefs, farmers, displaced families and communities across the borders. The archive should preserve local names, language forms and disagreements about the past."
+  ],
+  [
+   "16. A history across borders",
+   "Azande history cannot be completed within the boundaries of South Sudan alone. It connects Western Equatoria with the Central African Republic and the Democratic Republic of the Congo through dynastic history, language, family, trade and migration. The region's political institutions have changed from precolonial kingdoms to colonial administrations and modern states. Yet historical memory and cultural relationships continue across borders. This chapter is a foundation for further research, including detailed histories of individual Avungara houses, local communities, colonial districts, religious change, women and the experience of displacement."
+  ]
+ ],
+ "source_leads": [
+  {
+   "name": "Isaac Waanzi Hillary, 'This kingdom will not be like the kingdom(s) in the era of Gbudue': On the rebirth of the Azande Kingdom, HAU (2024)",
+   "url": "https://www.journals.uchicago.edu/doi/10.1086/732344"
+  },
+  {
+   "name": "Paola Ivanov, Cannibals, Warriors, Conquerors, and Colonizers: Western Perceptions and Azande Historiography",
+   "url": "https://www.cambridge.org/core/journals/history-in-africa/article/abs/cannibals-warriors-conquerors-and-colonizers-western-perceptions-and-azande-historiography1/573885F6FD62EADF313E5E6FB8B37567"
+  },
+  {
+   "name": "Bruno Jim Braak, South Sudan's Azande during colonialism, war, and displacement (Leiden University Press, 2026)",
+   "url": "https://www.jstor.org/stable/jj.38778286"
+  }
+ ],
+ "note": "Azande political history spans territories now in three countries. The 2022 Azande Kingdom is described as a modern reinvention, not a seamless survival or exact restoration of nineteenth-century monarchies."
+}
 ]
