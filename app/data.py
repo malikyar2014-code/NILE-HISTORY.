@@ -2039,4 +2039,237 @@ ARTICLES = [
  ],
  "note": "Azande political history spans territories now in three countries. The 2022 Azande Kingdom is described as a modern reinvention, not a seamless survival or exact restoration of nineteenth-century monarchies."
 }
+
+
+ {
+  "id": "anyuak-community-history",
+  "title": "Anyuak (Anuak) histories: river kingdoms, borderlands and changing authority",
+  "period": "Precolonial history–2026",
+  "region": "Sobat and Akobo river regions of South Sudan and western Ethiopia",
+  "category": "Peoples & community histories",
+  "summary": "A community-centred history of Anyuak (Anuak/Anywaa) societies, riverine settlement, chiefly and royal authority, relations with neighbouring peoples, colonial partition and modern borderland politics.",
+  "status": "Research synthesis; oral histories and locality-specific accounts remain essential, and Anyuak communities on both sides of the international border have distinct experiences.",
+  "article_sections": [
+   [
+    "1. Names, language and historical geography",
+    "Anyuak, also written Anuak or Anywaa, is a name used for communities whose historical homelands extend across the present-day South Sudan–Ethiopia border. The Anywaa language belongs to the Luo group of Western Nilotic languages. The Sobat and Akobo river systems, seasonal wetlands, floodplains and adjoining higher ground have shaped settlement, fishing, cultivation, cattle keeping and movement. The modern border divides communities whose family, linguistic and trading connections long predate the states that now administer them. A South Sudan chapter must therefore situate Anyuak history in a wider cross-border region."
+   ],
+   [
+    "2. Oral histories and the problem of origins",
+    "Anyuak histories are preserved through oral accounts of ancestors, settlement, leadership, migration, land and relations with neighbouring communities. Such traditions are not a single fixed chronology: accounts may differ between villages, lineages and families. Written sources are uneven and often begin with the arrival of traders, missionaries or colonial officials, which can make earlier history appear empty. Historical reconstruction should compare oral testimony with linguistic, archaeological and documentary evidence without treating one source type as automatically superior. Precise migration dates should not be asserted where the evidence does not support them."
+   ],
+   [
+    "3. River environments and livelihoods",
+    "The rivers and wetlands of the Anyuak region have been central to food systems and social life. Fishing, cultivation, livestock keeping, gathering and exchange are adapted to seasonal changes in water and pasture. These livelihoods are complementary rather than mutually exclusive categories. Floods and droughts can alter access to fields, fishing grounds and grazing, while waterways connect settlements and facilitate movement. Environmental knowledge—including the timing of floods, fish movements, soils and plants—is part of the community's historical knowledge and should be documented with local specialists."
+   ],
+   [
+    "4. Leadership, chiefs and political institutions",
+    "Anyuak political organisation included local authorities and chiefly or royal institutions whose reach varied by place and period. Some accounts describe centralised kingship in parts of the Anyuak world, but this should not be projected as a uniform system across all communities. Authority depended on lineage, ritual standing, control of land and relationships with neighbouring settlements. Colonial officials later translated diverse institutions into administrative categories such as chiefdoms. Those categories could simplify local arrangements and alter the balance between elders, ritual authorities and political leaders."
+   ],
+   [
+    "5. Neighbours, exchange and conflict",
+    "Anyuak history is inseparable from relationships with Nuer, Murle, Maban and other communities, as well as with peoples across the Ethiopian border. Relations included trade, intermarriage, shared use of resources, alliance, competition and conflict. River access, cattle, farmland and security could become points of tension, but these relationships changed over time and were not permanent ethnic hostilities. The history should record local agreements and cooperation as well as violence, and avoid assigning the actions of particular armed groups to entire populations."
+   ],
+   [
+    "6. Nineteenth-century expansion of external power",
+    "During the nineteenth century, the expanding commercial and military networks associated with Turco-Egyptian rule brought new pressures to the upper Nile and Sobat regions. Traders, armed expeditions and the search for ivory and enslaved people affected communities unevenly. Local leaders and families negotiated, resisted, moved or adapted to these pressures. Evidence for particular events in individual Anyuak localities remains incomplete, so broad regional developments should not be mistaken for a fully documented village-by-village account."
+   ],
+   [
+    "7. Colonial borders and administration",
+    "Anglo-Egyptian and Ethiopian imperial expansion placed Anyuak communities under different administrations. The international boundary eventually divided a connected cultural region, affecting taxation, travel, schooling, religious institutions and political authority. Colonial officers relied on local intermediaries and their own classifications of communities, sometimes reshaping chiefly offices. The experiences of Anyuak people in Sudan and Ethiopia were not identical; a complete history must compare the two colonial and postcolonial trajectories rather than assume one common administrative experience."
+   ],
+   [
+    "8. Missionary education and twentieth-century change",
+    "Missionary activity, literacy, schools, changing markets and state administration brought new institutions into the region during the twentieth century. Their reach differed between settlements and across the border. Education and religious conversion created new opportunities and forms of leadership, while also transforming older practices and intergenerational relationships. Anyuak people participated in these changes as decision-makers, not simply as recipients of outside influence. Local language materials, church archives and family histories are important sources for this period."
+   ],
+   [
+    "9. War, displacement and the borderland",
+    "The wider Sudanese civil wars and conflicts in Ethiopia affected cross-border movement, security and family life. Refuge, return and displacement could connect communities across the border while also exposing them to competing state policies and armed actors. The effects varied by locality and generation. Accounts of conflict should identify specific events and responsible organisations where evidence allows, and should preserve the testimony of civilians without turning complex political histories into collective accusations against an ethnic group."
+   ],
+   [
+    "10. Anyuak in independent South Sudan",
+    "Since South Sudan's independence in 2011, Anyuak communities have navigated new state institutions alongside local customary authorities, cross-border ties and long-standing livelihood systems. Questions of representation, land, services, security and relations with neighbouring communities remain significant. South Sudanese independence did not end the importance of the Ethiopian border or resolve all local governance questions. The history of Anyuak citizenship and political participation should include women, youth, elders, traders, farmers, fishers and displaced families."
+   ],
+   [
+    "11. Land, environment and contemporary pressures",
+    "Changes in land use, infrastructure, commercial investment, climate variability and insecurity can affect access to wetlands, forests, farmland and rivers. These are historical questions as well as contemporary policy issues because livelihoods and settlement are tied to accumulated knowledge and customary rights. Claims about specific projects or environmental impacts require local documentation and dated evidence. Community-led mapping and oral-history projects could preserve place names, fishing grounds, sacred sites and memories of environmental change."
+   ],
+   [
+    "12. Building an Anyuak-led archive",
+    "A fuller archive should collect Anyuak-language oral histories, songs, genealogies where families consent, local histories of chiefs and settlements, women's accounts of work and displacement, school and church records, photographs and maps. Recordings should identify who told each account, when and where it was recorded, and whether it may be shared publicly. Disagreement between memories should be preserved rather than edited away. This chapter is a research foundation, not a substitute for Anyuak historians and community custodians."
+   ]
+  ],
+  "source_leads": [
+   {
+    "name": "Øystein H. Rolandsen and M. W. Daly, A History of South Sudan: From Slavery to Independence (Cambridge University Press), chapter on the peoples of South Sudan",
+    "url": "https://www.cambridge.org/core/books/history-of-south-sudan/"
+   },
+   {
+    "name": "International Center for Transitional Justice, Some Level of Peace: Addressing Intercommunal Violence Through Customary Justice in South Sudan (2024)",
+    "url": "https://www.ictj.org/sites/default/files/2024-11/ictj_report_south-sudan-customary-justice_2024.pdf"
+   },
+   {
+    "name": "Republic of South Sudan, National Biodiversity Strategy and Action Plan (2018–2027), Indigenous Knowledge annex",
+    "url": "https://dev-chm.cbd.int/doc/world/ss/ss-nbsap-01-en.pdf"
+   }
+  ],
+  "note": "Anyuak communities live across a modern international border. Oral histories should be attributed to specific narrators and localities; broad ethnographic labels do not describe every Anyuak settlement."
+ },
+ {
+  "id": "bari-community-history",
+  "title": "Bari histories: the White Nile, settlements, chiefdoms and Equatoria",
+  "period": "Precolonial history–2026",
+  "region": "Juba, Central Equatoria and the White Nile region of South Sudan",
+  "category": "Peoples & community histories",
+  "summary": "A history of Bari-speaking communities, riverine and inland settlements, local authority, nineteenth-century incursions, colonial rule, Christian missions, urban Juba and modern South Sudan.",
+  "status": "Research synthesis; Bari-speaking communities are internally diverse and need locality-specific histories and community-reviewed language material.",
+  "article_sections": [
+   [
+    "1. The Bari and their wider community",
+    "Bari refers to a group of related communities in the central Equatoria region, including people whose identities and language varieties are associated with Bari-speaking settlements around the White Nile and adjoining areas. The term should not be treated as a label for a culturally uniform population. Neighbouring communities such as Pojulu, Kakwa, Kuku, Mundari and Nyangwara have their own histories and identities, even where linguistic, kinship and cultural connections exist. Bari history is best understood through particular settlements, family networks and local institutions."
+   ],
+   [
+    "2. The White Nile landscape",
+    "The White Nile and its tributaries shaped movement, settlement, cultivation, fishing, trade and communication. Riverine communities interacted with inland settlements and routes leading toward the hills and the borders of present-day Uganda and the Democratic Republic of the Congo. Seasonal flooding, soils, water access and transport influenced where people farmed, fished and traded. The modern city of Juba lies within a region with a much longer history of settlement and exchange; its recent urban prominence should not obscure the histories of the communities who lived there before it became a capital."
+   ],
+   [
+    "3. Oral traditions and historical evidence",
+    "Bari histories are preserved through oral traditions about settlement, ancestors, land, leadership and relations with neighbouring communities. These accounts may differ between localities and should be recorded with the names and consent of narrators. Written records became more abundant during the nineteenth and twentieth centuries, but many were produced by traders, missionaries and colonial officials with particular purposes. They are useful evidence, not neutral descriptions. Archaeology, language research, family memory and oral testimony should be read together."
+   ],
+   [
+    "4. Local authority and customary institutions",
+    "Bari political life historically included local chiefs, elders, lineage authorities and other forms of community leadership. Authority was often organised through settlements and networks rather than one central kingdom covering all Bari-speaking people. Colonial administrations later formalised or altered chiefly offices, sometimes appointing intermediaries and defining jurisdictions that did not fully match local political relationships. The result was not simply the preservation of tradition: customary institutions changed through negotiation, pressure and adaptation."
+   ],
+   [
+    "5. Relations with neighbours",
+    "Bari communities interacted with Mundari, Pojulu, Kakwa, Kuku, Lotuko and other neighbouring peoples through trade, marriage, movement, shared resources and occasional conflict. Such relationships varied by locality and historical period. Boundaries between communities were not always fixed, and multilingualism and cultural exchange were part of everyday life. A responsible history should not reduce these relationships to timeless ethnic divisions or interpret modern conflict as proof of ancient hostility."
+   ],
+   [
+    "6. Nineteenth-century trade and coercion",
+    "The nineteenth century brought expanding Turco-Egyptian military and commercial power into the White Nile region. Traders and armed networks sought ivory, labour and access to routes, and slave raiding affected communities across the south. The arrival of external armed forces altered local security and political relationships. Bari communities responded in different ways, including resistance, negotiation, movement and adaptation. The record is uneven, so claims about particular raids or leaders should be tied to identifiable documentary or oral sources."
+   ],
+   [
+    "7. Juba and the growth of an administrative centre",
+    "The settlement that became Juba developed as a colonial and later national administrative centre. Its growth brought government offices, transport links, markets, schools, churches and migration from many parts of the region and country. Urban expansion changed land use and relations between long-established residents and newcomers. Juba's history therefore includes both the story of a growing capital and the histories of Bari communities and other groups whose land and social worlds were transformed by urbanisation."
+   ],
+   [
+    "8. Missionary activity, education and religion",
+    "Christian missions and schools became influential in parts of Equatoria during the colonial period. Their work introduced new forms of literacy, religious organisation and education, while interacting with existing spiritual and social institutions. Conversion was not uniform or instantaneous, and local people shaped how Christianity was adopted and practised. Oral accounts, church records and early school archives can illuminate the history of this transformation, provided missionary descriptions are read critically."
+   ],
+   [
+    "9. Condominium rule and southern administration",
+    "Under Anglo-Egyptian Condominium rule, officials governed southern districts through a mixture of district administration and recognised local authorities. Policies concerning movement, labour, taxation, education and language shaped Bari communities in different ways. The colonial administration's categories often simplified local identities and institutions. The Southern Policy and restrictions on movement between northern and southern regions affected the wider political development of the country, but local experiences varied across Equatoria."
+   ],
+   [
+    "10. National politics and the civil wars",
+    "Bari communities experienced the political transitions of Sudanese independence in 1956, the southern insurgencies and the two long civil wars. Recruitment, displacement, military operations and insecurity affected families and livelihoods. People also participated in education, church networks, public service and political movements. No single political position represented all Bari people. The history should document the experiences of civilians and local institutions as well as national leaders and armed organisations."
+   ],
+   [
+    "11. Independence and contemporary Equatoria",
+    "South Sudan's independence in 2011 made Juba the capital of a new state and brought major political and economic changes to Central Equatoria. Urban growth, migration, land disputes, infrastructure demands and insecurity have affected the region. Bari communities have participated in national government, local administration, business, education and cultural life. These experiences are diverse and should not be reduced to a single narrative about the capital or its residents."
+   ],
+   [
+    "12. Language, heritage and the future archive",
+    "Bari language varieties, oral literature, music, naming practices, foodways, farming knowledge and family histories are important parts of the region's heritage. Documentation should be undertaken with fluent speakers and community organisations, with attention to dialect variation and changing usage among younger generations. A community archive should include women's histories, urban and rural experiences, photographs, land and place names, and the memories of people displaced by war. This chapter is an introduction and invites further Bari-led research."
+   ]
+  ],
+  "source_leads": [
+   {
+    "name": "Øystein H. Rolandsen and M. W. Daly, A History of South Sudan: From Slavery to Independence (Cambridge University Press), introduction to the land and peoples",
+    "url": "https://www.cambridge.org/core/books/history-of-south-sudan/"
+   },
+   {
+    "name": "Library of Congress, Sudan: A Country Study, section on Southern Groups (historical reference; colonial-era framing requires caution)",
+    "url": "https://www.loc.gov/rr//frd/cs/pdf/CS_Sudan.pdf"
+   },
+   {
+    "name": "International Center for Transitional Justice, Some Level of Peace: Addressing Intercommunal Violence Through Customary Justice in South Sudan (2024)",
+    "url": "https://www.ictj.org/sites/default/files/2024-11/ictj_report_south-sudan-customary-justice_2024.pdf"
+   }
+  ],
+  "note": "Bari is not a synonym for every community in Central Equatoria. The chapter distinguishes Bari-speaking communities from neighbouring peoples and flags colonial classifications as historically situated."
+ },
+ {
+  "id": "murle-community-history",
+  "title": "Murle histories: Pibor, land, authority and contested identity",
+  "period": "Precolonial history–2026",
+  "region": "Pibor and the Greater Pibor Administrative Area, eastern South Sudan",
+  "category": "Peoples & community histories",
+  "summary": "A community-centred history of Murle people, settlement and livelihood, local authority, colonial encounters, state marginalisation, conflict narratives and contemporary political life.",
+  "status": "Research synthesis; local accounts differ and require testimony from Murle women, elders, youth, pastoralists, cultivators and displaced households.",
+  "article_sections": [
+   [
+    "1. The Murle and Pibor region",
+    "Murle communities are concentrated in the Pibor region of eastern South Sudan, with histories shaped by the area's grasslands, wooded areas, rivers and seasonal wetlands. Murle identity includes internal diversity and should not be treated as a single political organisation or a uniform way of life. The region is also home to and connected with neighbouring communities, including Anyuak, Nuer, Dinka, Jie and Kachipo. The modern administrative boundaries do not fully describe older patterns of movement, exchange and shared resource use."
+   ],
+   [
+    "2. Oral history and contested origins",
+    "Murle historical knowledge includes oral accounts of ancestors, settlement, migration, land and relations with neighbouring peoples. Different local accounts may preserve distinct routes and memories. Written ethnographies and colonial records offer additional evidence but often reflect the assumptions of officials and outside researchers. They should not be treated as definitive accounts of Murle identity. Historical work must compare sources and make uncertainty visible rather than force all traditions into one migration story."
+   ],
+   [
+    "3. Livelihoods and seasonal movement",
+    "Murle livelihoods have included cattle keeping, cultivation, fishing, hunting, gathering and trade, with the balance varying by locality and season. Movement between settlements, grazing areas and water sources is shaped by rainfall and environmental conditions. Pastoralism should not be mistaken for a timeless or exclusive identity: households combine activities and adapt to changing security and economic circumstances. Access to land and water is a practical and historical question central to social relations."
+   ],
+   [
+    "4. Local leadership and social institutions",
+    "Murle society has often been described as decentralised, with authority distributed among elders, local leaders, age-based institutions and other community structures rather than concentrated in a single hereditary monarchy. Such descriptions are broad and need to be checked against local histories and changing practice. Colonial officials and later state administrations introduced or recognised chiefs and administrative units, reshaping the relationships between customary authority and government. These institutions have never been static."
+   ],
+   [
+    "5. Relations with neighbouring communities",
+    "Murle histories are intertwined with those of neighbouring Nuer, Dinka, Anyuak, Jie and other communities. Relations have included trade, marriage, negotiated access to resources, alliance, competition and conflict. The same borderland may be remembered differently by different families, and local agreements have often been as important as violence. Modern ethnic labels can conceal shared histories and changing alliances. No community should be represented as naturally violent or permanently hostile."
+   ],
+   [
+    "6. Nineteenth-century external incursions",
+    "The expansion of Turco-Egyptian rule and commercial networks in the nineteenth century affected the wider southern Sudan through armed expeditions, slave raiding, ivory trading and new political pressures. The degree and form of impact varied across the Pibor region. Local communities responded through movement, resistance, negotiation and adaptation. The historical record is incomplete, so claims about specific events must be supported by local oral accounts or identifiable documentary evidence."
+   ],
+   [
+    "7. Colonial rule and the making of administrative categories",
+    "During Anglo-Egyptian rule, officials sought to govern the Pibor region through district administration and recognised chiefs. Colonial records frequently classified communities into bounded units and described them through external categories. These practices could harden distinctions, elevate some intermediaries and reshape local authority. Later researchers sometimes repeated colonial descriptions without sufficient criticism. A careful history distinguishes Murle self-understandings from labels imposed by officials and outside observers."
+   ],
+   [
+    "8. The twentieth century and changing state relations",
+    "The twentieth century brought missionary activity, education, changing markets, administrative reforms and the wider political struggles of Sudan. The Pibor region remained relatively remote from many state services and transport networks. Limited infrastructure and uneven state presence shaped relations with government institutions. Murle people engaged with these changes in different ways, including through schooling, trade, religious life, local leadership and migration."
+   ],
+   [
+    "9. Civil wars, weapons and insecurity",
+    "The Sudanese civil wars transformed eastern South Sudan through military recruitment, displacement, arms circulation and the disruption of livelihoods. Local conflicts became entangled with national wars and changing alliances. The presence of weapons and the actions of armed organisations affected civilian security, but it is inaccurate to explain violence as an inherent feature of Murle culture. Historical analysis must identify political decisions, material conditions and specific actors rather than blame an entire population."
+   ],
+   [
+    "10. The politics of being Murle",
+    "Recent scholarship examines how Murle identity has been narrated by neighbouring communities, state institutions and national media, and how stereotypes have shaped experiences of marginalisation. Research on the politics of being Murle argues that the community has often been portrayed as the source of insecurity despite political and economic marginalisation. These representations matter because they can influence security operations, public policy and access to services. They must be investigated rather than repeated as neutral fact."
+   ],
+   [
+    "11. Pibor, local government and the post-2011 state",
+    "After South Sudan's independence in 2011, Pibor and surrounding areas experienced new administrative arrangements, political mobilisation and continuing insecurity. The Greater Pibor Administrative Area was created as a special administrative arrangement, reflecting long-running debates about local autonomy and representation. Its institutions and relationship with national and state authorities have changed over time. Community perspectives on governance are diverse and should be documented across villages and generations."
+   ],
+   [
+    "12. Peacebuilding, cattle and resource agreements",
+    "Peace initiatives in eastern South Sudan have included local negotiations, customary processes, youth engagement and agreements concerning cattle, grazing, water and movement. These mechanisms can help resolve disputes, but they operate within wider political and economic conditions and cannot substitute for accountable security institutions or public services. Research on customary justice highlights both the importance and limitations of local systems. Their legitimacy depends on participation, fairness and the ability to protect vulnerable people."
+   ],
+   [
+    "13. Women, youth and everyday life",
+    "Accounts of Murle history have often focused on male elders, cattle and conflict. A fuller history must include women's work in cultivation, household economies, trade, care, cultural transmission and peacebuilding, as well as young people's experiences of education, migration, armed mobilisation and changing livelihoods. These perspectives are not secondary: they reveal how political events affect daily life and how communities sustain themselves through periods of crisis."
+   ],
+   [
+    "14. Murle futures and community-led documentation",
+    "A responsible archive should collect oral histories from different Murle localities, preserve local place names and language, document land and water knowledge, and include the memories of displaced households. Interviewees should control whether their testimony is public, anonymised or restricted. The chapter should be expanded with Murle-authored scholarship and locally reviewed material. Its purpose is to correct simplistic portrayals and make room for a complex history shaped by agency, political pressure, resilience and change."
+   ]
+  ],
+  "source_leads": [
+   {
+    "name": "The politics of being Murle in South Sudan: state violence, displacement and the narrativisation of identity, Journal of Eastern African Studies (2023)",
+    "url": "https://www.tandfonline.com/doi/full/10.1080/17531055.2023.2259547"
+   },
+   {
+    "name": "Naomi Pendle, research on the landscapes and relationships of western Nuer and Dinka communities, Journal of Eastern African Studies (2017)",
+    "url": "https://doi.org/10.1080/17531055.2017.1288408"
+   },
+   {
+    "name": "International Center for Transitional Justice, Some Level of Peace: Addressing Intercommunal Violence Through Customary Justice in South Sudan (2024)",
+    "url": "https://www.ictj.org/sites/default/files/2024-11/ictj_report_south-sudan-customary-justice_2024.pdf"
+   }
+  ],
+  "note": "This chapter explicitly rejects ethnic stereotyping. Murle people are not collectively responsible for violence; events must be attributed to specific actors and supported by evidence."
+ }
+
 ]
