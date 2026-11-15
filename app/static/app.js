@@ -225,3 +225,31 @@ if(globalInput){
   if(pageIds.includes(id))activatePage(id,false);
  });
 })();
+
+ 
+async function loadEditorialDashboard(){
+ const status=document.getElementById('editorialStatus');
+ const metrics=document.getElementById('editorialMetrics');
+ const categories=document.getElementById('editorialCategories');
+ const attention=document.getElementById('editorialAttention');
+ if(!status||!metrics||!categories||!attention)return;
+ try{
+  const response=await fetch('/api/editorial/quality');
+  if(!response.ok)throw new Error('audit unavailable');
+  const data=await response.json();
+  status.textContent='Audit updated · '+data.scope;
+  const cards=[
+   ['Articles in library',data.total_articles],
+   ['With source leads',data.articles_with_source_leads],
+   ['With full reading text',data.articles_with_reading_text],
+   ['Need more complete text',data.articles_needing_metadata_attention]
+  ];
+  metrics.innerHTML=cards.map(([label,value])=>'<article class="editorial-metric"><strong>'+esc(value)+'</strong><span>'+esc(label)+'</span></article>').join('');
+  categories.innerHTML=Object.entries(data.categories||{}).sort((a,b)=>b[1]-a[1]).map(([label,value])=>'<div class="editorial-category"><span>'+esc(label)+'</span><b>'+esc(value)+'</b></div>').join('');
+  attention.innerHTML=(data.needs_attention||[]).map(item=>'<article class="editorial-attention-item"><b>'+esc(item.title)+'</b><small>'+esc(item.missing.join(' · '))+'</small></article>').join('')||'<p>No metadata gaps detected.</p>';
+ }catch(error){
+  status.textContent='Editorial audit is temporarily unavailable. Please refresh.';
+  metrics.innerHTML='';categories.innerHTML='';attention.innerHTML='';
+ }
+}
+loadEditorialDashboard();
