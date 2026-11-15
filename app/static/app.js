@@ -213,9 +213,9 @@ if(globalInput){
  menu.querySelectorAll('[data-page]').forEach(link=>link.addEventListener('click',event=>{
   event.preventDefault();activatePage(link.dataset.page);
  }));
- document.querySelectorAll('a[href="#explore"],a[href="#home"]').forEach(link=>{
+ document.querySelectorAll('a[data-page]').forEach(link=>{
   if(!menu.contains(link))link.addEventListener('click',event=>{
-   event.preventDefault();activatePage(link.getAttribute('href').slice(1));
+   event.preventDefault();activatePage(link.dataset.page);
   });
  });
  const initial=location.hash.slice(1);
