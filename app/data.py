@@ -2171,7 +2171,7 @@ ARTICLES = [
    [
     "12. Language, heritage and the future archive",
     "Bari language varieties, oral literature, music, naming practices, foodways, farming knowledge and family histories are important parts of the region's heritage. Documentation should be undertaken with fluent speakers and community organisations, with attention to dialect variation and changing usage among younger generations. A community archive should include women's histories, urban and rural experiences, photographs, land and place names, and the memories of people displaced by war. This chapter is an introduction and invites further Bari-led research."
-   ]
+   ],
   ],
   "source_leads": [
    {
