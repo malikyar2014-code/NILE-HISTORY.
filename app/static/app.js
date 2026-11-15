@@ -19,11 +19,64 @@ const kushSites=[
 const root=document.getElementById('articles'),q=document.getElementById('searchInput'),cat=document.getElementById('categorySelect'),count=document.getElementById('recordCount'),dlg=document.getElementById('articleDialog'),body=document.getElementById('dialogContent');let timer;
 const esc=s=>String(s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 async function load(){const p=new URLSearchParams();if(q.value.trim())p.set('q',q.value.trim());if(cat.value)p.set('category',cat.value);try{const r=await fetch('/api/articles?'+p);if(!r.ok)throw Error();const d=await r.json();count.textContent=d.count+' archive records';root.innerHTML=d.items.length?d.items.map(a=>'<article class="article-card" tabindex="0" data-id="'+esc(a.id)+'"><div class="meta"><span>'+esc(a.category)+'</span><span>'+esc(a.status)+'</span></div><h3>'+esc(a.title)+'</h3><p>'+esc(a.summary)+'</p><div class="meta"><span>'+esc(a.period)+'</span><span>Read inside NILE HISTORY ↗</span></div></article>').join(''):'No matching records yet.';root.querySelectorAll('[data-id]').forEach(el=>{const open=()=>show(el.dataset.id);el.onclick=open;el.onkeydown=e=>{if(e.key==='Enter')open()}})}catch(e){root.textContent='Archive unavailable. Check the server and refresh.';count.textContent='Connection unavailable'}}
-async function show(id){const r=await fetch('/api/articles/'+encodeURIComponent(id));if(!r.ok)return;const a=await r.json();const paragraphs=a.article_sections?'<div class="article-chapters">'+a.article_sections.map(s=>'<section class="article-chapter"><h3>'+esc(s[0])+'</h3><p class="article-paragraph">'+esc(s[1])+'</p></section>').join('')+'</div>' :(a.article_text||[a.summary]).map(p=>'<p class="article-paragraph">'+esc(p)+'</p>').join('');const refs=(a.source_leads||[]).map((s,i)=>'<li><b>['+(i+1)+'] '+esc(s.name)+'</b><br><a class="optional-source" target="_blank" rel="noopener" href="'+esc(s.url)+'">Optional: view original reference ↗</a></li>').join('');const visual=a.id==='kush'?'<section class="kush-visual"><h3>Kushite historical timeline</h3><div class="kush-timeline">'+kushTimeline.map(t=>'<article><small>'+esc(t.date)+'</small><b>'+esc(t.title)+'</b><p>'+esc(t.desc)+'</p></article>').join('')+'</div><h3>Historical atlas: verified archaeological locations</h3><p class="reference-intro">Real geographic map using OpenStreetMap tiles. Site coordinates are taken from UNESCO World Heritage Centre records and its Kerma tentative-list record. These pins locate archaeological places; they do not represent ancient political borders.</p><div id="kushLeafletMap" class="kush-leaflet-map" role="region" aria-label="Interactive map of Kushite archaeological sites"></div><p class="map-credit">Map data © <a href="https://www.openstreetmap.org/copyright" target="_blank" rel="noopener">OpenStreetMap contributors</a> · Coordinates: UNESCO World Heritage Centre. Map tiles load from OpenStreetMap.</p><div class="site-list">'+kushSites.map(p=>'<button type="button" data-site="'+p.id+'"><b>'+esc(p.name)+'</b><span>'+esc(p.detail)+'</span></button>').join('')+'</div><p class="site-detail" id="siteDetail" aria-live="polite">Select a marker or site name to see its location and historical context.</p></section>':''
-body.innerHTML='<div class="eyebrow">'+esc(a.category)+' · '+esc(a.region)+'</div><h2>'+esc(a.title)+'</h2><p>'+esc(a.period)+' · '+esc(a.status)+'</p><div class="article-reading">'+paragraphs+'</div>'+visual+'<section class="citation-panel"><h3>References & further reading</h3><p class="reference-intro">This article is written for reading here in NILE HISTORY. The references below identify the evidence used; opening an external source is optional.</p><ol class="reference-list">'+refs+'</ol></section><div class="note"><b>Editorial note:</b> '+esc(a.note)+'</div>';
-if(a.id==='kush'){const detail=document.getElementById('siteDetail');const mapNode=document.getElementById('kushLeafletMap');const choose=id=>{const p=kushSites.find(x=>x.id===id);if(p){detail.textContent=p.name+' — '+p.detail;if(window.kushMapInstance)window.kushMapInstance.setView([p.lat,p.lng],10);}};body.querySelectorAll('[data-site]').forEach(el=>{el.addEventListener('click',()=>choose(el.dataset.site));});if(window.L&&mapNode){if(window.kushMapInstance){window.kushMapInstance.remove();window.kushMapInstance=null;}const map=L.map(mapNode,{scrollWheelZoom:false}).setView([17.9,32.1],6);window.kushMapInstance=map;L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png',{maxZoom:18,attribution:'&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'}).addTo(map);kushSites.forEach(p=>L.marker([p.lat,p.lng]).addTo(map).bindPopup('<strong>'+esc(p.name)+'</strong><br>'+esc(p.detail)).on('click',()=>{detail.textContent=p.name+' — '+p.detail;}));const bounds=L.latLngBounds(kushSites.map(p=>[p.lat,p.lng]));map.fitBounds(bounds.pad(0.18));setTimeout(()=>{map.invalidateSize();map.fitBounds(bounds.pad(0.18));},250);}else{mapNode.textContent='The interactive map library could not load. The verified site list remains available below.';}}
-dlg.showModal()}
-q.addEventListener('input',()=>{clearTimeout(timer);timer=setTimeout(load,220)});cat.addEventListener('change',load);document.getElementById('closeDialog').onclick=()=>dlg.close();dlg.addEventListener('click',e=>{if(e.target===dlg)dlg.close()});let promptEvent;window.addEventListener('beforeinstallprompt',e=>{e.preventDefault();promptEvent=e;const b=document.getElementById('installBtn');b.hidden=false;b.onclick=async()=>{promptEvent.prompt();await promptEvent.userChoice;promptEvent=null;b.hidden=true}});if('serviceWorker'in navigator)addEventListener('load',()=>navigator.serviceWorker.register('/static/sw.js').catch(()=>{}));load();
+async function show(id){
+ const r=await fetch('/api/articles/'+encodeURIComponent(id));
+ if(!r.ok)return;
+ const a=await r.json();
+ const sections=Array.isArray(a.article_sections)?a.article_sections:[];
+ const rawText=Array.isArray(a.article_text)?a.article_text:(a.article_text?[a.article_text]:[a.summary||'']);
+ const bookmarked=()=>{try{return JSON.parse(localStorage.getItem('nileBookmarks')||'[]')}catch(e){return[]}};
+ const saved=bookmarked().some(item=>item.id===a.id);
+ const paragraphs=sections.length
+  ?'<div class="article-chapters">'+sections.map((s,i)=>'<section class="article-chapter" id="reader-chapter-'+i+'"><h3>'+esc(s[0])+'</h3><p class="article-paragraph">'+esc(s[1])+'</p></section>').join('')+'</div>'
+  :rawText.map((p,i)=>'<section class="article-chapter" id="reader-chapter-'+i+'"><p class="article-paragraph">'+esc(p)+'</p></section>').join('');
+ const refs=(a.source_leads||[]).map((s,i)=>'<li><b>['+(i+1)+'] '+esc(s.name)+'</b><br><a class="optional-source" target="_blank" rel="noopener" href="'+esc(s.url)+'">Open source reference ↗</a></li>').join('');
+ const tocItems=(sections.length?sections.map((s,i)=>({label:s[0],index:i})):rawText.map((p,i)=>({label:'Section '+(i+1),index:i})));
+ const visual=a.id==='kush'?'<section class="kush-visual"><h3>Kushite historical timeline</h3><div class="kush-timeline">'+kushTimeline.map(t=>'<article><small>'+esc(t.date)+'</small><b>'+esc(t.title)+'</b><p>'+esc(t.desc)+'</p></article>').join('')+'</div><h3>Historical atlas: verified archaeological locations</h3><p class="reference-intro">Real geographic map using OpenStreetMap tiles. Site coordinates are taken from UNESCO World Heritage Centre records and its Kerma tentative-list record. These pins locate archaeological places; they do not represent ancient political borders.</p><div id="kushLeafletMap" class="kush-leaflet-map" role="region" aria-label="Interactive map of Kushite archaeological sites"></div><p class="map-credit">Map data © <a href="https://www.openstreetmap.org/copyright" target="_blank" rel="noopener">OpenStreetMap contributors</a> · Coordinates: UNESCO World Heritage Centre.</p><div class="site-list">'+kushSites.map(p=>'<button type="button" data-site="'+p.id+'"><b>'+esc(p.name)+'</b><span>'+esc(p.detail)+'</span></button>').join('')+'</div><p class="site-detail" id="siteDetail" aria-live="polite">Select a marker or site name to see its location and historical context.</p></section>':'';
+ body.innerHTML='<div class="reader-topline"><div class="eyebrow">'+esc(a.category)+' · '+esc(a.region)+'</div><button type="button" id="readerBookmark" class="reader-bookmark" aria-pressed="'+saved+'">'+(saved?'★ Saved':'☆ Save article')+'</button></div><h2>'+esc(a.title)+'</h2><p class="reader-period">'+esc(a.period)+' · '+esc(a.status)+'</p><div class="reader-progress"><span id="readerProgressFill"></span></div><div class="reader-toolbar"><button type="button" id="readerTocToggle">Contents</button><button type="button" id="readerTextDown" aria-label="Decrease text size">A−</button><button type="button" id="readerTextUp" aria-label="Increase text size">A+</button><span id="readerProgressLabel">0% read</span></div><nav id="readerToc" class="reader-toc" aria-label="Article contents" hidden><b>In this article</b>'+tocItems.map(item=>'<a href="#reader-chapter-'+item.index+'">'+esc(item.label)+'</a>').join('')+'</nav><div class="article-reading" id="articleReading">'+paragraphs+'</div>'+visual+'<section class="citation-panel"><h3>References & further reading</h3><p class="reference-intro">The references below identify research leads for this article. A listed source is not a claim that every statement has been independently verified.</p><ol class="reference-list">'+refs+'</ol></section><div class="note"><b>Editorial note:</b> '+esc(a.note)+'</div>';
+ const reading=document.getElementById('articleReading');
+ const fill=document.getElementById('readerProgressFill');
+ const progressLabel=document.getElementById('readerProgressLabel');
+ const updateProgress=()=>{
+  const max=Math.max(1,reading.scrollHeight-reading.clientHeight);
+  const pct=Math.max(0,Math.min(100,Math.round((reading.scrollTop/max)*100)));
+  fill.style.width=pct+'%';progressLabel.textContent=pct+'% read';
+  try{localStorage.setItem('nileProgress:'+a.id,String(pct))}catch(e){}
+ };
+ const stored=Number((()=>{try{return localStorage.getItem('nileProgress:'+a.id)||0}catch(e){return 0}})());
+ reading.addEventListener('scroll',updateProgress,{passive:true});
+ document.getElementById('readerProgressFill').style.width=Math.max(0,Math.min(100,stored))+'%';
+ progressLabel.textContent=Math.max(0,Math.min(100,stored))+'% read';
+ document.getElementById('readerTocToggle').addEventListener('click',()=>{
+  const toc=document.getElementById('readerToc');toc.hidden=!toc.hidden;
+ });
+ document.getElementById('readerToc').querySelectorAll('a').forEach(link=>link.addEventListener('click',event=>{
+  event.preventDefault();const target=document.querySelector(link.getAttribute('href'));if(target)reading.scrollTo({top:target.offsetTop-reading.offsetTop,behavior:'smooth'});
+ }));
+ let size=16;
+ document.getElementById('readerTextDown').addEventListener('click',()=>{size=Math.max(13,size-1);reading.style.fontSize=size+'px'});
+ document.getElementById('readerTextUp').addEventListener('click',()=>{size=Math.min(23,size+1);reading.style.fontSize=size+'px'});
+ document.getElementById('readerBookmark').addEventListener('click',event=>{
+  let items=bookmarked();const exists=items.some(item=>item.id===a.id);
+  items=exists?items.filter(item=>item.id!==a.id):[{id:a.id,title:a.title,period:a.period,savedAt:new Date().toISOString()},...items];
+  try{localStorage.setItem('nileBookmarks',JSON.stringify(items))}catch(e){}
+  event.currentTarget.textContent=exists?'☆ Save article':'★ Saved';event.currentTarget.setAttribute('aria-pressed',String(!exists));
+ });
+ dlg.showModal();
+ if(a.id==='kush'){
+  const detail=document.getElementById('siteDetail');const mapNode=document.getElementById('kushLeafletMap');
+  const choose=siteId=>{const p=kushSites.find(x=>x.id===siteId);if(p){detail.textContent=p.name+' — '+p.detail;if(window.kushMapInstance)window.kushMapInstance.setView([p.lat,p.lng],10)}};
+  body.querySelectorAll('[data-site]').forEach(el=>el.addEventListener('click',()=>choose(el.dataset.site)));
+  if(window.L&&mapNode){
+   if(window.kushMapInstance){window.kushMapInstance.remove();window.kushMapInstance=null}
+   const map=L.map(mapNode,{scrollWheelZoom:false}).setView([17.9,32.1],6);window.kushMapInstance=map;
+   L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png',{maxZoom:18,attribution:'&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'}).addTo(map);
+   kushSites.forEach(p=>L.marker([p.lat,p.lng]).addTo(map).bindPopup('<strong>'+esc(p.name)+'</strong><br>'+esc(p.detail)).on('click',()=>{detail.textContent=p.name+' — '+p.detail}));
+   const bounds=L.latLngBounds(kushSites.map(p=>[p.lat,p.lng]));map.fitBounds(bounds.pad(0.18));
+   setTimeout(()=>{map.invalidateSize();map.fitBounds(bounds.pad(0.18))},250);
+  }else if(mapNode){mapNode.textContent='The interactive map library could not load. The verified site list remains available below.'}
+ }
+}
 
 async function showWikipedia(pageId){
  const labels={"sudan":"History of Sudan","south-sudan":"History of South Sudan","prehistory-sudan":"Prehistory of Sudan","nubia":"Nubia","kerma-culture":"Kerma culture","kingdom-kush":"Kingdom of Kush","napata":"Napata","meroe":"Meroë","nobatia":"Nobatia","makuria":"Makuria","alodia":"Alodia","funj-sultanate":"Funj Sultanate","darfur-sultanate":"Sultanate of Darfur","turco-egyptian":"Turco-Egyptian conquest of Sudan","mahdist-war":"Mahdist War","anglo-egyptian":"Anglo-Egyptian Sudan","first-civil-war":"First Sudanese Civil War","second-civil-war":"Second Sudanese Civil War","peace-agreement":"Comprehensive Peace Agreement","south-sudan-war":"South Sudanese Civil War","sudan-war":"War in Sudan (2023)"};
