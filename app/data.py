@@ -2272,4 +2272,315 @@ ARTICLES = [
   "note": "This chapter explicitly rejects ethnic stereotyping. Murle people are not collectively responsible for violence; events must be attributed to specific actors and supported by evidence."
  }
 
+
+
+ {
+  "id": "otuho-lotuko-community-history",
+  "title": "Otuho (Lotuko) histories: the Imatong foothills, villages and age-set institutions",
+  "period": "Precolonial history–2026",
+  "region": "Torit, Imatong foothills and Eastern Equatoria, South Sudan",
+  "category": "Peoples & community histories",
+  "summary": "A history of Otuho/Lotuko-speaking communities, their diverse villages, agricultural and pastoral livelihoods, age-set institutions, colonial encounters, war and contemporary cultural life.",
+  "status": "Research synthesis based on ethnographic and linguistic leads; village histories, oral testimony and community-reviewed terminology are needed for a fuller account.",
+  "article_sections": [
+   [
+    "1. Names and community diversity",
+    "Otuho and Lotuko are names used in different contexts for people and language communities centred around Torit and the Imatong foothills of Eastern Equatoria. The terminology in older books is not always consistent, and the name Lotuko has sometimes been applied broadly to related but distinct groups. This chapter uses Otuho/Lotuko where appropriate while recognising the identities of neighbouring Lopit, Lokoya, Dongotono, Lango and other communities. These groups should not be collapsed into one people simply because scholars have discussed linguistic or historical relationships among them."
+   ],
+   [
+    "2. The Imatong landscape",
+    "The hills, valleys, seasonal streams and plains around Torit have shaped settlement and livelihoods. Cultivation, livestock keeping, gathering, trade and movement between ecological zones have long been important. Rainfall and access to water vary sharply between uplands and lowlands, influencing crops, grazing and the timing of work. The landscape is not merely a backdrop: place names, sacred sites, fields, paths and water sources form part of community memory and local claims to land."
+   ],
+   [
+    "3. Oral traditions and the question of origins",
+    "Otuho oral traditions preserve accounts of ancestors, settlement, movement, relations between villages and the establishment of local institutions. Published accounts record different versions of origins and migration, and these do not always agree. Linguistic research has proposed relationships among several Eastern Sudanic-speaking groups, but linguistic classification does not prove a single migration route or a simple shared political origin. A careful history records the diversity of oral accounts and avoids presenting speculative migration narratives as established fact."
+   ],
+   [
+    "4. Villages, lineages and local authority",
+    "Historically, political and social life was strongly organised through villages, lineages, elders and local authorities. Authority could be distributed among several institutions rather than concentrated in a single central state. Boundaries and relationships between villages were shaped by kinship, marriage, land, ritual responsibilities and negotiations over resources. Colonial administrations later sought to define territorial chiefships and courts, sometimes imposing boundaries or offices that did not correspond neatly to local social organisation."
+   ],
+   [
+    "5. Age sets and generation institutions",
+    "Ethnographic work on Otuho/Lotuko communities describes age-related institutions and collective responsibilities that have helped organise social life. These institutions should not be treated as unchanging systems: membership, authority and obligations can shift with historical circumstances, religious change, schooling, migration and state administration. Accounts of age organisation need to be grounded in the specific community and period being discussed rather than generalised to all Eastern Equatoria."
+   ],
+   [
+    "6. Farming, livestock and household economies",
+    "Agriculture has been central to many Otuho livelihoods, with sorghum and other crops cultivated according to local soils and rainfall. Households have also kept livestock and used gathering, hunting, craft production and exchange to meet different needs. The balance between cultivation and animal husbandry varies between settlements and families. Women and men contribute in different but interconnected ways, and household histories are essential for understanding changes in food production, marriage, inheritance and labour."
+   ],
+   [
+    "7. Neighbouring communities and exchange",
+    "Otuho communities have long interacted with Lopit, Dongotono, Lokoya, Pari, Lulubo, Acholi, Toposa and other neighbours. Relations have included trade, marriage, shared routes, cultural exchange, competition and conflict. These relationships have changed over time and cannot be reduced to permanent ethnic boundaries. Research should identify particular agreements and disputes rather than reproduce colonial-era descriptions of fixed tribal territories."
+   ],
+   [
+    "8. Nineteenth-century incursions and regional change",
+    "The expansion of Turco-Egyptian commercial and military power into southern Sudan during the nineteenth century affected communities through ivory trading, armed expeditions, slave raiding and the movement of traders and soldiers. The degree of direct impact varied by locality. Local communities responded through negotiation, resistance, movement and adaptation. Because the documentary record is uneven, a detailed account of particular Otuho villages requires oral histories and local archival research."
+   ],
+   [
+    "9. Condominium rule and administrative reorganisation",
+    "Under Anglo-Egyptian Condominium rule, officials extended district administration, taxation, courts and recognised chiefly offices into Eastern Equatoria. Administrators often tried to turn complex local relationships into territorial units that could be governed through chiefs. Research on colonial chiefship in South Sudan shows that these categories were not simply traditional institutions preserved by the state; they were often reshaped or created through administrative intervention. Otuho experiences should be examined alongside the wider history of colonial government in Equatoria."
+   ],
+   [
+    "10. Christianity, education and twentieth-century change",
+    "Missionary activity, schools, churches, literacy and new forms of employment changed social life during the twentieth century. Adoption of Christianity and formal education varied between villages and generations. These changes existed alongside local religious knowledge, customary institutions and older forms of learning. Community members actively interpreted and adapted new institutions; they were not merely passive recipients of missionary or government policy."
+   ],
+   [
+    "11. Independence, war and displacement",
+    "The end of Condominium rule and Sudanese independence in 1956 brought new national political structures, while conflict in the south affected Eastern Equatoria for decades. The first and second Sudanese civil wars brought recruitment, insecurity, displacement and disruption to livelihoods. People also participated in political movements, education, church networks and public service. No single experience or political position represented all Otuho communities."
+   ],
+   [
+    "12. Contemporary Otuho life and future research",
+    "Since South Sudan's independence in 2011, Otuho communities have navigated local government, customary leadership, education, urban growth and changing economic conditions. Language transmission, land, youth employment and the preservation of oral heritage remain important research areas. A fuller archive should record histories of individual villages, women's experiences, songs, place names, ritual knowledge and the memories of displaced families, with community control over access and publication."
+   ]
+  ],
+  "source_leads": [
+   {
+    "name": "Andreas Grüb, The Lotuho of the Southern Sudan: An Ethnological Monograph (1992), bibliographic record and contents",
+    "url": "https://www.africabib.org/rec.php?RID=089383206"
+   },
+   {
+    "name": "Rosey Billington, The Phonetics and Phonology of the Lopit Language (2017), introduction discussing Eastern Equatoria language history",
+    "url": "https://roseybillington.com/wp-content/uploads/2019/09/billington-2017-the-phonetics-and-phonology-of-the-lopit-language.pdf"
+   },
+   {
+    "name": "Rainmaking and climate change: global discourse and local perspectives over regicide in South Sudan (2026), study of Lopit and neighbouring hill communities",
+    "url": "https://www.frontierspartnerships.org/journals/pastoralism-research-policy-and-practice/articles/10.3389/past.2026.15944/full"
+   },
+   {
+    "name": "Cherry Leonardi, Dealing with Government in South Sudan: Histories of Chiefship, Community and State (2013)",
+    "url": "https://boydellandbrewer.com/9781847010674/dealing-with-government-in-south-sudan/"
+   }
+  ],
+  "note": "Otuho/Lotuko terminology is not a licence to merge neighbouring communities. Older ethnographies and colonial records require critical reading and local review."
+ },
+ {
+  "id": "toposa-community-history",
+  "title": "Toposa histories: pastoral landscapes, generation sets and the eastern borderlands",
+  "period": "Precolonial history–2026",
+  "region": "Kapoeta and Greater Kapoeta, Eastern Equatoria, South Sudan",
+  "category": "Peoples & community histories",
+  "summary": "A history of Toposa communities, pastoral and agricultural livelihoods, generation-set institutions, drought adaptation, borderland exchange, colonial rule and modern South Sudan.",
+  "status": "Research synthesis; local histories and testimony from women, elders, youth and different Toposa sections are needed to expand it.",
+  "article_sections": [
+   [
+    "1. Toposa identity and regional setting",
+    "Toposa communities live mainly in the Kapoeta region of Eastern Equatoria, in a wider borderland connected to Turkana areas of Kenya and Nyangatom communities in Ethiopia. Toposa identity includes local sections and lineages with distinct histories. The term should not be treated as describing one centralised political organisation. The region's drylands, seasonal rivers, hills and grazing areas shape settlement, movement and relationships with neighbouring peoples."
+   ],
+   [
+    "2. Oral traditions and historical reconstruction",
+    "Toposa histories are preserved through oral accounts of ancestors, migration, livestock, settlement, conflict, alliance and the establishment of social institutions. Researchers have proposed different accounts of Toposa and neighbouring Jiye ethnogenesis, but these reconstructions remain interpretations rather than a single universally accepted origin story. Oral traditions should be recorded from named localities and narrators, compared carefully with linguistic and archival material, and presented with disagreements intact."
+   ],
+   [
+    "3. Pastoralism, cultivation and mixed livelihoods",
+    "Livestock are important to Toposa economies, social relationships and household security, but pastoralism is not the only livelihood. Cultivation, trade, gathering and other activities also contribute, with strategies varying by rainfall, security and household resources. Cattle, goats and other animals can provide food, wealth, bridewealth, exchange and compensation. Their importance is embedded in social relations, not merely measured as economic property."
+   ],
+   [
+    "4. Generation sets and age organisation",
+    "Ethnographic research documents Toposa generation-set and age-set institutions that organise responsibilities, identity and relations between generations. Harald Müller-Dempf's study argues that the system has been deliberately reconfigured during periods of stress, including after a severe drought remembered in historical accounts. This is an important reminder that social institutions are adaptive and politically negotiated, not timeless customs operating automatically."
+   ],
+   [
+    "5. Drought, ecology and adaptation",
+    "Rainfall variability and drought have repeatedly affected pasture, water, livestock health and food security in the Kapoeta region. Communities have developed strategies involving movement, negotiated access to resources, herd management, cultivation and social support. A severe drought may reshape not only livelihoods but also institutions and political relationships. Specific climate claims require dated environmental evidence and local testimony rather than assumptions based on the general label of a dryland environment."
+   ],
+   [
+    "6. Marriage, kinship and household life",
+    "Kinship and marriage connect families across settlements and help structure obligations, alliances and access to resources. Livestock may be involved in bridewealth and compensation, but practices differ between families and historical periods. Women's work and authority are essential to household economies and social continuity, yet older ethnographies often give them less attention than male elders and cattle institutions. A fuller history must document women's own accounts of marriage, farming, trade, care and decision-making."
+   ],
+   [
+    "7. Relations with Jiye and other neighbours",
+    "Toposa history is closely connected with the histories of Jiye, Nyangatom, Turkana, Murle, Didinga and other neighbouring communities. These relationships have included exchange, intermarriage, negotiated access to grazing and water, alliance and conflict. Political borders have not erased older connections. Accounts of violence should identify specific events and actors and should never portray whole communities as naturally hostile."
+   ],
+   [
+    "8. Trade and nineteenth-century external pressure",
+    "Nineteenth-century commercial and military expansion in the wider region brought new trade routes, firearms and coercive networks into parts of southern Sudan and neighbouring territories. The precise effects on different Toposa sections need careful local reconstruction. Historical accounts should distinguish direct encounters from broader regional developments and avoid assuming that every community experienced the same pattern of slave raiding, trade or state penetration."
+   ],
+   [
+    "9. The Toposa Question, 1912–1927",
+    "Robert O. Collins's study of the 'Toposa Question' examines colonial correspondence and the challenges officials faced in their attempts to extend administration into the region between 1912 and 1927. The title reflects the language of colonial administration, not a problem inherent in Toposa society. The records reveal how officials interpreted mobility, local authority and frontier relations through the priorities of the colonial state. They should be read as evidence of government thinking as well as evidence about Toposa history."
+   ],
+   [
+    "10. Condominium administration and local authority",
+    "Anglo-Egyptian rule sought to govern Eastern Equatoria through district officers, chiefs and administrative boundaries. In remote borderland areas, government reach was uneven and depended on negotiation, coercion and local intermediaries. Colonial descriptions sometimes presented communities as isolated or resistant without adequately explaining their own political priorities. Toposa people responded to government initiatives in varied ways, including negotiation, avoidance, trade and adaptation."
+   ],
+   [
+    "11. Independence, civil wars and borderland change",
+    "Sudanese independence in 1956 and the subsequent civil wars affected Toposa communities through military activity, displacement, arms circulation and changing state presence. Cross-border ties with Kenya and Ethiopia remained important for trade, family relations and movement. Conflict should be understood in relation to political decisions, insecurity and competition over resources, not as an expression of an allegedly unchanging pastoral culture."
+   ],
+   [
+    "12. Toposa in independent South Sudan",
+    "Since 2011, Toposa communities have participated in the institutions and politics of South Sudan while facing challenges involving roads, education, health services, livestock health, markets, water and security. Administrative boundaries and local government have altered how communities interact with the state. Local experiences differ, and the views of women, youth, herders, cultivators and traders should all be represented."
+   ],
+   [
+    "13. Cultural life and historical memory",
+    "Toposa language, songs, praise poetry, cattle names, oral narratives, dress, craft, food and knowledge of land and water are central to cultural life. These forms of knowledge carry history across generations. Documentation should be undertaken with fluent speakers and cultural custodians, with attention to variation between sections and to the rights of people whose knowledge is recorded."
+   ],
+   [
+    "14. A living and changing history",
+    "Toposa history is not only a story of cattle, drought or conflict. It is also a history of institutions, political reasoning, exchange, family life, creativity and adaptation. Future research should document village histories, the experiences of women and young people, the changing generation-set system, cross-border networks and the effects of modern infrastructure and climate pressures. This chapter is a foundation for that community-led work."
+   ]
+  ],
+  "source_leads": [
+   {
+    "name": "Harald Müller-Dempf, The Ngibokoi Dilemma: generation-sets and social system engineering in times of stress – an example from the Toposa of Southern Sudan (2009)",
+    "url": "https://www.eth.mpg.de/pubs/wps/pdf/mpi-eth-working-paper-0106.pdf"
+   },
+   {
+    "name": "Robert O. Collins, The Toposa Question, 1912–1927, Northeast African Studies 3(3) (1981–82)",
+    "url": "https://e1ba95f2-e032-4f25-9fbc-d2dc18e6170c.filesusr.com/ugd/aabe60_e421ae7dd9f74348a73e252c0c1f8fa5.pdf"
+   },
+   {
+    "name": "Gustaaf Verswijver, research on Jiye and Toposa ethnogenesis, social organisation and subsistence",
+    "url": "https://africamuseum.academia.edu/Departments/SectionofEthnography/Documents"
+   },
+   {
+    "name": "Øystein H. Rolandsen and M. W. Daly, A History of South Sudan: From Slavery to Independence, chapter on the peoples of South Sudan",
+    "url": "https://www.cambridge.org/core/books/history-of-south-sudan/"
+   }
+  ],
+  "note": "Toposa society is internally diverse and its institutions have changed over time. The chapter avoids treating pastoralism or conflict as an unchanging ethnic essence."
+ },
+ {
+  "id": "baale-kachipo-community-history",
+  "title": "Baale (Kachipo) histories: Boma Plateau, borderland communities and land",
+  "period": "Precolonial history–2026",
+  "region": "Boma Plateau and eastern South Sudan–western Ethiopia borderlands",
+  "category": "Peoples & community histories",
+  "summary": "A history of Baale communities, often labelled Kachipo in outside sources, their language and settlement, relations with Murle and Suri neighbours, colonial borders, land and contemporary identity.",
+  "status": "Introductory research synthesis; naming is contested across sources and must be reviewed with Baale community members.",
+  "article_sections": [
+   [
+    "1. Names and self-identification",
+    "Baale communities are often labelled Kachipo in external writing and are sometimes grouped with Suri or Surma populations. These labels are not interchangeable in every context. Research on the Boma Plateau describes Suri-Kachipo communities and notes that Baale/Kachipo people have cross-border connections. The name used by a community member for themselves should take precedence over an outside classification. This chapter uses Baale (Kachipo) to make the naming issue visible rather than to settle it from outside."
+   ],
+   [
+    "2. Boma Plateau and the eastern borderlands",
+    "The Boma Plateau and surrounding hills form a distinctive ecological and political landscape in eastern South Sudan. Settlements, fields, grazing areas and routes connect the plateau with lower areas and communities across the Ethiopian border. The region has long been inhabited by people with overlapping but distinct claims to place. Modern administrative boundaries do not capture all the histories of movement, intermarriage, exchange and land use that shape the region."
+   ],
+   [
+    "3. Language, oral history and identity",
+    "Baale language and oral histories are essential to understanding community identity. Published descriptions are limited and sometimes classify people through neighbouring languages or externally imposed categories. Oral accounts of ancestors, settlement and relations with neighbours should be collected from different Baale localities and generations. Where accounts disagree, the archive should preserve those differences. Linguistic similarity or bilingualism does not by itself prove that two communities share one identity."
+   ],
+   [
+    "4. Settlement and livelihoods",
+    "Research on the Boma region describes agricultural livelihoods among Suri-Kachipo communities, alongside other forms of subsistence and exchange. Local economies are shaped by rainfall, soils, livestock, access to markets and security. It is important not to generalise from one settlement to all Baale communities. Women's agricultural knowledge, food processing, household economies and local trade deserve particular attention in future research."
+   ],
+   [
+    "5. Relations with Murle and neighbouring peoples",
+    "Baale/Kachipo histories are closely connected with Murle, Jie, Suri and other neighbouring communities. Research records both conflict and friendly alliances, including intermarriage and shared family connections. The same landscape can carry different ancestral claims, and those claims may become politically important when administrative boundaries or government resources are contested. Relationships should be described through specific local histories, not as permanent ethnic antagonisms."
+   ],
+   [
+    "6. Colonial rule and border formation",
+    "The expansion of colonial administration in the region divided communities across modern state borders and altered access to trade, movement, education and local authority. The historical record for Baale communities is relatively sparse compared with some larger populations. Colonial documents should be treated cautiously because officials often recorded people according to administrative needs rather than their own identities. Further work in Ethiopian and South Sudanese archives is needed."
+   ],
+   [
+    "7. Boma, land and political claims",
+    "The Boma Plateau has become a focus of debates about ancestral belonging, local administration and access to state resources. Scholarship on the region shows that claims linking people, place and culture are historically produced and politically consequential; they should not be treated as self-evident facts. A responsible history must record different community perspectives, identify the period and context of each claim, and avoid declaring one group's account the only legitimate history."
+   ],
+   [
+    "8. War and displacement",
+    "Armed conflict in eastern South Sudan has affected the Boma area and relationships among communities. The effects include insecurity, movement, disrupted cultivation and changes in access to services. Conflict involving particular armed groups must not be attributed to all members of an ethnic community. Testimony from civilians, including women and displaced families, is necessary to document how violence and displacement changed everyday life."
+   ],
+   [
+    "9. Contemporary identity and community life",
+    "Baale/Kachipo people maintain social, linguistic and family relationships that cross modern borders. Contemporary identity is shaped by local institutions, education, religion, state administration and relations with neighbouring communities. Community members may choose different names or affiliations in different settings; these choices should be documented respectfully rather than treated as inconsistency."
+   ],
+   [
+    "10. Building a Baale-led historical record",
+    "A fuller history requires Baale-language recordings, village and family histories, oral accounts of land and migration, documentation of women's work and cultural knowledge, and carefully attributed photographs and maps. Researchers should explain how names are used and seek community review before publication. The purpose of this chapter is to create a starting point, not to claim that a short external literature can represent the full history of Baale people."
+   ]
+  ],
+  "source_leads": [
+   {
+    "name": "Camilla da Costa, ethnographic research on Boma, ancestral claims and Suri-Kachipo/Murle relations (SOAS thesis)",
+    "url": "https://eprints.soas.ac.uk/26509/1/4411_da%20Costa.pdf"
+   },
+   {
+    "name": "Mursi Online, Suri (Chai) and Baale/Kachipo neighbouring communities, with discussion of self-names and cross-border movement",
+    "url": "https://www.mursi.org/neighbours/suri-chai"
+   },
+   {
+    "name": "Øystein H. Rolandsen and M. W. Daly, A History of South Sudan: From Slavery to Independence, chapter on the peoples of South Sudan",
+    "url": "https://www.cambridge.org/core/books/history-of-south-sudan/"
+   }
+  ],
+  "note": "Kachipo is an external label in some sources; Baale, Suri and Chai should not be treated as synonyms. Local self-identification and community review are essential."
+ },
+ {
+  "id": "maban-community-history",
+  "title": "Maban histories: Upper Nile communities, seasonal landscapes and borderland change",
+  "period": "Precolonial history–2026",
+  "region": "Maban County and northern Upper Nile, South Sudan",
+  "category": "Peoples & community histories",
+  "summary": "A history of Maban communities and the wider Upper Nile borderland, including language and identity, seasonal livelihoods, relations with neighbouring groups, colonial administration, civil war and refugee hosting.",
+  "status": "Introductory research synthesis; the term Maban is used inconsistently and must be disaggregated through community-led local histories.",
+  "article_sections": [
+   [
+    "1. Understanding the name Maban",
+    "Maban can refer to a community and language-related identities in Upper Nile, but it is also the name of a county and wider administrative area. These uses should not be confused. The Upper Nile region contains several distinct peoples and languages, including Maban-related communities and neighbouring groups. Older classifications do not always agree, and some use broad labels that obscure local identity. This chapter therefore treats Maban as a starting point for research rather than a claim that everyone living in Maban County belongs to one ethnic group."
+   ],
+   [
+    "2. Upper Nile landscapes and settlement",
+    "The region includes seasonal rivers, wetlands, savannah, woodland and areas where water availability changes sharply through the year. These environments shape settlement, cultivation, livestock keeping, fishing, gathering and trade. Many families combine different livelihoods and adjust their movements as water and pasture change. The seasonal landscape is part of local historical knowledge and should be documented through place names, oral testimony and environmental research."
+   ],
+   [
+    "3. Language, identity and historical evidence",
+    "Maban identities and language classifications require careful treatment. Linguistic research can illuminate relationships among communities, but it cannot replace people's own accounts of belonging. Historical records are uneven and often begin with colonial administration or missionary contact. A fuller history should compare oral traditions, local language materials, archaeology, church and school records, and archival sources, while identifying the limitations of each."
+   ],
+   [
+    "4. Villages, kinship and authority",
+    "Community life has been organised through villages, families, lineages, elders and local authorities, with institutions varying between localities. Colonial and postcolonial administrations introduced or reshaped chiefship, courts and local government. These changes affected how land, disputes and representation were managed. It is important to avoid assuming that one model of authority describes all communities in the county."
+   ],
+   [
+    "5. Farming, livestock and seasonal movement",
+    "Published research describes Maban households as combining cultivation and livestock keeping, with crops and animals serving different roles in food security, exchange, marriage and emergency needs. Seasonal movement can include temporary residence near water sources during the dry period. Such practices are adaptations to environmental conditions, not signs of a lack of settled community life. Local knowledge about soils, water, crops and animal health is an important historical resource."
+   ],
+   [
+    "6. Relations with neighbours and mobile groups",
+    "Maban communities have interacted with neighbouring Upper Nile peoples and with pastoral groups moving across the wider region. Shared wells, markets, grazing areas and seasonal routes can support cooperation as well as produce disputes. Relations with traders and mobile herders have changed over time. Accounts should document local agreements and practices rather than assume that mobility inevitably leads to conflict."
+   ],
+   [
+    "7. Nineteenth-century trade and external power",
+    "The nineteenth-century expansion of Turco-Egyptian commercial and military networks affected the wider Upper Nile through trade, armed expeditions and the coercive search for ivory and enslaved people. The effects on individual Maban settlements require more local evidence. Regional history provides context, but it should not be used to invent specific events or claim that every village experienced the same pattern."
+   ],
+   [
+    "8. Colonial administration and borderland politics",
+    "Anglo-Egyptian administration extended into Upper Nile through district officers, chiefs, taxation and courts, while the Ethiopian border shaped movement and political relationships. Colonial categories sometimes grouped distinct communities into administrative units. The resulting boundaries and institutions influenced later governance, but they did not erase local identities or cross-border connections."
+   ],
+   [
+    "9. Civil war, displacement and insecurity",
+    "The second Sudanese civil war and later conflicts affected Upper Nile through displacement, military activity, disrupted agriculture and changing access to markets and services. Families experienced different trajectories of flight, return and settlement. A complete Maban history must include accounts from people who stayed, those who fled and those who returned, while attributing responsibility for abuses to specific forces and actors."
+   ],
+   [
+    "10. Refugee hosting and the Maban region after 2011",
+    "From 2011 onward, conflict in Sudan's Blue Nile State drove large numbers of refugees into Maban County. The arrival of displaced families and livestock changed local service demands, land use and humanitarian priorities. Research on refugee-host relations records both the pressures on resources and the economic and social relationships that developed between host and refugee communities. These events are part of the county's recent history, but refugees from Blue Nile are not themselves the same as the Maban host community."
+   ],
+   [
+    "11. Maban in independent South Sudan",
+    "Since South Sudan's independence, Maban communities have navigated county and national institutions, humanitarian operations, local markets, education and security challenges. Relations between host communities, refugees and mobile groups require careful local documentation. Population figures and descriptions of livelihoods in reports are snapshots from particular years and should not be repeated as current facts without updated data."
+   ],
+   [
+    "12. An archive shaped by local voices",
+    "A fuller Maban archive should identify the distinct communities and languages represented in the county, record local histories of villages and families, and preserve women's accounts of farming, trade, care and displacement. Interviews should be attributed with consent, and maps should reflect community-verified place names. This chapter is an introduction; it should be expanded through community review and research across the Upper Nile borderlands."
+   ]
+  ],
+  "source_leads": [
+   {
+    "name": "Øystein H. Rolandsen and M. W. Daly, A History of South Sudan: From Slavery to Independence, chapter on the peoples of South Sudan",
+    "url": "https://www.cambridge.org/core/books/history-of-south-sudan/"
+   },
+   {
+    "name": "The role of livestock in refugee-host community relations in Maban, Forced Migration Review",
+    "url": "https://www.fmreview.org/economies/hoots/"
+   },
+   {
+    "name": "South Sudan: The State and Traditional Nilotic Societies, discussion of Maban seasonal livelihoods and settlement",
+    "url": "https://shs.cairn.info/article/E_AFCO_246_0081/pdf?lang=en"
+   },
+   {
+    "name": "Environmental strategy for Sudanese refugee hosting areas in Upper Nile and Unity States, South Sudan (2013)",
+    "url": "https://www.researchgate.net/publication/301216717_Towards_an_environmental_strategy_for_Sudanese_refugee_hosting_areas_in_Upper_Nile_and_Unity_States_South_Sudan_Environmental_inception_mission_4_-_22_June_2013"
+   }
+  ],
+  "note": "Maban County is multi-community and the term Maban has multiple meanings. Refugees from Blue Nile and mobile pastoral groups are distinguished from the host communities."
+ }
+
 ]
