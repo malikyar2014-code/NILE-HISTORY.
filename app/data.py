@@ -2270,7 +2270,7 @@ ARTICLES = [
    }
   ],
   "note": "This chapter explicitly rejects ethnic stereotyping. Murle people are not collectively responsible for violence; events must be attributed to specific actors and supported by evidence."
- }
+ },
 
 
 
