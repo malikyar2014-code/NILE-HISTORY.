@@ -32,6 +32,59 @@ def articles(q: str = Query(default="", max_length=100), category: str = ""):
         ).casefold()]
     return {"count": len(results), "items": results}
 
+@app.get("/api/editorial/quality")
+def editorial_quality():
+    """Read-only editorial audit for the static article library.
+
+    This reports metadata completeness only; it does not certify that historical
+    claims or cited sources have been independently verified.
+    """
+    from collections import Counter
+
+    categories = Counter()
+    statuses = Counter()
+    needs_review = []
+    source_lead_total = 0
+    text_total = 0
+
+    for item in ARTICLES:
+        category = item.get("category") or "Uncategorised"
+        categories[category] += 1
+        status = item.get("status") or "Unreviewed"
+        statuses[status] += 1
+        leads = item.get("source_leads") or []
+        has_text = bool(item.get("article_text") or item.get("article_sections"))
+        source_lead_total += bool(leads)
+        text_total += has_text
+
+        missing = []
+        if not leads:
+            missing.append("Add source leads")
+        if not has_text:
+            missing.append("Add full article text")
+        if not item.get("status"):
+            missing.append("Set editorial status")
+        if missing:
+            needs_review.append({
+                "id": item.get("id"),
+                "title": item.get("title", "Untitled"),
+                "missing": missing
+            })
+
+    total = len(ARTICLES)
+    return {
+        "scope": "Static article metadata audit",
+        "total_articles": total,
+        "articles_with_source_leads": source_lead_total,
+        "articles_with_reading_text": text_total,
+        "articles_needing_metadata_attention": len(needs_review),
+        "categories": dict(sorted(categories.items())),
+        "editorial_statuses": dict(sorted(statuses.items())),
+        "needs_attention": needs_review[:100],
+        "notice": "Source leads are research starting points, not proof that every claim has been verified. Editorial review is still required."
+    }
+
+
 @app.get("/api/articles/{article_id}")
 def article(article_id: str):
     for item in ARTICLES:
