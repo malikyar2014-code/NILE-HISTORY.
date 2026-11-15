@@ -245,7 +245,7 @@ if(globalInput){
  const main=document.querySelector('main');
  const menu=document.getElementById('mainMenu');
  if(!main||!menu)return;
- const pageIds=['home','explore','digital-library','historical-books','research-collections','timeline','research-standard'];
+ const pageIds=['home','saved-library','explore','digital-library','historical-books','research-collections','timeline','editorial-dashboard','research-standard'];
  const sections=pageIds.map(id=>document.getElementById(id)).filter(Boolean);
  const home=document.getElementById('home');
  const promise=document.querySelector('.promise');
@@ -280,6 +280,21 @@ if(globalInput){
 })();
 
  
+function readLocalList(key){try{const value=JSON.parse(localStorage.getItem(key)||'[]');return Array.isArray(value)?value:[]}catch(e){return[]}}
+function renderSavedLibrary(){
+ const recentNode=document.getElementById('continueReadingList');
+ const savedNode=document.getElementById('bookmarkedArticleList');
+ if(!recentNode||!savedNode)return;
+ const recent=readLocalList('nileRecentlyRead');
+ const saved=readLocalList('nileBookmarks');
+ const card=(item,isSaved)=>'<article class="saved-item"><div><b>'+esc(item.title||'Untitled article')+'</b><small>'+esc(item.period||'Historical article')+'</small><div class="saved-progress"><span style="width:'+Math.max(0,Math.min(100,Number(item.progress)||0))+'%"></span></div><small>'+(Number(item.progress)||0)+'% read</small></div><div class="saved-actions"><button type="button" data-open-article="'+esc(item.id)+'">'+(Number(item.progress)>0?'Continue':'Read article')+'</button>'+(isSaved?'<button type="button" class="saved-remove" data-remove-bookmark="'+esc(item.id)+'" aria-label="Remove bookmark">Remove</button>':'')+'</div></article>';
+ recentNode.innerHTML=recent.length?recent.map(item=>card(item,false)).join(''):'<p>No reading history yet. Open a history article and it will appear here.</p>';
+ savedNode.innerHTML=saved.length?saved.map(item=>card(item,true)).join(''):'<p>No bookmarks yet. Save an article while reading to keep it here.</p>';
+ document.querySelectorAll('[data-open-article]').forEach(button=>button.addEventListener('click',()=>show(button.dataset.openArticle)));
+ document.querySelectorAll('[data-remove-bookmark]').forEach(button=>button.addEventListener('click',()=>{
+  const id=button.dataset.removeBookmark;localStorage.setItem('nileBookmarks',JSON.stringify(readLocalList('nileBookmarks').filter(item=>item.id!==id)));renderSavedLibrary();
+ }));
+}
 async function loadEditorialDashboard(){
  const status=document.getElementById('editorialStatus');
  const metrics=document.getElementById('editorialMetrics');
@@ -306,3 +321,4 @@ async function loadEditorialDashboard(){
  }
 }
 loadEditorialDashboard();
+renderSavedLibrary();
